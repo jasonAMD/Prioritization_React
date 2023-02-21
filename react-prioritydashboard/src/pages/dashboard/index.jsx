@@ -2,8 +2,21 @@ import React from 'react'
 import { Box, Typography, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
 import { mockTransactions } from '../../data/mockData';
-import { MultipleSelectChip } from '../../components/multiSelect'
-import { DiscreteSlider } from '../../components/valueSlider'
+import { MultipleSelectChip } from '../../components/multiSelect';
+import { DiscreteSlider } from '../../components/valueSlider/valueSlider';
+import { 
+  redditSubscriber,
+  twitterFollower,
+  steamFollower,
+  youtubeViews,
+  benchmarkUtilization,
+  metacriticScore,
+  releaseDate,
+  benchmarkUtilizationTrend,
+  socialMediaGrowthAcceleration,
+  athenaPlayerBase,
+  twitchViewers
+ } from '../../components/valueSlider/sliderInfo';
 
 const Dashboard = () => {
   const theme = useTheme();
@@ -14,10 +27,10 @@ const Dashboard = () => {
       margin="auto"
       width="100%"
       height="100%"
-      backgroundColor={colors.blueAccent[700]}
+      // backgroundColor={colors.blueAccent[700]}
       display="grid"
       gridTemplateColumns="repeat(12, 1fr)"
-      gridAutoRows="140px"
+      gridAutoRows="150px"
       gap="2px"
       >
       {/* Utilizatizes Box */}
@@ -25,7 +38,7 @@ const Dashboard = () => {
         gridColumn="span 8"
         gridRow="span 1"
         m='10px'
-        backgroundColor={colors.blueAccent[800]}
+        backgroundColor={colors.primary[400]}
       >
         <MultipleSelectChip />
         
@@ -87,17 +100,26 @@ const Dashboard = () => {
         gridColumn="span 4"
         gridRow="span 3"
         m='10px'
-        backgroundColor={colors.blueAccent[800]}
+        backgroundColor={colors.primary[400]}
+        display="flex"
+        flexDirection="column"
+        justifyContent="space-between"
       >
         <Typography
-          variant="h5"
+          variant="h4"
           textAlign="center"
           color={colors.redAccent[100]}
-          m='5px'
+          p='4px 0 10px 0'
+          fontWeight="bold"
         >
           Amplitude Scoring Box
         </Typography>
-        <DiscreteSlider />
+        <DiscreteSlider {...redditSubscriber}/>
+        <DiscreteSlider {...twitterFollower}/>
+        <DiscreteSlider {...steamFollower}/>
+        <DiscreteSlider {...youtubeViews}/>
+        <DiscreteSlider {...benchmarkUtilization}/>
+        <DiscreteSlider {...metacriticScore}/>
         
       </Box>
       {/* Longevity Scoring box  */}
@@ -105,8 +127,25 @@ const Dashboard = () => {
         gridColumn="span 4"
         gridRow="span 3"
         m='10px'
-        backgroundColor={colors.blueAccent[800]}
+        backgroundColor={colors.primary[400]}
+        display="flex"
+        flexDirection="column"
+        justifyContent="space-between"
       >
+        <Typography
+          variant="h4"
+          textAlign="center"
+          color={colors.redAccent[100]}
+          p='4px 0 10px 0'
+          fontWeight="bold"
+        >
+          Longevity Scoring Box
+        </Typography>
+        <DiscreteSlider {...releaseDate}/>
+        <DiscreteSlider {...benchmarkUtilizationTrend}/>
+        <DiscreteSlider {...socialMediaGrowthAcceleration}/>
+        <DiscreteSlider {...athenaPlayerBase}/>
+        <DiscreteSlider {...twitchViewers}/>
       </Box>
         
     </Box>

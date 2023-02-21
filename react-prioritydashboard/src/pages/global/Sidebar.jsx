@@ -33,7 +33,7 @@ const Item = ({ title, to, icon, selected, setSelected }) => {
 const Sidebar = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
-  const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isCollapsed, setIsCollapsed] = useState(true);
   const [selected, setSelected] = useState("Dashboard");
 
   return (
@@ -55,6 +55,7 @@ const Sidebar = () => {
           color: "#6870fa !important",
         },
       }}
+      height='730px'
     >
       <ProSidebar collapsed={isCollapsed}>
         <Menu iconShape="square">
