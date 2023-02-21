@@ -1,42 +1,51 @@
-import React from 'react'
 import { Box, Typography, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
-import { mockTransactions } from '../../data/mockData';
-import { MultipleSelectChip } from '../../components/multiSelect'
-import { DiscreteSlider } from '../../components/valueSlider'
+import { mockTransactions } from "../../data/mockData";
 
 const Dashboard = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
 
   return (
-    <Box
-      margin="auto"
-      width="100%"
-      height="100%"
-      backgroundColor={colors.blueAccent[700]}
-      display="grid"
-      gridTemplateColumns="repeat(12, 1fr)"
-      gridAutoRows="140px"
-      gap="2px"
-      >
-      {/* Utilizatizes Box */}
+    <Box m="15px">
+
+      {/* GRID & CHARTS */}
       <Box
-        gridColumn="span 8"
-        gridRow="span 1"
-        m='10px'
-        backgroundColor={colors.blueAccent[800]}
+        display="grid"
+        gridTemplateColumns="repeat(12, 1fr)"
+        gridAutoRows="140px"
+        gap="20px"
       >
-        <MultipleSelectChip />
-        
-      </Box>
-      {/* List box */}
-      <Box
+
+        {/* ROW 2 */}
+        <Box
+          gridColumn="span 8"
+          gridRow="span 2"
+          backgroundColor={colors.primary[400]}
+        >
+          <Box
+            mt="25px"
+            p="0 30px"
+            display="flex "
+            justifyContent="space-between"
+            alignItems="center"
+          >
+            <Box>
+              <Typography
+                variant="h5"
+                fontWeight="600"
+                color={colors.grey[100]}
+              >
+                Amplitude Scoring Weights
+              </Typography>
+            </Box>
+          </Box>
+        </Box>
+        <Box
           gridColumn="span 4"
           gridRow="span 4"
           backgroundColor={colors.primary[400]}
           overflow="auto"
-          margin="10px"
         >
           <Box
             display="flex"
@@ -82,35 +91,33 @@ const Dashboard = () => {
             </Box>
           ))}
         </Box>
-      {/* Amplitude Scoring Box */}
-      <Box
-        gridColumn="span 4"
-        gridRow="span 3"
-        m='10px'
-        backgroundColor={colors.blueAccent[800]}
-      >
-        <Typography
-          variant="h5"
-          textAlign="center"
-          color={colors.redAccent[100]}
-          m='5px'
-        >
-          Amplitude Scoring Box
-        </Typography>
-        <DiscreteSlider />
-        
-      </Box>
-      {/* Longevity Scoring box  */}
         <Box
-        gridColumn="span 4"
-        gridRow="span 3"
-        m='10px'
-        backgroundColor={colors.blueAccent[800]}
-      >
-      </Box>
-        
-    </Box>
-  )
-}
+          gridColumn="span 8"
+          gridRow="span 2"
+          backgroundColor={colors.primary[400]}
+        >
+          <Box
+            mt="25px"
+            p="0 30px"
+            display="flex "
+            justifyContent="space-between"
+            alignItems="center"
+          >
+            <Box>
+              <Typography
+                variant="h5"
+                fontWeight="600"
+                color={colors.grey[100]}
+              >
+                Amplitude Scoring Weights
+              </Typography>
+            </Box>
+          </Box>
+        </Box>
 
-export default Dashboard
+      </Box>
+    </Box>
+  );
+};
+
+export default Dashboard;
