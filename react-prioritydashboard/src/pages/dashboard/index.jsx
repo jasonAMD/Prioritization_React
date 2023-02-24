@@ -1,9 +1,11 @@
 import React from 'react'
 import { Box, Typography, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
-import { mockTransactions } from '../../data/mockData';
+import rankinglist from '../../data/rankinglist.json'
 import { MultipleSelectChip } from '../../components/multiSelect';
 import { DiscreteSlider } from '../../components/valueSlider/valueSlider';
+import { SelectVariants } from '../../components/singleSelect';
+import { ListLengthSlider } from '../../components/valueSlider/listLengthSlider'
 import { 
   redditSubscriber,
   twitterFollower,
@@ -30,76 +32,160 @@ const Dashboard = () => {
       // backgroundColor={colors.blueAccent[700]}
       display="grid"
       gridTemplateColumns="repeat(12, 1fr)"
-      gridAutoRows="150px"
+      gridAutoRows="85px"
       gap="2px"
       >
       {/* Utilizatizes Box */}
       <Box
-        gridColumn="span 8"
-        gridRow="span 1"
-        m='10px'
+        gridColumn="span 3"
+        gridRow="span 2"
         backgroundColor={colors.primary[400]}
+        m='5px'
       >
-        <MultipleSelectChip />
-        
+      </Box>
+      <Box
+        gridColumn="span 5"
+        gridRow="span 1"
+        backgroundColor={colors.primary[400]}
+        overflow="auto"
+        margin="5px"
+        >
+        <Box
+          display="grid"
+          gridTemplateColumns="repeat(8, 1fr)"
+          gridColumn="span 5"
+          gridRow="span 2"
+          m='auto'
+          backgroundColor={colors.primary[400]}
+        >
+          <Box
+            gridColumn="span 8"
+            m='0px 10px 0px 0px'
+          >
+            <ListLengthSlider />
+          </Box>
+        </Box>
       </Box>
       {/* List box */}
       <Box
           gridColumn="span 4"
-          gridRow="span 4"
+          gridRow="span 8"
           backgroundColor={colors.primary[400]}
           overflow="auto"
-          margin="10px"
+          margin="5px"
         >
           <Box
-            display="flex"
+            display="grid"
+            gridTemplateColumns="repeat(6, 1fr)"
             justifyContent="space-between"
             alignItems="center"
             borderBottom={`4px solid ${colors.primary[500]}`}
             colors={colors.grey[100]}
             p="15px"
           >
-            <Typography color={colors.grey[100]} variant="h5" fontWeight="600">
-              Priority List
-            </Typography>
-          </Box>
-          {mockTransactions.map((transaction, i) => (
             <Box
-              key={`${transaction.txId}-${i}`}
+              gridColumn="span 4"  
+            >
+              <Typography color={colors.grey[100]} variant="h5" fontWeight="600">
+                Priority List
+              </Typography>
+            </Box>
+            <Box
               display="flex"
+              gridColumn="span 2"
+              justifyContent="space-between"
+            >
+              <Typography color={colors.grey[100]} variant="h6" fontWeight="600">
+                Rank
+              </Typography>
+              <Typography color={colors.grey[100]} variant="h6" fontWeight="600" width='40%'>
+                Score
+              </Typography>
+              
+            </Box>
+          </Box>
+          {rankinglist.map((GameInfo, i) => (
+            <Box
+              key={`${GameInfo.Game}-${i}`}
               justifyContent="space-between"
               alignItems="center"
               borderBottom={`4px solid ${colors.primary[500]}`}
               p="15px"
+              display="grid"
+              gridTemplateColumns="repeat(6, 1fr)"
             >
-              <Box>
+              <Box
+                gridColumn="span 4"
+              >
                 <Typography
-                  color={colors.redAccent[500]}
-                  variant="h5"
+                  color={GameInfo.Signing === "AMD" ? colors.redAccent[500] : GameInfo.Signing === "Intel" ? colors.blueAccent[500] :
+                         GameInfo.Signing === "Nvidia" ? colors.greenAccent[500] : colors.grey[200]}
+                  variant="h6"
                   fontWeight="600"
                 >
-                  {transaction.txId}
+                  {GameInfo.Game}
                 </Typography>
                 <Typography color={colors.grey[100]}>
-                  {transaction.user}
+                  {GameInfo.Signing}
                 </Typography>
               </Box>
-              <Box color={colors.grey[100]}>{transaction.date}</Box>
               <Box
-                backgroundColor={colors.redAccent[500]}
-                p="5px 10px"
-                borderRadius="4px"
+                display="flex"
+                gridColumn="span 2"
+                justifyContent="space-between"
+                p="5px"
               >
-                ${transaction.cost}
+              <Box color={colors.grey[100]}>{GameInfo.Rank}</Box>
+                <Box
+                  backgroundColor={GameInfo.Signing === "AMD" ? colors.redAccent[700] : GameInfo.Signing === "Intel" ? colors.blueAccent[700] :
+                                   GameInfo.Signing === "Nvidia" ? colors.greenAccent[700] : colors.grey[700]}
+                  height='22px'
+                  width='40%'
+                  borderRadius="4px"
+                  textAlign="center"
+                  align='center'
+                >
+                  {GameInfo.Final_score}
+                </Box>
               </Box>
             </Box>
           ))}
         </Box>
+      <Box
+          gridColumn="span 5"
+          gridRow="span 1"
+          backgroundColor={colors.primary[400]}
+          overflow="auto"
+          margin="5px"
+        >
+        <Box
+          display="grid"
+          gridTemplateColumns="repeat(8, 1fr)"
+          gridColumn="span 5"
+          gridRow="span 2"
+          m='0px 0px -18px 0px'
+          backgroundColor={colors.primary[400]}
+          gridAutoRows="60px"
+        >
+          <Box
+            // backgroundColor="red"
+            gridColumn="span 5"
+          >
+            <MultipleSelectChip />
+          </Box>
+          <Box
+            // backgroundColor="blue"
+            gridColumn="span 2"
+          >
+            <SelectVariants />
+          </Box>
+        </Box>
+      </Box>
       {/* Amplitude Scoring Box */}
       <Box
         gridColumn="span 4"
-        gridRow="span 3"
-        m='10px'
+        gridRow="span 6"
+        m='5px'
         backgroundColor={colors.primary[400]}
         display="flex"
         flexDirection="column"
@@ -125,8 +211,8 @@ const Dashboard = () => {
       {/* Longevity Scoring box  */}
         <Box
         gridColumn="span 4"
-        gridRow="span 3"
-        m='10px'
+        gridRow="span 6"
+        m='5px'
         backgroundColor={colors.primary[400]}
         display="flex"
         flexDirection="column"

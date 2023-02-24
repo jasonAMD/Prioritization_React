@@ -129,3 +129,15 @@ export const twitchViewers = {
     img: require('../assets/twitch-logo.svg').default,
     alt: 'twitch-logo'
 }
+
+export const lengthList = {
+    name: "",
+    colorType: "secondary",
+    defaultValue: 3,
+    step: 1,
+    marks: true,
+    min: 0,
+    max: 5,
+    img: require('../assets/filler.svg').default,
+    alt: 'twitch-logo'
+}

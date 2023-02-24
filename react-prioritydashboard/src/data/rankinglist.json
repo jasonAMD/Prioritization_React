@@ -1,0 +1,2438 @@
+[
+    {
+        "Rank": "1",
+        "Game": "Elden Ring",
+        "Final_score": "72.96",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "2",
+        "Game": "Forza Horizon 5",
+        "Final_score": "70.43",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "3",
+        "Game": "Minecraft",
+        "Final_score": "66.06",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "4",
+        "Game": "Cyberpunk 2077",
+        "Final_score": "65.41",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "5",
+        "Game": "Apex Legends",
+        "Final_score": "63.83",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "6",
+        "Game": "Grand Theft Auto V",
+        "Final_score": "61.27",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "7",
+        "Game": "HITMAN 3",
+        "Final_score": "61.21",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "8",
+        "Game": "Marvel's Spider-man Remastered",
+        "Final_score": "61.04",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "9",
+        "Game": "Dying Light 2",
+        "Final_score": "59.93",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "10",
+        "Game": "Counter-Strike: Global Offensive",
+        "Final_score": "58.96",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "11",
+        "Game": "Stray",
+        "Final_score": "57.71",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "12",
+        "Game": "Red Dead Redemption 2",
+        "Final_score": "55.32",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "13",
+        "Game": "Halo Infinite",
+        "Final_score": "53.17",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "14",
+        "Game": "Fortnite",
+        "Final_score": "52.62",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "15",
+        "Game": "Destiny 2",
+        "Final_score": "52.51",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "16",
+        "Game": "Grounded",
+        "Final_score": "52.41",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "17",
+        "Game": "A Plague Tale: Requiem",
+        "Final_score": "46.29",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "18",
+        "Game": "Valorant",
+        "Final_score": "46.25",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "19",
+        "Game": "God of War",
+        "Final_score": "44.97",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "20",
+        "Game": "Dota 2",
+        "Final_score": "42.8",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "21",
+        "Game": "Genshin Impact",
+        "Final_score": "42.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "22",
+        "Game": "World of Warcraft",
+        "Final_score": "42.43",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "23",
+        "Game": "Resident Evil Village",
+        "Final_score": "42.09",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "24",
+        "Game": "Battlefield 2042",
+        "Final_score": "41.95",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "25",
+        "Game": "Assassin's Creed Valhalla",
+        "Final_score": "39.19",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "26",
+        "Game": "New World",
+        "Final_score": "38.31",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "27",
+        "Game": "League of Legends",
+        "Final_score": "37.67",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "28",
+        "Game": "Forza Horizon 4",
+        "Final_score": "37.44",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "29",
+        "Game": "Borderlands 3",
+        "Final_score": "35.68",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "30",
+        "Game": "Overwatch",
+        "Final_score": "35.49",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "31",
+        "Game": "Rocket League\u00ae",
+        "Final_score": "35.09",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "32",
+        "Game": "Dead by Daylight",
+        "Final_score": "34.02",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "33",
+        "Game": "Slime Rancher 2",
+        "Final_score": "33.65",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "34",
+        "Game": "Saints Row",
+        "Final_score": "33.27",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "35",
+        "Game": "Horizon Zero Dawn",
+        "Final_score": "33.26",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "36",
+        "Game": "Escape from Tarkov",
+        "Final_score": "32.07",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "37",
+        "Game": "Far Cry 6",
+        "Final_score": "30.83",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "38",
+        "Game": "Scorn",
+        "Final_score": "30.22",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "39",
+        "Game": "Hunt: Showdown",
+        "Final_score": "30.12",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "40",
+        "Game": "Rust",
+        "Final_score": "30",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "41",
+        "Game": "Deathloop",
+        "Final_score": "29.94",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "42",
+        "Game": "Total War: Three Kingdoms",
+        "Final_score": "29.72",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "43",
+        "Game": "WWE 2K22",
+        "Final_score": "29.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "44",
+        "Game": "Tom Clancy's Rainbow Six Siege",
+        "Final_score": "29.36",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "45",
+        "Game": "Shadow of the Tomb Raider",
+        "Final_score": "29.21",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "46",
+        "Game": "The Witcher 3: Wild Hunt",
+        "Final_score": "29.06",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "47",
+        "Game": "FIFA 22",
+        "Final_score": "28.33",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "48",
+        "Game": "War Thunder",
+        "Final_score": "27.95",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "49",
+        "Game": "Team Fortress 2",
+        "Final_score": "27.91",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "50",
+        "Game": "Naraka Bladepoint",
+        "Final_score": "27.83",
+        "Signing": "Intel/Nvidia"
+    },
+    {
+        "Rank": "51",
+        "Game": "Among Us",
+        "Final_score": "27.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "52",
+        "Game": "Call of Duty: Modern Warfare",
+        "Final_score": "27.56",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "53",
+        "Game": "The Division 2",
+        "Final_score": "27.24",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "54",
+        "Game": "PC Building Simulator 2",
+        "Final_score": "27.02",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "55",
+        "Game": "Metro Exodus",
+        "Final_score": "26.82",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "56",
+        "Game": "Garry's Mod",
+        "Final_score": "26.24",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "57",
+        "Game": "Phasmophobia",
+        "Final_score": "26.21",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "58",
+        "Game": "Sonic Frontiers",
+        "Final_score": "26.02",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "59",
+        "Game": "Gears 5",
+        "Final_score": "25.68",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "60",
+        "Game": "FINAL FANTASY XIV Online",
+        "Final_score": "25.63",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "61",
+        "Game": "Roblox",
+        "Final_score": "25.1",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "62",
+        "Game": "Farthest Frontier",
+        "Final_score": "24.98",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "63",
+        "Game": "Far Cry 5",
+        "Final_score": "24.97",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "64",
+        "Game": "The Forest",
+        "Final_score": "24.92",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "65",
+        "Game": "Left 4 Dead 2",
+        "Final_score": "24.83",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "66",
+        "Game": "Battlefield V",
+        "Final_score": "24.71",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "67",
+        "Game": "Age of Empires IV",
+        "Final_score": "24.5",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "68",
+        "Game": "Assassin's Creed Odyssey",
+        "Final_score": "23.93",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "69",
+        "Game": "Death Stranding",
+        "Final_score": "23.73",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "70",
+        "Game": "The Callisto Protocol ",
+        "Final_score": "23.57",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "71",
+        "Game": "Rainbow Six: Extraction",
+        "Final_score": "23.36",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "72",
+        "Game": "Fallout 4",
+        "Final_score": "23.2",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "73",
+        "Game": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "Final_score": "22.83",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "74",
+        "Game": "Core Keeper",
+        "Final_score": "22.55",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "75",
+        "Game": "Stardew Valley",
+        "Final_score": "22.46",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "76",
+        "Game": "Control Ultimate Edition",
+        "Final_score": "22.43",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "77",
+        "Game": "Watch Dogs: Legion",
+        "Final_score": "22.1",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "78",
+        "Game": "DayZ",
+        "Final_score": "21.85",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "79",
+        "Game": "Hearts of Iron IV",
+        "Final_score": "21.56",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "80",
+        "Game": "The Quarry",
+        "Final_score": "21.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "81",
+        "Game": "Ready or Not",
+        "Final_score": "21.05",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "82",
+        "Game": "Sea of Thieves",
+        "Final_score": "20.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "83",
+        "Game": "Warframe",
+        "Final_score": "20.46",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "84",
+        "Game": "The Cycle",
+        "Final_score": "20.08",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "85",
+        "Game": "Resident Evil 3 ",
+        "Final_score": "19.94",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "86",
+        "Game": "SMITE",
+        "Final_score": "19.65",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "87",
+        "Game": "Death Stranding Director's Cut",
+        "Final_score": "19.4",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "88",
+        "Game": "PUBG: BATTLEGROUNDS",
+        "Final_score": "19.31",
+        "Signing": "Intel/Nvidia"
+    },
+    {
+        "Rank": "89",
+        "Game": "DARK SOULS\u2122 III",
+        "Final_score": "18.98",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "90",
+        "Game": "Farming Simulator 22",
+        "Final_score": "18.95",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "91",
+        "Game": "Dying Light",
+        "Final_score": "18.7",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "92",
+        "Game": "Sifu",
+        "Final_score": "18.61",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "93",
+        "Game": "Thymesia",
+        "Final_score": "18.61",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "94",
+        "Game": "DOOM Eternal",
+        "Final_score": "18.51",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "95",
+        "Game": "Deep Rock Galactic",
+        "Final_score": "18.43",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "96",
+        "Game": "World of Warcraft: Shadowlands",
+        "Final_score": "18.41",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "97",
+        "Game": "eFootball\u2122 2022",
+        "Final_score": "18.34",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "98",
+        "Game": "Diablo 3",
+        "Final_score": "18.28",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "99",
+        "Game": "Tiny Tina's Wonderlands",
+        "Final_score": "18.05",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "100",
+        "Game": "Crusader Kings III",
+        "Final_score": "18.01",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "101",
+        "Game": "Evil Dead: The Game",
+        "Final_score": "17.87",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "102",
+        "Game": "Back 4 Blood",
+        "Final_score": "17.74",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "103",
+        "Game": "The Ascent",
+        "Final_score": "17.73",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "104",
+        "Game": "Hades",
+        "Final_score": "17.72",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "105",
+        "Game": "DOOM",
+        "Final_score": "17.67",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "106",
+        "Game": "The Sims\u2122 4",
+        "Final_score": "17.63",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "107",
+        "Game": "Evil Genius 2",
+        "Final_score": "17.61",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "108",
+        "Game": "Subnautica",
+        "Final_score": "17.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "109",
+        "Game": "7 Days to Die",
+        "Final_score": "17.38",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "110",
+        "Game": "Steelrising",
+        "Final_score": "17.26",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "111",
+        "Game": "VHS",
+        "Final_score": "16.95",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "112",
+        "Game": "Sniper Elite 5",
+        "Final_score": "16.91",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "113",
+        "Game": "Football Manager 2022",
+        "Final_score": "16.7",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "114",
+        "Game": "The Elder Scrolls V: Skyrim",
+        "Final_score": "16.59",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "115",
+        "Game": "Borderlands 2",
+        "Final_score": "16.52",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "116",
+        "Game": "Jurassic World Evolution 2",
+        "Final_score": "16.52",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "117",
+        "Game": "Paladins",
+        "Final_score": "16.43",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "118",
+        "Game": "Guild Wars 2",
+        "Final_score": "16.23",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "119",
+        "Game": "Cuphead",
+        "Final_score": "16.21",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "120",
+        "Game": "World of Tanks Blitz",
+        "Final_score": "16.2",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "121",
+        "Game": "Call of Duty Vanguard",
+        "Final_score": "16.17",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "122",
+        "Game": "HITMAN\u2122",
+        "Final_score": "16.16",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "123",
+        "Game": "ARK: Survival Evolved",
+        "Final_score": "16.02",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "124",
+        "Game": "Sid Meier's Civilization VI",
+        "Final_score": "16",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "125",
+        "Game": "Chernobylite",
+        "Final_score": "16",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "126",
+        "Game": "No Man's Sky",
+        "Final_score": "15.87",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "127",
+        "Game": "Two Point Campus",
+        "Final_score": "15.8",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "128",
+        "Game": "Vampire Survivors",
+        "Final_score": "15.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "129",
+        "Game": "Distant Worlds 2",
+        "Final_score": "15.77",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "130",
+        "Game": "VRChat",
+        "Final_score": "15.76",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "131",
+        "Game": "Payday 2",
+        "Final_score": "15.67",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "132",
+        "Game": "Riders Republic",
+        "Final_score": "15.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "133",
+        "Game": "Tales of Arise",
+        "Final_score": "15.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "134",
+        "Game": "Call of Duty: Black Ops Cold War",
+        "Final_score": "15.22",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "135",
+        "Game": "The DioField Chronicle",
+        "Final_score": "15.19",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "136",
+        "Game": "Path of Exile",
+        "Final_score": "15.18",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "137",
+        "Game": "Fall Guys: Ultimate Knockout",
+        "Final_score": "15.02",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "138",
+        "Game": "World of Warships",
+        "Final_score": "14.98",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "139",
+        "Game": "It Takes Two",
+        "Final_score": "14.98",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "140",
+        "Game": "Dirt 5",
+        "Final_score": "14.93",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "141",
+        "Game": "Assassin's Creed IV Black Flag",
+        "Final_score": "14.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "142",
+        "Game": "Dread Hunger",
+        "Final_score": "14.64",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "143",
+        "Game": "Squad",
+        "Final_score": "14.62",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "144",
+        "Game": "Battlefield 1 \u2122",
+        "Final_score": "14.56",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "145",
+        "Game": "Total War: Warhammer II",
+        "Final_score": "14.56",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "146",
+        "Game": "Raft",
+        "Final_score": "14.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "147",
+        "Game": "Monster Hunter: World",
+        "Final_score": "14.5",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "148",
+        "Game": "World of Warcraft: Battle for Azeroth",
+        "Final_score": "14.48",
+        "Signing": "Intel/Nvidia"
+    },
+    {
+        "Rank": "149",
+        "Game": "Factorio",
+        "Final_score": "14.46",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "150",
+        "Game": "Cities: Skylines",
+        "Final_score": "14.43",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "151",
+        "Game": "Scavengers",
+        "Final_score": "14.33",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "152",
+        "Game": "Halo: The Master Chief Collection",
+        "Final_score": "14.27",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "153",
+        "Game": "Far Cry 3",
+        "Final_score": "14.09",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "154",
+        "Game": "TEKKEN 7",
+        "Final_score": "14.01",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "155",
+        "Game": "World War Z",
+        "Final_score": "13.96",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "156",
+        "Game": "The Elder Scrolls Online",
+        "Final_score": "13.96",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "157",
+        "Game": "Resident Evil 7 Biohazard",
+        "Final_score": "13.86",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "158",
+        "Game": "Risk of Rain 2",
+        "Final_score": "13.86",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "159",
+        "Game": "NieR:Automata\u2122",
+        "Final_score": "13.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "160",
+        "Game": "Dune: Spice Wars",
+        "Final_score": "13.7",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "161",
+        "Game": "HUMANKIND\u2122",
+        "Final_score": "13.66",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "162",
+        "Game": "Europa Universalis IV",
+        "Final_score": "13.62",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "163",
+        "Game": "Assassin's Creed Unity",
+        "Final_score": "13.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "164",
+        "Game": "Star Citizen",
+        "Final_score": "13.57",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "165",
+        "Game": "Assetto Corsa",
+        "Final_score": "13.49",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "166",
+        "Game": "Sekiro\u2122: Shadows Die Twice",
+        "Final_score": "13.41",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "167",
+        "Game": "BeamNG.drive",
+        "Final_score": "13.38",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "168",
+        "Game": "Half Life",
+        "Final_score": "13.38",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "169",
+        "Game": "Assassin's Creed Origins",
+        "Final_score": "13.26",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "170",
+        "Game": "Fallout 76",
+        "Final_score": "13.25",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "171",
+        "Game": "Icarus",
+        "Final_score": "13.22",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "172",
+        "Game": "Kena: Bridge of Spirits",
+        "Final_score": "13.16",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "173",
+        "Game": "Total War: Warhammer",
+        "Final_score": "13.12",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "174",
+        "Game": "For Honor",
+        "Final_score": "13.06",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "175",
+        "Game": "Weird West",
+        "Final_score": "12.93",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "176",
+        "Game": "Marvel's Guardians of the Galaxy",
+        "Final_score": "12.92",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "177",
+        "Game": "Days Gone",
+        "Final_score": "12.9",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "178",
+        "Game": "Starcraft",
+        "Final_score": "12.87",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "179",
+        "Game": "Ghostwire Tokyo",
+        "Final_score": "12.7",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "180",
+        "Game": "Vampire: The Masquerade \u2013 Swansong",
+        "Final_score": "12.69",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "181",
+        "Game": "Satisfactory",
+        "Final_score": "12.65",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "182",
+        "Game": "F1 2020",
+        "Final_score": "12.57",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "183",
+        "Game": "Call of Duty: Black Ops",
+        "Final_score": "12.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "184",
+        "Game": "Far Cry 4",
+        "Final_score": "12.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "185",
+        "Game": "Loopmancer",
+        "Final_score": "12.54",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "186",
+        "Game": "Half-Life: Alyx",
+        "Final_score": "12.53",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "187",
+        "Game": "Stranger of Paradise: Final Fantasy Origin",
+        "Final_score": "12.5",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "188",
+        "Game": "Shredders",
+        "Final_score": "12.47",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "189",
+        "Game": "ANNO: Mutationem",
+        "Final_score": "12.46",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "190",
+        "Game": "OUTRIDERS",
+        "Final_score": "12.45",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "191",
+        "Game": "Devil May Cry 5",
+        "Final_score": "12.42",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "192",
+        "Game": "Disco Elysium",
+        "Final_score": "12.35",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "193",
+        "Game": "Atomic Heart",
+        "Final_score": "12.31",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "194",
+        "Game": "Pathfinder: Wrath of the Righteous",
+        "Final_score": "12.29",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "195",
+        "Game": "Left 4 Dead",
+        "Final_score": "12.28",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "196",
+        "Game": "HITMAN\u2122 2",
+        "Final_score": "12.16",
+        "Signing": "Intel/Nvidia"
+    },
+    {
+        "Rank": "197",
+        "Game": "World War Z: Aftermath",
+        "Final_score": "12.14",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "198",
+        "Game": "Elite Dangerous",
+        "Final_score": "12.12",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "199",
+        "Game": "Myst",
+        "Final_score": "12.1",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "200",
+        "Game": "Beat Saber",
+        "Final_score": "12.04",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "201",
+        "Game": "Divinity: Original Sin 2",
+        "Final_score": "11.97",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "202",
+        "Game": "The Elder Scrolls IV: Oblivion",
+        "Final_score": "11.94",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "203",
+        "Game": "Assassin's Creed Syndicate",
+        "Final_score": "11.92",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "204",
+        "Game": "Rise of the Tomb Raider",
+        "Final_score": "11.82",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "205",
+        "Game": "Batman: Arkham City",
+        "Final_score": "11.81",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "206",
+        "Game": "Call of Duty: WWII",
+        "Final_score": "11.81",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "207",
+        "Game": "Tom Clancy\u2019s The Division\u2122",
+        "Final_score": "11.78",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "208",
+        "Game": "Counter-Strike: Source",
+        "Final_score": "11.72",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "209",
+        "Game": "STAR WARS\u2122: The Old Republic\u2122",
+        "Final_score": "11.71",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "210",
+        "Game": "Wolfenstein: Youngblood",
+        "Final_score": "11.68",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "211",
+        "Game": "STAR WARS\u2122 Battlefront\u2122 II",
+        "Final_score": "11.66",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "212",
+        "Game": "Hell Let Loose",
+        "Final_score": "11.56",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "213",
+        "Game": "The Sims\u2122 3",
+        "Final_score": "11.55",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "214",
+        "Game": "Godfall",
+        "Final_score": "11.47",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "215",
+        "Game": "Age of Empires II: Definitive Edition",
+        "Final_score": "11.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "216",
+        "Game": "Anthem",
+        "Final_score": "11.44",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "217",
+        "Game": "Vampire: The Masquerade - Bloodhunt",
+        "Final_score": "11.42",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "218",
+        "Game": "XCOM 2",
+        "Final_score": "11.36",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "219",
+        "Game": "Arma 3",
+        "Final_score": "11.36",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "220",
+        "Game": "Midnight Ghost Hunt",
+        "Final_score": "11.35",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "221",
+        "Game": "Marvel's Spider-Man Miles Morales",
+        "Final_score": "11.34",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "222",
+        "Game": "The Planet Crafter",
+        "Final_score": "11.33",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "223",
+        "Game": "STAR WARS Jedi: Fallen Order\u2122",
+        "Final_score": "11.28",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "224",
+        "Game": "Marvel's Avengers",
+        "Final_score": "11.23",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "225",
+        "Game": "Battlefield 4\u2122",
+        "Final_score": "11.19",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "226",
+        "Game": "Call of Duty: Black Ops 4",
+        "Final_score": "11.17",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "227",
+        "Game": "Unturned",
+        "Final_score": "11.12",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "228",
+        "Game": "Crusader Kings II",
+        "Final_score": "11.05",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "229",
+        "Game": "Planet Zoo",
+        "Final_score": "11.05",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "230",
+        "Game": "Total War: ATTILA",
+        "Final_score": "11.03",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "231",
+        "Game": "The Riftbreaker",
+        "Final_score": "11.02",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "232",
+        "Game": "Metal GEAR SOLID: THE PHANTOM PAIN",
+        "Final_score": "11.01",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "233",
+        "Game": "Enlisted",
+        "Final_score": "11",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "234",
+        "Game": "Watch_Dogs 2",
+        "Final_score": "10.95",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "235",
+        "Game": "Syberia - The World Before",
+        "Final_score": "10.93",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "236",
+        "Game": "EVE Online",
+        "Final_score": "10.87",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "237",
+        "Game": "Dishonored 2",
+        "Final_score": "10.85",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "238",
+        "Game": "Assassin's Creed Rogue",
+        "Final_score": "10.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "239",
+        "Game": "Prey",
+        "Final_score": "10.74",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "240",
+        "Game": "METAL GEAR RISING: REVENGEANCE",
+        "Final_score": "10.68",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "241",
+        "Game": "GRID Legends",
+        "Final_score": "10.59",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "242",
+        "Game": "BABYLON'S FALL",
+        "Final_score": "10.57",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "243",
+        "Game": "SCUM",
+        "Final_score": "10.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "244",
+        "Game": "Injustice\u2122 2",
+        "Final_score": "10.53",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "245",
+        "Game": "Space Engineers",
+        "Final_score": "10.5",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "246",
+        "Game": "Fallout: New Vegas",
+        "Final_score": "10.49",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "247",
+        "Game": "Aliens: Fireteam Elite",
+        "Final_score": "10.48",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "248",
+        "Game": "Call of Duty: Black Ops III",
+        "Final_score": "10.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "249",
+        "Game": "Warface",
+        "Final_score": "10.44",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "250",
+        "Game": "Planetside 2",
+        "Final_score": "10.43",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "251",
+        "Game": "The Dark Pictures Anthology: House of Ashes",
+        "Final_score": "10.41",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "252",
+        "Game": "Batman\u2122: Arkham Knight",
+        "Final_score": "10.41",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "253",
+        "Game": "The Outer Worlds",
+        "Final_score": "10.38",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "254",
+        "Game": "Borderlands: The Pre-Sequel",
+        "Final_score": "10.35",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "255",
+        "Game": "Black Desert",
+        "Final_score": "10.28",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "256",
+        "Game": "BioShock Infinite",
+        "Final_score": "10.25",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "257",
+        "Game": "Warhammer: Vermintide 2",
+        "Final_score": "10.23",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "258",
+        "Game": "Company of Heroes 2",
+        "Final_score": "10.17",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "259",
+        "Game": "Timberborn",
+        "Final_score": "10.14",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "260",
+        "Game": "Detroit: Become Human",
+        "Final_score": "10.11",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "261",
+        "Game": "Kingdom Come: Deliverance",
+        "Final_score": "10.09",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "262",
+        "Game": "Farming Simulator 19",
+        "Final_score": "10.02",
+        "Signing": "Intel/Nvidia"
+    },
+    {
+        "Rank": "263",
+        "Game": "Resident Evil 2: Remastered",
+        "Final_score": "9.96",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "264",
+        "Game": "Nioh 2 \u2013 The Complete Edition",
+        "Final_score": "9.89",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "265",
+        "Game": "The Crew 2",
+        "Final_score": "9.88",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "266",
+        "Game": "Rogue Company",
+        "Final_score": "9.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "267",
+        "Game": "Insurgency",
+        "Final_score": "9.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "268",
+        "Game": "Crysis Remastered",
+        "Final_score": "9.77",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "269",
+        "Game": "Insurgency: Sandstorm",
+        "Final_score": "9.73",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "270",
+        "Game": "Ghostrunner",
+        "Final_score": "9.65",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "271",
+        "Game": "Borderlands GOTY",
+        "Final_score": "9.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "272",
+        "Game": "Grim Dawn",
+        "Final_score": "9.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "273",
+        "Game": "Need for Speed: Most Wanted",
+        "Final_score": "9.57",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "274",
+        "Game": "Friday the 13th: The Game",
+        "Final_score": "9.56",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "275",
+        "Game": "Forever Skies",
+        "Final_score": "9.47",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "276",
+        "Game": "Just Cause 3",
+        "Final_score": "9.42",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "277",
+        "Game": "Killing Floor 2",
+        "Final_score": "9.36",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "278",
+        "Game": "Wolfenstein II: The New Colossus",
+        "Final_score": "9.36",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "279",
+        "Game": "Frostpunk",
+        "Final_score": "9.35",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "280",
+        "Game": "BIOMUTANT",
+        "Final_score": "9.32",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "281",
+        "Game": "Sid Meier's Civilization V",
+        "Final_score": "9.31",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "282",
+        "Game": "Life is Strange 2",
+        "Final_score": "9.28",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "283",
+        "Game": "Dragon Age\u2122 Inquisition",
+        "Final_score": "9.27",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "284",
+        "Game": "Albion Online",
+        "Final_score": "9.25",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "285",
+        "Game": "Tribes of Midgard",
+        "Final_score": "9.23",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "286",
+        "Game": "Hellblade: Senua's Sacrifice",
+        "Final_score": "9.2",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "287",
+        "Game": "Jurassic World Evolution",
+        "Final_score": "9.2",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "288",
+        "Game": "Final Fantasy XV",
+        "Final_score": "9.19",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "289",
+        "Game": "MORDHAU",
+        "Final_score": "9.16",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "290",
+        "Game": "The Evil Within 2",
+        "Final_score": "9.12",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "291",
+        "Game": "Company of Heroes",
+        "Final_score": "9.09",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "292",
+        "Game": "Strange Brigade",
+        "Final_score": "9.09",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "293",
+        "Game": "Dolmen",
+        "Final_score": "9.09",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "294",
+        "Game": "Assetto Corsa Competizione",
+        "Final_score": "9.07",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "295",
+        "Game": "Nobody - The Turnaround",
+        "Final_score": "8.99",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "296",
+        "Game": "HOT WHEELS UNLEASHED\u2122",
+        "Final_score": "8.98",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "297",
+        "Game": "Green Hell",
+        "Final_score": "8.91",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "298",
+        "Game": "Middle-earth\u2122: Shadow of War\u2122",
+        "Final_score": "8.91",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "299",
+        "Game": "Wartales",
+        "Final_score": "8.89",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "300",
+        "Game": "Just Cause 2",
+        "Final_score": "8.86",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "301",
+        "Game": "Project CARS 2",
+        "Final_score": "8.83",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "302",
+        "Game": "World War 3",
+        "Final_score": "8.74",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "303",
+        "Game": "Prison Architect",
+        "Final_score": "8.72",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "304",
+        "Game": "Farming Simulator 17",
+        "Final_score": "8.71",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "305",
+        "Game": "Shadow Warrior 3",
+        "Final_score": "8.7",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "306",
+        "Game": "Far Cry New Dawn",
+        "Final_score": "8.62",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "307",
+        "Game": "Euro Truck Simulator 2",
+        "Final_score": "8.59",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "308",
+        "Game": "Age of Empires II",
+        "Final_score": "8.59",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "309",
+        "Game": "Tom Clancy's Ghost Recon\u00ae Wildlands",
+        "Final_score": "8.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "310",
+        "Game": "Deus Ex: Mankind Divided\u2122",
+        "Final_score": "8.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "311",
+        "Game": "Mass Effect\u2122: Andromeda",
+        "Final_score": "8.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "312",
+        "Game": "Sleeping Dogs",
+        "Final_score": "8.54",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "313",
+        "Game": "The Long Dark",
+        "Final_score": "8.53",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "314",
+        "Game": "DEVOUR",
+        "Final_score": "8.52",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "315",
+        "Game": "Medieval Dynasty",
+        "Final_score": "8.49",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "316",
+        "Game": "This War of Mine",
+        "Final_score": "8.4",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "317",
+        "Game": "Mad Max",
+        "Final_score": "8.3",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "318",
+        "Game": "A Plague Tale: Innocence",
+        "Final_score": "8.27",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "319",
+        "Game": "Gears Tactics",
+        "Final_score": "8.26",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "320",
+        "Game": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "Final_score": "8.19",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "321",
+        "Game": "Just Cause 4",
+        "Final_score": "8.18",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "322",
+        "Game": "SUPERHOT",
+        "Final_score": "8.13",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "323",
+        "Game": "Medium",
+        "Final_score": "8.11",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "324",
+        "Game": "Pillars of Eternity II: Deadfire",
+        "Final_score": "8.02",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "325",
+        "Game": "Middle-earth\u2122: Shadow of Mordor\u2122",
+        "Final_score": "7.99",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "326",
+        "Game": "Human: Fall Flat",
+        "Final_score": "7.97",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "327",
+        "Game": "Sniper Elite 4",
+        "Final_score": "7.94",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "328",
+        "Game": "F1 2021",
+        "Final_score": "7.92",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "329",
+        "Game": "Ghost Recon: Breakpoint",
+        "Final_score": "7.73",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "330",
+        "Game": "Anno 1800",
+        "Final_score": "7.68",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "331",
+        "Game": "State of Decay 2",
+        "Final_score": "7.61",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "332",
+        "Game": "Undecember",
+        "Final_score": "7.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "333",
+        "Game": "Alien: Isolation",
+        "Final_score": "7.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "334",
+        "Game": "TrackMania Nations Forever",
+        "Final_score": "7.57",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "335",
+        "Game": "Rising Storm 2: Vietnam",
+        "Final_score": "7.47",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "336",
+        "Game": "Age of Empires\u00ae III",
+        "Final_score": "7.35",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "337",
+        "Game": "Heavy Rain",
+        "Final_score": "7.35",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "338",
+        "Game": "L.A. Noire",
+        "Final_score": "7.34",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "339",
+        "Game": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+        "Final_score": "7.34",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "340",
+        "Game": "Total War: Troy",
+        "Final_score": "7.26",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "341",
+        "Game": "GRID",
+        "Final_score": "7.17",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "342",
+        "Game": "Redfall",
+        "Final_score": "7.13",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "343",
+        "Game": "Ring of Elysium",
+        "Final_score": "7.04",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "344",
+        "Game": "Dead Space\u2122 3",
+        "Final_score": "6.99",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "345",
+        "Game": "Showa American Story",
+        "Final_score": "6.9",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "346",
+        "Game": "HELLDIVERS\u2122",
+        "Final_score": "6.89",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "347",
+        "Game": "Thief",
+        "Final_score": "6.83",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "348",
+        "Game": "Dead Rising 4",
+        "Final_score": "6.82",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "349",
+        "Game": "Sniper Ghost Warrior Contracts 2",
+        "Final_score": "6.77",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "350",
+        "Game": "A Way Out",
+        "Final_score": "6.77",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "351",
+        "Game": "Beyond: Two Souls",
+        "Final_score": "6.74",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "352",
+        "Game": "Ark 2",
+        "Final_score": "6.74",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "353",
+        "Game": "GUNDAM EVOLUTION",
+        "Final_score": "6.71",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "354",
+        "Game": "Baldur's Gate II: Enhanced Edition",
+        "Final_score": "6.68",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "355",
+        "Game": "Vampyr",
+        "Final_score": "6.58",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "356",
+        "Game": "Surviving Mars",
+        "Final_score": "6.52",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "357",
+        "Game": "Trove",
+        "Final_score": "6.47",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "358",
+        "Game": "Operation: Harsh Doorstop",
+        "Final_score": "6.43",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "359",
+        "Game": "Goat Simulator",
+        "Final_score": "6.34",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "360",
+        "Game": "Fishing Planet",
+        "Final_score": "6.14",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "361",
+        "Game": "Myth of Empires",
+        "Final_score": "6.08",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "362",
+        "Game": "Arcadegeddon",
+        "Final_score": "5.86",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "363",
+        "Game": "???? Tale of Immortal",
+        "Final_score": "5.79",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "364",
+        "Game": "DiRT 4",
+        "Final_score": "5.67",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "365",
+        "Game": "Plague Inc: Evolved",
+        "Final_score": "5.6",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "366",
+        "Game": "System Shock",
+        "Final_score": "5.53",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "367",
+        "Game": "Sid Meier's Civilization IV: Beyond the Sword",
+        "Final_score": "5.52",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "368",
+        "Game": "Hello Neighbor 2",
+        "Final_score": "5.48",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "369",
+        "Game": "Conqueror's Blade",
+        "Final_score": "5.4",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "370",
+        "Game": "MechWarrior 5: Mercenaries",
+        "Final_score": "5.29",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "371",
+        "Game": "Eternal Return",
+        "Final_score": "5.23",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "372",
+        "Game": "Call of Juarez Gunslinger",
+        "Final_score": "5.09",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "373",
+        "Game": "We Happy Few",
+        "Final_score": "5",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "374",
+        "Game": "ANVIL: Vault Breakers",
+        "Final_score": "4.99",
+        "Signing": "Intel"
+    },
+    {
+        "Rank": "375",
+        "Game": "Galactic Civilizations III",
+        "Final_score": "4.98",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "376",
+        "Game": "Mirror's Edge\u2122 Catalyst",
+        "Final_score": "4.96",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "377",
+        "Game": "Avatar: Frontiers of Pandora",
+        "Final_score": "4.96",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "378",
+        "Game": "Arma 2: Operation Arrowhead",
+        "Final_score": "4.9",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "379",
+        "Game": "Predecessor",
+        "Final_score": "4.88",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "380",
+        "Game": "CROWZ",
+        "Final_score": "4.87",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "381",
+        "Game": "Quake 2 Raytracing demo",
+        "Final_score": "4.43",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "382",
+        "Game": "Synced: Off Planet",
+        "Final_score": "4.36",
+        "Signing": "Intel/Nvidia"
+    },
+    {
+        "Rank": "383",
+        "Game": "Star Control: Origins",
+        "Final_score": "4.34",
+        "Signing": "AMD"
+    },
+    {
+        "Rank": "384",
+        "Game": "Ryse: Son of Rome",
+        "Final_score": "4.33",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "385",
+        "Game": "Alaskan Truck Simulator",
+        "Final_score": "4.29",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "386",
+        "Game": "Sengoku Dynasty",
+        "Final_score": "4.29",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "387",
+        "Game": "Predecessor Playtest",
+        "Final_score": "4.27",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "388",
+        "Game": "Phantom Abyss",
+        "Final_score": "3.82",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "389",
+        "Game": "Sea of Stars",
+        "Final_score": "3.74",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "390",
+        "Game": "The Persistence",
+        "Final_score": "3.71",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "391",
+        "Game": "The Lord of the Rings\u2122: Gollum\u2122",
+        "Final_score": "3.67",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "392",
+        "Game": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2",
+        "Final_score": "3.67",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "393",
+        "Game": "Karlson",
+        "Final_score": "3.67",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "394",
+        "Game": "Suicide Squad: Kill the Justice League",
+        "Final_score": "3.65",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "395",
+        "Game": "Marvels Midnight Suns",
+        "Final_score": "3.65",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "396",
+        "Game": "Bright Memory Infinite",
+        "Final_score": "3.37",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "397",
+        "Game": "Sniper Ghost Warrior 3",
+        "Final_score": "3.15",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "398",
+        "Game": "Black Myth: Wu Kong",
+        "Final_score": "3.06",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "399",
+        "Game": "Marauders",
+        "Final_score": "3.06",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "400",
+        "Game": "Project TL : The Lineage",
+        "Final_score": "3.06",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "401",
+        "Game": "Voidtrain",
+        "Final_score": "3.06",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "402",
+        "Game": "IXION",
+        "Final_score": "3.05",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "403",
+        "Game": "Lies Of P",
+        "Final_score": "2.45",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "404",
+        "Game": "Ratten Reich",
+        "Final_score": "2.45",
+        "Signing": "Nvidia"
+    },
+    {
+        "Rank": "405",
+        "Game": "F1 2019",
+        "Final_score": "0.49",
+        "Signing": "Unsigned"
+    },
+    {
+        "Rank": "406",
+        "Game": "F1 2018",
+        "Final_score": "0.3",
+        "Signing": "Unsigned"
+    }
+]
