@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Topbar from "./pages/global/Topbar";
 import Sidebar from "./pages/global/Sidebar";
 import Dashboard from "./pages/dashboard";
-// import Team from "./pages/team";
+import SingleGame from "./pages/singleGame/singleGame";
 // import Invoices from "./pages/invoices";
 // import Contacts from "./pages/contacts";
 // import Bar from "./pages/bar";
@@ -30,8 +30,8 @@ function App() {
             <Topbar setIsSidebar={setIsSidebar} />
             <Routes>
               <Route path="/" element={<Dashboard />} />
-              {/* <Route path="/team" element={<Team />} />
-              <Route path="/contacts" element={<Contacts />} />
+              <Route path="/single-game" element={<SingleGame />} />
+              {/* <Route path="/contacts" element={<Contacts />} />
               <Route path="/invoices" element={<Invoices />} />
               <Route path="/form" element={<Form />} />
               <Route path="/bar" element={<Bar />} />

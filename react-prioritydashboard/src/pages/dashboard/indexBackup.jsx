@@ -1,7 +1,6 @@
 import { Box, Typography, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
 import { mockTransactions } from "../../data/mockData";
-
 const Dashboard = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);

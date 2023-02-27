@@ -6,6 +6,7 @@ import { MultipleSelectChip } from '../../components/multiSelect';
 import { DiscreteSlider } from '../../components/valueSlider/valueSlider';
 import { SelectVariants } from '../../components/singleSelect';
 import { ListLengthSlider } from '../../components/valueSlider/listLengthSlider'
+import SaveButton from '../../components/buttons/saveButton';
 import { 
   redditSubscriber,
   twitterFollower,
@@ -23,6 +24,18 @@ import {
 const Dashboard = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
+
+  const sliderSave = {
+    name: "sliders",
+    color: colors.redAccent[700],
+    hoverCol: colors.redAccent[900]
+  }
+
+    const listSave = {
+    name: "list",
+    color: colors.redAccent[700],
+    hoverCol: colors.redAccent[900]
+  }
 
   return (
     <Box
@@ -42,6 +55,31 @@ const Dashboard = () => {
         backgroundColor={colors.primary[400]}
         m='5px'
       >
+        <Box display='grid'>
+          <Typography 
+            color={colors.grey[100]} 
+            variant="h4" 
+            align="center"
+            noWrap={false}
+            m='10px 5px 0px 0px'
+            fontWeight="600"
+          >
+            Welcome
+          </Typography>
+          <Typography 
+            color={colors.grey[100]} 
+            variant="h5" 
+            align="center"
+            noWrap={false}
+            m='0px 10px 10px 10px'
+          >
+            Please feel free to use this sandbox as a tool for designing a priority list that fits your needs best.
+          </Typography>
+          <Box display="flex" justifyContent='space-evenly'>
+            <SaveButton {...sliderSave}/>
+            <SaveButton {...listSave}/>
+          </Box>
+        </Box>
       </Box>
       <Box
         gridColumn="span 5"
