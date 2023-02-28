@@ -3,7 +3,7 @@ import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Typography, useTheme } from '@mui/material';
-import { tokens } from "../../theme";
+import { tokens } from "../../../theme";
 
 const sliderTheme = createTheme({
   palette: {

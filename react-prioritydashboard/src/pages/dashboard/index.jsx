@@ -2,11 +2,11 @@ import React from 'react'
 import { Box, Typography, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
 import rankinglist from '../../data/rankinglist.json'
-import { MultipleSelectChip } from '../../components/multiSelect';
-import { DiscreteSlider } from '../../components/valueSlider/valueSlider';
-import { SelectVariants } from '../../components/singleSelect';
-import { ListLengthSlider } from '../../components/valueSlider/listLengthSlider'
-import SaveButton from '../../components/buttons/saveButton';
+import { MultipleSelectChip } from '../../components/Dropdown/VendorSelector/VendorSelector';
+import { DiscreteSlider } from '../../components/Sliders/WeightSliders/WeightSlider';
+import { SelectVariants } from '../../components/Dropdown/ListSelector/ListSelector';
+import { ListLengthSlider } from '../../components/Sliders/ListLengthSliders/ListLengthSlider'
+import SaveButton from '../../components/Buttons/SaveButton';
 import { 
   redditSubscriber,
   twitterFollower,
@@ -19,7 +19,7 @@ import {
   socialMediaGrowthAcceleration,
   athenaPlayerBase,
   twitchViewers
- } from '../../components/valueSlider/sliderInfo';
+ } from '../../components/Sliders/WeightSliders/WeightInfo';
 
 const Dashboard = () => {
   const theme = useTheme();

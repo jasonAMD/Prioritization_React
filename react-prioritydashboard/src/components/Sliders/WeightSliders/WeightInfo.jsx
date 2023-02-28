@@ -6,7 +6,7 @@ export const redditSubscriber = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/reddit-logo.svg').default,
+    img: require('../../assets/reddit-logo.svg').default,
     alt: 'reddit-logo'
 }
 
@@ -18,7 +18,7 @@ export const twitterFollower = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/twitter-logo.svg').default,
+    img: require('../../assets/twitter-logo.svg').default,
     alt: 'twitter-logo'
 }
 
@@ -30,7 +30,7 @@ export const steamFollower = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/steam-logo.svg').default,
+    img: require('../../assets/steam-logo.svg').default,
     alt: 'steam-logo'
 }
 
@@ -42,7 +42,7 @@ export const youtubeViews = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/youtube-logo.svg').default,
+    img: require('../../assets/youtube-logo.svg').default,
     alt: 'youtube-logo'
 }
 
@@ -54,7 +54,7 @@ export const benchmarkUtilization = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/filler.svg').default,
+    img: require('../../assets/filler.svg').default,
     alt: 'filler-logo'
 }
 
@@ -66,7 +66,7 @@ export const metacriticScore = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/metacritic-logo.svg').default,
+    img: require('../../assets/metacritic-logo.svg').default,
     alt: 'metacritic-logo'
 }
 
@@ -78,7 +78,7 @@ export const releaseDate = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/filler.svg').default,
+    img: require('../../assets/filler.svg').default,
     alt: 'filler-logo'
 }
 
@@ -90,7 +90,7 @@ export const benchmarkUtilizationTrend = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/filler.svg').default,
+    img: require('../../assets/filler.svg').default,
     alt: 'filler-logo'
 }
 
@@ -102,7 +102,7 @@ export const socialMediaGrowthAcceleration = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/filler.svg').default,
+    img: require('../../assets/filler.svg').default,
     alt: 'filler-logo'
 }
 
@@ -114,7 +114,7 @@ export const athenaPlayerBase = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/filler.svg').default,
+    img: require('../../assets/filler.svg').default,
     alt: 'fillter-logo'
 }
 
@@ -126,7 +126,7 @@ export const twitchViewers = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/twitch-logo.svg').default,
+    img: require('../../assets/twitch-logo.svg').default,
     alt: 'twitch-logo'
 }
 
@@ -138,6 +138,6 @@ export const lengthList = {
     marks: true,
     min: 0,
     max: 5,
-    img: require('../assets/filler.svg').default,
+    img: require('../../assets/filler.svg').default,
     alt: 'twitch-logo'
 }
