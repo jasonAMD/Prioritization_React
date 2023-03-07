@@ -1,2 +1,2 @@
-venv/
-prioritydashboard/
+/env
+/frontend/node_modules

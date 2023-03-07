@@ -1,0 +1,6032 @@
+[
+    {
+        "id": "1",
+        "Game": "7 Days to Die",
+        "App_id": "251570",
+        "Subreddit": "7daystodie",
+        "Twitter": "7daystodie",
+        "Twitch_id": "271304",
+        "Athena_Name": "7 days to die"
+    },
+    {
+        "id": "2",
+        "Game": "83 The Game",
+        "App_id": "1059220",
+        "Subreddit": "83thegame",
+        "Twitter": "83thegame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "3",
+        "Game": "A Plague Tale: Innocence",
+        "App_id": "752590",
+        "Subreddit": "APlagueTale",
+        "Twitter": "APlagueTale",
+        "Twitch_id": "497471",
+        "Athena_Name": "a plague tale: innocence"
+    },
+    {
+        "id": "4",
+        "Game": "A Plague Tale: Requiem",
+        "App_id": "1182900",
+        "Subreddit": "APlagueTale",
+        "Twitter": "APlagueTale",
+        "Twitch_id": "1228709591",
+        "Athena_Name": "a plague tale: requiem"
+    },
+    {
+        "id": "5",
+        "Game": "A Way Out",
+        "App_id": "1222700",
+        "Subreddit": "AWayOut",
+        "Twitter": "hazelightgames",
+        "Twitch_id": "497388",
+        "Athena_Name": "a way out"
+    },
+    {
+        "id": "6",
+        "Game": "Abyssus",
+        "App_id": "1721110",
+        "Subreddit": "-1",
+        "Twitter": "doublemoose",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "7",
+        "Game": "AFTERBLAST",
+        "App_id": "1338490",
+        "Subreddit": "-1",
+        "Twitter": "luminogames",
+        "Twitch_id": "1894461190",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "8",
+        "Game": "Age of Empires II (2013)",
+        "App_id": "221380",
+        "Subreddit": "aoe2",
+        "Twitter": "AgeOfEmpires",
+        "Twitch_id": "13389",
+        "Athena_Name": "age of empires ii (2013)"
+    },
+    {
+        "id": "9",
+        "Game": "Age of Empires II: Definitive Edition",
+        "App_id": "813780",
+        "Subreddit": "aoe2",
+        "Twitter": "AgeOfEmpires",
+        "Twitch_id": "13389",
+        "Athena_Name": "age of empires ii: definitive edition"
+    },
+    {
+        "id": "10",
+        "Game": "Age of Empires III: Definitive Edition",
+        "App_id": "933110",
+        "Subreddit": "aoe3",
+        "Twitter": "AgeOfEmpires",
+        "Twitch_id": "7830",
+        "Athena_Name": "age of empires iii: definitive edition"
+    },
+    {
+        "id": "11",
+        "Game": "Age of Empires IV",
+        "App_id": "1466860",
+        "Subreddit": "aoe4",
+        "Twitter": "ageofempires",
+        "Twitch_id": "498482",
+        "Athena_Name": "age of empires iv"
+    },
+    {
+        "id": "12",
+        "Game": "Age of Empires\u00ae III (2007)",
+        "App_id": "105450",
+        "Subreddit": "aoe3",
+        "Twitter": "AgeOfEmpires",
+        "Twitch_id": "7830",
+        "Athena_Name": "age of empires iii"
+    },
+    {
+        "id": "13",
+        "Game": "Age of reforging: Blackthorn",
+        "App_id": "1161830",
+        "Subreddit": "-1",
+        "Twitter": "PersonaeG",
+        "Twitch_id": "1386129874",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "14",
+        "Game": "Alan Wake 2",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "alanwake",
+        "Twitch_id": "1293419931",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "15",
+        "Game": "ALARA Prime",
+        "App_id": "971700",
+        "Subreddit": "alara_prime",
+        "Twitter": "alaraprime",
+        "Twitch_id": "967495922",
+        "Athena_Name": "alara prime"
+    },
+    {
+        "id": "16",
+        "Game": "Alaskan Truck Simulator",
+        "App_id": "849100",
+        "Subreddit": "trucksim",
+        "Twitter": "play_way",
+        "Twitch_id": "510194",
+        "Athena_Name": "alaskan truck simulator demo"
+    },
+    {
+        "id": "17",
+        "Game": "Albion Online",
+        "App_id": "761890",
+        "Subreddit": "albiononline",
+        "Twitter": "albiononline",
+        "Twitch_id": "417528",
+        "Athena_Name": "albion online"
+    },
+    {
+        "id": "18",
+        "Game": "Alien: Isolation",
+        "App_id": "214490",
+        "Subreddit": "alienisolation",
+        "Twitter": "alienisolation",
+        "Twitch_id": "458443",
+        "Athena_Name": "alien: isolation"
+    },
+    {
+        "id": "19",
+        "Game": "Aliens: Dark Descent",
+        "App_id": "1150440",
+        "Subreddit": "AliensDarkDescent",
+        "Twitter": "Tindalos_Int",
+        "Twitch_id": "570278441",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "20",
+        "Game": "Aliens: Fireteam Elite",
+        "App_id": "1549970",
+        "Subreddit": "AliensFireteamElite",
+        "Twitter": "AliensFireteamE",
+        "Twitch_id": "1585949885",
+        "Athena_Name": "aliens: fireteam elite"
+    },
+    {
+        "id": "21",
+        "Game": "Alone in the Dark (Reboot)",
+        "App_id": "1310410",
+        "Subreddit": "-1",
+        "Twitter": "AITDGame",
+        "Twitch_id": "2846",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "22",
+        "Game": "Amma: Chronicles",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "joinplaygames",
+        "Twitch_id": "418659270",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "23",
+        "Game": "Amnesia: The Bunker",
+        "App_id": "1944430",
+        "Subreddit": "Amnesia",
+        "Twitter": "frictionalgames",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "24",
+        "Game": "Among Us",
+        "App_id": "945360",
+        "Subreddit": "AmongUs",
+        "Twitter": "AmongUsGame",
+        "Twitch_id": "1089438810",
+        "Athena_Name": "among us"
+    },
+    {
+        "id": "25",
+        "Game": "Anno 1800",
+        "App_id": "916440",
+        "Subreddit": "anno1800",
+        "Twitter": "ANNO_EN",
+        "Twitch_id": "498638",
+        "Athena_Name": "anno 1800"
+    },
+    {
+        "id": "26",
+        "Game": "ANNO: Mutationem",
+        "App_id": "1368030",
+        "Subreddit": "anno",
+        "Twitter": "anno_en",
+        "Twitch_id": "605155026",
+        "Athena_Name": "anno: mutationem demo"
+    },
+    {
+        "id": "27",
+        "Game": "Anthem",
+        "App_id": "999999",
+        "Subreddit": "AnthemTheGame",
+        "Twitter": "anthemgame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "28",
+        "Game": "ANVIL: Vault Breakers",
+        "App_id": "1487390",
+        "Subreddit": "ANVILVaultBreaker",
+        "Twitter": "ANVIL_ACTION2",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "29",
+        "Game": "Apex Legends",
+        "App_id": "1172470",
+        "Subreddit": "apexlegends",
+        "Twitter": "PlayApex",
+        "Twitch_id": "511224",
+        "Athena_Name": "apex legends"
+    },
+    {
+        "id": "30",
+        "Game": "Ara: History Untold ",
+        "App_id": "2021880",
+        "Subreddit": "PlayArahistoryuntold",
+        "Twitter": "AraHistory",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "31",
+        "Game": "Arc Raiders",
+        "App_id": "1808500",
+        "Subreddit": "ArcRaiders",
+        "Twitter": "ARCRaidersGame",
+        "Twitch_id": "464339927",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "32",
+        "Game": "Arcadegeddon",
+        "App_id": "999999",
+        "Subreddit": "Arcadegeddon",
+        "Twitter": "Arcadegeddon",
+        "Twitch_id": "505090447",
+        "Athena_Name": "arcadegeddon"
+    },
+    {
+        "id": "33",
+        "Game": "Ark 2",
+        "App_id": "2050420",
+        "Subreddit": "Ark2",
+        "Twitter": "survivetheark",
+        "Twitch_id": "1473801330",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "34",
+        "Game": "ARK: Survival Evolved",
+        "App_id": "346110",
+        "Subreddit": "ARK",
+        "Twitter": "survivetheark",
+        "Twitch_id": "489635",
+        "Athena_Name": "ark: survival evolved"
+    },
+    {
+        "id": "35",
+        "Game": "Arma 2: Operation Arrowhead",
+        "App_id": "33930",
+        "Subreddit": "arma2",
+        "Twitter": "arma2pc",
+        "Twitch_id": "19604",
+        "Athena_Name": "arma 2: operation arrowhead"
+    },
+    {
+        "id": "36",
+        "Game": "Arma 3",
+        "App_id": "107410",
+        "Subreddit": "arma",
+        "Twitter": "Arma3official",
+        "Twitch_id": "31750",
+        "Athena_Name": "arma 3"
+    },
+    {
+        "id": "37",
+        "Game": "ARMORED CORE 6 FIRES OF RUBICON",
+        "App_id": "1888160",
+        "Subreddit": "ArmoredCoreVI",
+        "Twitter": "armoredcore",
+        "Twitch_id": "686119195",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "38",
+        "Game": "As The Light Goes Out",
+        "App_id": "2065710",
+        "Subreddit": "-1",
+        "Twitter": "moon_falcon",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "39",
+        "Game": "Ascension",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "40",
+        "Game": "Assassin's Creed IV Black Flag",
+        "App_id": "242050",
+        "Subreddit": "assassinscreed",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "118198",
+        "Athena_Name": "assassin's creed iv black flag"
+    },
+    {
+        "id": "41",
+        "Game": "Assassin's Creed Mirage",
+        "App_id": "999999",
+        "Subreddit": "AssassinsCreedOdyssey",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "273333352",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "42",
+        "Game": "Assassin's Creed Odyssey",
+        "App_id": "812140",
+        "Subreddit": "AssassinsCreedOdyssey",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "506274",
+        "Athena_Name": "assassin's creed odyssey"
+    },
+    {
+        "id": "43",
+        "Game": "Assassin's Creed Origins",
+        "App_id": "582160",
+        "Subreddit": "assassinscreed",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "496960",
+        "Athena_Name": "assassin's creed origins"
+    },
+    {
+        "id": "44",
+        "Game": "Assassin's Creed Rogue",
+        "App_id": "311560",
+        "Subreddit": "assassinscreed",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "461339",
+        "Athena_Name": "assassin's creed rogue"
+    },
+    {
+        "id": "45",
+        "Game": "Assassin's Creed Syndicate",
+        "App_id": "368500",
+        "Subreddit": "assassinscreed",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "488607",
+        "Athena_Name": "assassin's creed syndicate"
+    },
+    {
+        "id": "46",
+        "Game": "Assassin's Creed Unity",
+        "App_id": "289650",
+        "Subreddit": "assassinscreed",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "459839",
+        "Athena_Name": "assassin's creed unity"
+    },
+    {
+        "id": "47",
+        "Game": "Assassin's Creed Valhalla",
+        "App_id": "999999",
+        "Subreddit": "ACValhalla",
+        "Twitter": "assassinscreed",
+        "Twitch_id": "517330",
+        "Athena_Name": "assassin's creed valhalla"
+    },
+    {
+        "id": "48",
+        "Game": "Assetto Corsa",
+        "App_id": "244210",
+        "Subreddit": "AssettoCorsa",
+        "Twitter": "AC_assettocorsa",
+        "Twitch_id": "313197",
+        "Athena_Name": "assetto corsa"
+    },
+    {
+        "id": "49",
+        "Game": "Assetto Corsa Competizione",
+        "App_id": "805550",
+        "Subreddit": "ACCompetizione",
+        "Twitter": "AC_assettocorsa",
+        "Twitch_id": "1348809580",
+        "Athena_Name": "assetto corsa competizione"
+    },
+    {
+        "id": "50",
+        "Game": "Asterigos",
+        "App_id": "1731070",
+        "Subreddit": "Asterigos",
+        "Twitter": "asterigos",
+        "Twitch_id": "1957229442",
+        "Athena_Name": "asterigos"
+    },
+    {
+        "id": "51",
+        "Game": "Atlas Fallen ",
+        "App_id": "1230530",
+        "Subreddit": "AtlasFallen",
+        "Twitter": "Focus_entmt",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "52",
+        "Game": "Atomic Heart",
+        "App_id": "668580",
+        "Subreddit": "AtomicHeart",
+        "Twitter": "Mundfish",
+        "Twitch_id": "505963",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "53",
+        "Game": "Avatar: Frontiers of Pandora",
+        "App_id": "999999",
+        "Subreddit": "avatar",
+        "Twitter": "officialavatar",
+        "Twitch_id": "41917829",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "54",
+        "Game": "Avowed",
+        "App_id": "999999",
+        "Subreddit": "avowed",
+        "Twitter": "Obsidian",
+        "Twitch_id": "518876",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "55",
+        "Game": "BABYLON'S FALL",
+        "App_id": "889750",
+        "Subreddit": "babylonsfall",
+        "Twitter": "BabylonsFall_EN",
+        "Twitch_id": "506433",
+        "Athena_Name": "babylon's fall"
+    },
+    {
+        "id": "56",
+        "Game": "Back 4 Blood",
+        "App_id": "924970",
+        "Subreddit": "Back4Blood",
+        "Twitter": "Back4Blood",
+        "Twitch_id": "511746",
+        "Athena_Name": "back 4 blood"
+    },
+    {
+        "id": "57",
+        "Game": "Baldur's Gate 3",
+        "App_id": "1086940",
+        "Subreddit": "BaldursGate3",
+        "Twitter": "BaldursGate3",
+        "Twitch_id": "512923",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "58",
+        "Game": "Baldur's Gate II: Enhanced Edition",
+        "App_id": "257350",
+        "Subreddit": "BaldursGate",
+        "Twitter": "larianstudios",
+        "Twitch_id": "1116745944",
+        "Athena_Name": "baldur's gate ii: enhanced edition"
+    },
+    {
+        "id": "59",
+        "Game": "Ballads of Hongye",
+        "App_id": "1723560",
+        "Subreddit": "BalladsofHongye",
+        "Twitter": "Ballads_Hongye",
+        "Twitch_id": "1468975963",
+        "Athena_Name": "ballads of hongye"
+    },
+    {
+        "id": "60",
+        "Game": "Ballex\u00b2: The Hanging Gardens",
+        "App_id": "1383570",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "65206654",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "61",
+        "Game": "Batman: Arkham City GOTY",
+        "App_id": "200260",
+        "Subreddit": "BatmanArkham",
+        "Twitter": "BatmanArkham",
+        "Twitch_id": "459676",
+        "Athena_Name": "batman: arkham city goty"
+    },
+    {
+        "id": "62",
+        "Game": "Batman\u2122: Arkham Knight",
+        "App_id": "208650",
+        "Subreddit": "BatmanArkham",
+        "Twitter": "batmanarkham",
+        "Twitch_id": "459676",
+        "Athena_Name": "batman: arkham knight"
+    },
+    {
+        "id": "63",
+        "Game": "Battlefield 1 \u2122",
+        "App_id": "1238840",
+        "Subreddit": "battlefield_one",
+        "Twitter": "battlefield",
+        "Twitch_id": "488500",
+        "Athena_Name": "battlefield 1 \u2122"
+    },
+    {
+        "id": "64",
+        "Game": "Battlefield 2042",
+        "App_id": "1517290",
+        "Subreddit": "Battlefield",
+        "Twitter": "battlefield",
+        "Twitch_id": "514974",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "65",
+        "Game": "Battlefield 4\u2122",
+        "App_id": "1238860",
+        "Subreddit": "battlefield_4",
+        "Twitter": "battlefield",
+        "Twitch_id": "66402",
+        "Athena_Name": "battlefield 4"
+    },
+    {
+        "id": "66",
+        "Game": "Battlefield V",
+        "App_id": "1238810",
+        "Subreddit": "BattlefieldV",
+        "Twitter": "battlefield",
+        "Twitch_id": "504199",
+        "Athena_Name": "battlefield v"
+    },
+    {
+        "id": "67",
+        "Game": "BeamNG.drive",
+        "App_id": "284160",
+        "Subreddit": "beamng",
+        "Twitter": "beamng",
+        "Twitch_id": "491878",
+        "Athena_Name": "beamng.drive"
+    },
+    {
+        "id": "68",
+        "Game": "Beat Saber",
+        "App_id": "620980",
+        "Subreddit": "BeatSaber",
+        "Twitter": "BeatSaber",
+        "Twitch_id": "503116",
+        "Athena_Name": "beat saber"
+    },
+    {
+        "id": "69",
+        "Game": "Beyond: Two Souls",
+        "App_id": "960990",
+        "Subreddit": "beyondtwosouls",
+        "Twitter": "Quantic_Dream",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "70",
+        "Game": "BIOMUTANT",
+        "App_id": "597820",
+        "Subreddit": "BIOMUTANT",
+        "Twitter": "BIOMUTANT",
+        "Twitch_id": "498483",
+        "Athena_Name": "biomutant"
+    },
+    {
+        "id": "71",
+        "Game": "BioShock Infinite",
+        "App_id": "8870",
+        "Subreddit": "bioshock",
+        "Twitter": "bioshock",
+        "Twitch_id": "29099",
+        "Athena_Name": "bioshock infinite"
+    },
+    {
+        "id": "72",
+        "Game": "Black Desert",
+        "App_id": "582660",
+        "Subreddit": "blackdesertonline",
+        "Twitter": "NewsBlackDesert",
+        "Twitch_id": "386821",
+        "Athena_Name": "black desert"
+    },
+    {
+        "id": "73",
+        "Game": "Black Myth: Wu Kong",
+        "App_id": "999999",
+        "Subreddit": "BlackMythWukong",
+        "Twitter": "BlackMyth_GS",
+        "Twitch_id": "519291",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "74",
+        "Game": "Block N Load 2",
+        "App_id": "1551810",
+        "Subreddit": "BlocknLoad",
+        "Twitter": "block_n_load2",
+        "Twitch_id": "2040492854",
+        "Athena_Name": "block n load 2"
+    },
+    {
+        "id": "75",
+        "Game": "Blood Bowl 3",
+        "App_id": "1016950",
+        "Subreddit": "bloodbowl",
+        "Twitter": "BloodBowl_Game",
+        "Twitch_id": "519433",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "76",
+        "Game": "Blood Dawn",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "77",
+        "Game": "Blood Opera",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "78",
+        "Game": "Bloons TD 6",
+        "App_id": "960090",
+        "Subreddit": "btd6",
+        "Twitter": "ninjakiwigames",
+        "Twitch_id": "508292",
+        "Athena_Name": "bloons td 6"
+    },
+    {
+        "id": "79",
+        "Game": "Blue Protocol",
+        "App_id": "999999",
+        "Subreddit": "BlueProtocolPC",
+        "Twitter": "blueprotocol_jp",
+        "Twitch_id": "515605",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "80",
+        "Game": "Borderlands 2",
+        "App_id": "49520",
+        "Subreddit": "Borderlands2",
+        "Twitter": "borderlands",
+        "Twitch_id": "32345",
+        "Athena_Name": "borderlands 2"
+    },
+    {
+        "id": "81",
+        "Game": "Borderlands 3",
+        "App_id": "397540",
+        "Subreddit": "borderlands3",
+        "Twitter": "borderlands",
+        "Twitch_id": "491318",
+        "Athena_Name": "borderlands 3"
+    },
+    {
+        "id": "82",
+        "Game": "Borderlands GOTY",
+        "App_id": "8980",
+        "Subreddit": "borderlands",
+        "Twitter": "borderlands",
+        "Twitch_id": "1579552694",
+        "Athena_Name": "borderlands goty enhanced"
+    },
+    {
+        "id": "83",
+        "Game": "Borderlands: The Pre-Sequel",
+        "App_id": "261640",
+        "Subreddit": "borderlands",
+        "Twitter": "borderlands",
+        "Twitch_id": "460041",
+        "Athena_Name": "borderlands: the pre-sequel"
+    },
+    {
+        "id": "84",
+        "Game": "Boulder",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "85",
+        "Game": "Boundary",
+        "App_id": "1364020",
+        "Subreddit": "boundary",
+        "Twitter": "Boundary_game",
+        "Twitch_id": "498116",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "86",
+        "Game": "Brawlhalla",
+        "App_id": "291550",
+        "Subreddit": "Brawlhalla",
+        "Twitter": "Brawlhalla",
+        "Twitch_id": "460316",
+        "Athena_Name": "brawlhalla"
+    },
+    {
+        "id": "87",
+        "Game": "Bright Memory",
+        "App_id": "955050",
+        "Subreddit": "bright_memory",
+        "Twitter": "FYQD_Studio",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "88",
+        "Game": "Bright Memory Infinite",
+        "App_id": "1178830",
+        "Subreddit": "bright_memory",
+        "Twitter": "FYQD_Studio",
+        "Twitch_id": "511025",
+        "Athena_Name": "bright memory infinite"
+    },
+    {
+        "id": "89",
+        "Game": "Call of Duty Vanguard",
+        "App_id": "999999",
+        "Subreddit": "CallofDuty",
+        "Twitter": "CODVanguard",
+        "Twitch_id": "492778073",
+        "Athena_Name": "call of duty vanguard"
+    },
+    {
+        "id": "90",
+        "Game": "Call of Duty: Black Ops",
+        "App_id": "42700",
+        "Subreddit": "CallofDuty",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "23894",
+        "Athena_Name": "call of duty: black ops"
+    },
+    {
+        "id": "91",
+        "Game": "Call of Duty: Black Ops 4",
+        "App_id": "999999",
+        "Subreddit": "CallofDuty",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "92",
+        "Game": "Call of Duty: Black Ops Cold War",
+        "App_id": "999999",
+        "Subreddit": "CallofDuty",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "93",
+        "Game": "Call of Duty: Black Ops III",
+        "App_id": "311210",
+        "Subreddit": "blackops3",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "489401",
+        "Athena_Name": "call of duty: black ops iii"
+    },
+    {
+        "id": "94",
+        "Game": "Call of Duty: Modern Warfare",
+        "App_id": "393080",
+        "Subreddit": "CallofDuty",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "95",
+        "Game": "Call of Duty: Modern Warfare II",
+        "App_id": "1938090",
+        "Subreddit": "ModernWarfareII",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "1678052513",
+        "Athena_Name": "call of duty\u00ae: modern warfare\u00ae ii"
+    },
+    {
+        "id": "96",
+        "Game": "Call of Duty: Warzone 2.0",
+        "App_id": "1962663",
+        "Subreddit": "CODWarzone",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "512710",
+        "Athena_Name": "call of duty\u00ae modern warfare\u00ae ii  warzone\u2122 2.0"
+    },
+    {
+        "id": "97",
+        "Game": "Call of Duty: WWII",
+        "App_id": "476600",
+        "Subreddit": "CallofDuty",
+        "Twitter": "CallofDuty",
+        "Twitch_id": "496712",
+        "Athena_Name": "call of duty: wwii"
+    },
+    {
+        "id": "98",
+        "Game": "Call of Juarez Gunslinger",
+        "App_id": "204450",
+        "Subreddit": "CallOfJuarez",
+        "Twitter": "CoJ_Gunslinger",
+        "Twitch_id": "67939",
+        "Athena_Name": "call of juarez gunslinger"
+    },
+    {
+        "id": "99",
+        "Game": "Call of Senpai: Waifu Warfare Origins",
+        "App_id": "1786800",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "100",
+        "Game": "Call of the Wild: The Angler\u2122",
+        "App_id": "1408610",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "487237675",
+        "Athena_Name": "call of the wild"
+    },
+    {
+        "id": "101",
+        "Game": "Candle Knight",
+        "App_id": "1879680",
+        "Subreddit": "-1",
+        "Twitter": "DracmaStudios",
+        "Twitch_id": "609832166",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "102",
+        "Game": "Celestial Empire",
+        "App_id": "1330430",
+        "Subreddit": "CelestialEmpireGame",
+        "Twitter": "CelestialEmpr",
+        "Twitch_id": "1642321055",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "103",
+        "Game": "Cepheus Protocol",
+        "App_id": "979640",
+        "Subreddit": "CepheusProtocol",
+        "Twitter": "CepheusProtocol",
+        "Twitch_id": "517128",
+        "Athena_Name": "cepheus protocol"
+    },
+    {
+        "id": "104",
+        "Game": "Chants of Sennaar",
+        "App_id": "1931770",
+        "Subreddit": "-1",
+        "Twitter": "rundisc_",
+        "Twitch_id": "790563148",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "105",
+        "Game": "Chernobylite",
+        "App_id": "1016800",
+        "Subreddit": "Chernobylite",
+        "Twitter": "ChernobylGame",
+        "Twitch_id": "513597",
+        "Athena_Name": "chernobylite"
+    },
+    {
+        "id": "106",
+        "Game": "Chinese Paladin 7 (aka Sword and Fairy 7)",
+        "App_id": "1543030",
+        "Subreddit": "-1",
+        "Twitter": "SwordandFairy",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "107",
+        "Game": "Choo-Choo Charles",
+        "App_id": "1766740",
+        "Subreddit": "-1",
+        "Twitter": "TwoStarGames",
+        "Twitch_id": "2105826178",
+        "Athena_Name": "choo-choo charles"
+    },
+    {
+        "id": "108",
+        "Game": "Cities: Skylines",
+        "App_id": "255710",
+        "Subreddit": "CitiesSkylines",
+        "Twitter": "CitiesSkylines",
+        "Twitch_id": "461449",
+        "Athena_Name": "cities: skylines"
+    },
+    {
+        "id": "109",
+        "Game": "COCOON",
+        "App_id": "1497440",
+        "Subreddit": "-1",
+        "Twitter": "playcocoon",
+        "Twitch_id": "1224724068",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "110",
+        "Game": "Company of Heroes",
+        "App_id": "228200",
+        "Subreddit": "CompanyOfHeroes",
+        "Twitter": "CompanyOfHeroes",
+        "Twitch_id": "17343",
+        "Athena_Name": "company of heroes"
+    },
+    {
+        "id": "111",
+        "Game": "Company of Heroes 2",
+        "App_id": "231430",
+        "Subreddit": "CompanyOfHeroes",
+        "Twitter": "CompanyOfHeroes",
+        "Twitch_id": "65663",
+        "Athena_Name": "company of heroes 2"
+    },
+    {
+        "id": "112",
+        "Game": "Company of Heroes 3",
+        "App_id": "1677280",
+        "Subreddit": "CompanyOfHeroes",
+        "Twitter": "CompanyOfHeroes",
+        "Twitch_id": "1931776829",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "113",
+        "Game": "Conqueror's Blade",
+        "App_id": "905370",
+        "Subreddit": "ConquerorsBlade",
+        "Twitter": "official_ConqB",
+        "Twitch_id": "498523",
+        "Athena_Name": "conqueror's blade"
+    },
+    {
+        "id": "114",
+        "Game": "Control ",
+        "App_id": "870780",
+        "Subreddit": "ControlGame",
+        "Twitter": "ControlRemedy",
+        "Twitch_id": "506462",
+        "Athena_Name": "control"
+    },
+    {
+        "id": "115",
+        "Game": "Convallarid",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "116",
+        "Game": "Core Keeper",
+        "App_id": "1621690",
+        "Subreddit": "CoreKeeperGame",
+        "Twitter": "CoreKeeperGame",
+        "Twitch_id": "1728683467",
+        "Athena_Name": "core keeper"
+    },
+    {
+        "id": "117",
+        "Game": "Counter-Strike: Global Offensive",
+        "App_id": "730",
+        "Subreddit": "GlobalOffensive",
+        "Twitter": "CSGO",
+        "Twitch_id": "32399",
+        "Athena_Name": "counter-strike: global offensive"
+    },
+    {
+        "id": "118",
+        "Game": "Counter-Strike: Source",
+        "App_id": "240",
+        "Subreddit": "CounterStrikeSource",
+        "Twitter": "valvesoftware",
+        "Twitch_id": "10407",
+        "Athena_Name": "counter-strike: source"
+    },
+    {
+        "id": "119",
+        "Game": "Crime Boss",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "120",
+        "Game": "CRISIS CORE \u2013FINAL FANTASY VII\u2013 REUNION",
+        "App_id": "1608070",
+        "Subreddit": "FinalFantasy",
+        "Twitter": "SquareEnix",
+        "Twitch_id": "575087095",
+        "Athena_Name": "crisis core \u2013final fantasy vii\u2013 reunion"
+    },
+    {
+        "id": "121",
+        "Game": "Crossout",
+        "App_id": "386180",
+        "Subreddit": "Crossout",
+        "Twitter": "CROSSOUT_EN",
+        "Twitch_id": "492113",
+        "Athena_Name": "crossout"
+    },
+    {
+        "id": "122",
+        "Game": "CROWZ",
+        "App_id": "1692070",
+        "Subreddit": "CROWZ",
+        "Twitter": "Crowz_FPS",
+        "Twitch_id": "1312352364",
+        "Athena_Name": "crowz"
+    },
+    {
+        "id": "123",
+        "Game": "Crusader Kings II",
+        "App_id": "203770",
+        "Subreddit": "CrusaderKings",
+        "Twitter": "CrusaderKings",
+        "Twitch_id": "29364",
+        "Athena_Name": "crusader kings ii"
+    },
+    {
+        "id": "124",
+        "Game": "Crusader Kings III",
+        "App_id": "1158310",
+        "Subreddit": "CrusaderKings",
+        "Twitter": "CrusaderKings",
+        "Twitch_id": "514888",
+        "Athena_Name": "crusader kings iii"
+    },
+    {
+        "id": "125",
+        "Game": "Crysis Remastered",
+        "App_id": "1715130",
+        "Subreddit": "Crysis",
+        "Twitter": "Crysis",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "126",
+        "Game": "Cuphead",
+        "App_id": "268910",
+        "Subreddit": "Cuphead",
+        "Twitter": "StudioMDHR",
+        "Twitch_id": "459064",
+        "Athena_Name": "cuphead"
+    },
+    {
+        "id": "127",
+        "Game": "Cyberpunk 2077",
+        "App_id": "1091500",
+        "Subreddit": "cyberpunk",
+        "Twitter": "cyberpunkgame",
+        "Twitch_id": "65876",
+        "Athena_Name": "cyberpunk 2077"
+    },
+    {
+        "id": "128",
+        "Game": "Dakar Desert Rally",
+        "App_id": "1839940",
+        "Subreddit": "DakartheGame",
+        "Twitter": "DakartheGame",
+        "Twitch_id": "1980128527",
+        "Athena_Name": "dakar desert rally"
+    },
+    {
+        "id": "129",
+        "Game": "DARK SOULS\u2122 III",
+        "App_id": "374320",
+        "Subreddit": "darksouls3",
+        "Twitter": "darksoulsgame",
+        "Twitch_id": "490292",
+        "Athena_Name": "dark souls 3"
+    },
+    {
+        "id": "130",
+        "Game": "Days Gone",
+        "App_id": "1259420",
+        "Subreddit": "DaysGone",
+        "Twitter": "BendStudio",
+        "Twitch_id": "497456",
+        "Athena_Name": "days gone"
+    },
+    {
+        "id": "131",
+        "Game": "DayZ",
+        "App_id": "221100",
+        "Subreddit": "DayZ",
+        "Twitter": "DayZ",
+        "Twitch_id": "65632",
+        "Athena_Name": "dayz"
+    },
+    {
+        "id": "132",
+        "Game": "Dead by Daylight",
+        "App_id": "381210",
+        "Subreddit": "deadbydaylight",
+        "Twitter": "DeadByBHVR",
+        "Twitch_id": "491487",
+        "Athena_Name": "dead by daylight"
+    },
+    {
+        "id": "133",
+        "Game": "Dead Island 2",
+        "App_id": "999999",
+        "Subreddit": "deepsilver",
+        "Twitter": "deepsilver",
+        "Twitch_id": "460637",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "134",
+        "Game": "Dead Rising 4",
+        "App_id": "543460",
+        "Subreddit": "deadrising",
+        "Twitter": "deadrising",
+        "Twitch_id": "493389",
+        "Athena_Name": "dead rising 4"
+    },
+    {
+        "id": "135",
+        "Game": "Dead Space",
+        "App_id": "1693980",
+        "Subreddit": "DeadSpace",
+        "Twitter": "deadspace",
+        "Twitch_id": "1338005147",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "136",
+        "Game": "Dead Space\u2122 3",
+        "App_id": "1238060",
+        "Subreddit": "DeadSpace",
+        "Twitter": "DeadSpace",
+        "Twitch_id": "65706",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "137",
+        "Game": "Death Stranding",
+        "App_id": "1190460",
+        "Subreddit": "DeathStranding",
+        "Twitter": "DeathStranding_",
+        "Twitch_id": "494364",
+        "Athena_Name": "death stranding"
+    },
+    {
+        "id": "138",
+        "Game": "Death Stranding Director's Cut",
+        "App_id": "1850570",
+        "Subreddit": "DeathStranding",
+        "Twitter": "DeathStranding_",
+        "Twitch_id": "1594393054",
+        "Athena_Name": "death stranding director's cut"
+    },
+    {
+        "id": "139",
+        "Game": "Deathloop",
+        "App_id": "1252330",
+        "Subreddit": "Deathloop",
+        "Twitter": "Deathloop",
+        "Twitch_id": "512983",
+        "Athena_Name": "deathloop"
+    },
+    {
+        "id": "140",
+        "Game": "Deep Rock Galactic",
+        "App_id": "548430",
+        "Subreddit": "DeepRockGalactic",
+        "Twitter": "JoinDeepRock",
+        "Twitch_id": "494839",
+        "Athena_Name": "deep rock galactic"
+    },
+    {
+        "id": "141",
+        "Game": "Deliver Us Mars",
+        "App_id": "1345890",
+        "Subreddit": "-1",
+        "Twitter": "deliverusmars",
+        "Twitch_id": "259714694",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "142",
+        "Game": "Delysium",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "The_Delysium",
+        "Twitch_id": "504508",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "143",
+        "Game": "Destiny 2",
+        "App_id": "1085660",
+        "Subreddit": "destiny2",
+        "Twitter": "DestinyTheGame",
+        "Twitch_id": "497057",
+        "Athena_Name": "destiny 2"
+    },
+    {
+        "id": "144",
+        "Game": "Destiny 2: LightFall",
+        "App_id": "1945340",
+        "Subreddit": "destiny2",
+        "Twitter": "DestinyTheGame",
+        "Twitch_id": "497057",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "145",
+        "Game": "Destroy All Humans! 2 - Reprobed",
+        "App_id": "1266700",
+        "Subreddit": "DestroyAllHumans",
+        "Twitter": "DAH2Reprobed",
+        "Twitch_id": "1077050377",
+        "Athena_Name": "destroy all humans! 2 - reprobed"
+    },
+    {
+        "id": "146",
+        "Game": "Detroit: Become Human",
+        "App_id": "1222140",
+        "Subreddit": "DetroitBecomeHuman",
+        "Twitter": "detroit_game",
+        "Twitch_id": "497480",
+        "Athena_Name": "half-life: alyx"
+    },
+    {
+        "id": "147",
+        "Game": "Deus Ex: Mankind Divided\u2122",
+        "App_id": "337000",
+        "Subreddit": "Deusex",
+        "Twitter": "Deusex",
+        "Twitch_id": "489376",
+        "Athena_Name": "deus ex: mankind divided\u2122"
+    },
+    {
+        "id": "148",
+        "Game": "Devil May Cry 5",
+        "App_id": "601150",
+        "Subreddit": "DevilMayCry",
+        "Twitter": "DevilMayCry",
+        "Twitch_id": "506412",
+        "Athena_Name": "devil may cry 5"
+    },
+    {
+        "id": "149",
+        "Game": "DEVOUR",
+        "App_id": "1274570",
+        "Subreddit": "DEVOUR",
+        "Twitter": "DEVOUR_GAME",
+        "Twitch_id": "836519689",
+        "Athena_Name": "devour"
+    },
+    {
+        "id": "150",
+        "Game": "Diablo 3",
+        "App_id": "999999",
+        "Subreddit": "diablo3",
+        "Twitter": "diablo",
+        "Twitch_id": "313558",
+        "Athena_Name": "diablo iii"
+    },
+    {
+        "id": "151",
+        "Game": "Diablo IV",
+        "App_id": "999999",
+        "Subreddit": "diablo3",
+        "Twitter": "diablo",
+        "Twitch_id": "515024",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "152",
+        "Game": "DiRT 4",
+        "App_id": "421020",
+        "Subreddit": "DirtGame",
+        "Twitter": "DirtGame",
+        "Twitch_id": "495317",
+        "Athena_Name": "dirt 4"
+    },
+    {
+        "id": "153",
+        "Game": "Dirt 5",
+        "App_id": "1038250",
+        "Subreddit": "DirtGame",
+        "Twitter": "EASPORTSRally",
+        "Twitch_id": "517408",
+        "Athena_Name": "dirt 5"
+    },
+    {
+        "id": "154",
+        "Game": "Disco Elysium",
+        "App_id": "632470",
+        "Subreddit": "DiscoElysium",
+        "Twitter": "DiscoElysium",
+        "Twitch_id": "504508",
+        "Athena_Name": "disco elysium"
+    },
+    {
+        "id": "155",
+        "Game": "Dishonored 2",
+        "App_id": "403640",
+        "Subreddit": "dishonored",
+        "Twitter": "dishonored",
+        "Twitch_id": "490348",
+        "Athena_Name": "dishonored 2"
+    },
+    {
+        "id": "156",
+        "Game": "Distant Worlds 2",
+        "App_id": "1531540",
+        "Subreddit": "DistantWorlds",
+        "Twitter": "slitherinegames",
+        "Twitch_id": "519298",
+        "Athena_Name": "distant worlds 2"
+    },
+    {
+        "id": "157",
+        "Game": "Divine Knock Out",
+        "App_id": "1294660",
+        "Subreddit": "DivineKnockout",
+        "Twitter": "DKOgame",
+        "Twitch_id": "330358169",
+        "Athena_Name": "divine knockout (dko)"
+    },
+    {
+        "id": "158",
+        "Game": "Divinity: Original Sin 2",
+        "App_id": "435150",
+        "Subreddit": "DivinityOriginalSin",
+        "Twitter": "larianstudios",
+        "Twitch_id": "490644",
+        "Athena_Name": "divinity: original sin 2"
+    },
+    {
+        "id": "159",
+        "Game": "Dolmen",
+        "App_id": "831050",
+        "Subreddit": "DolmenGame",
+        "Twitter": "DolmenGame",
+        "Twitch_id": "505566",
+        "Athena_Name": "dolmen"
+    },
+    {
+        "id": "160",
+        "Game": "Don't Starve Together",
+        "App_id": "322330",
+        "Subreddit": "dontstarve",
+        "Twitter": "klei",
+        "Twitch_id": "488634",
+        "Athena_Name": "don't starve together"
+    },
+    {
+        "id": "161",
+        "Game": "DOOM",
+        "App_id": "379720",
+        "Subreddit": "doom",
+        "Twitter": "doom",
+        "Twitch_id": "6715",
+        "Athena_Name": "doom"
+    },
+    {
+        "id": "162",
+        "Game": "DOOM Eternal",
+        "App_id": "782330",
+        "Subreddit": "doom",
+        "Twitter": "doom",
+        "Twitch_id": "506442",
+        "Athena_Name": "doom eternal"
+    },
+    {
+        "id": "163",
+        "Game": "Dordogne",
+        "App_id": "1272840",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "516987",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "164",
+        "Game": "Dota 2",
+        "App_id": "570",
+        "Subreddit": "DotA2",
+        "Twitter": "DOTA2",
+        "Twitch_id": "29595",
+        "Athena_Name": "dota 2"
+    },
+    {
+        "id": "165",
+        "Game": "Dragon Age\u2122 Inquisition",
+        "App_id": "1222690",
+        "Subreddit": "DragonAge",
+        "Twitter": "DragonAge",
+        "Twitch_id": "31761",
+        "Athena_Name": "dragon age\u2122 inquisition"
+    },
+    {
+        "id": "166",
+        "Game": "Dread Hunger",
+        "App_id": "1418630",
+        "Subreddit": "DreadHunger",
+        "Twitter": "DreadHungerGame",
+        "Twitch_id": "511181708",
+        "Athena_Name": "dread hunger"
+    },
+    {
+        "id": "167",
+        "Game": "Dream Cycle",
+        "App_id": "1105590",
+        "Subreddit": "-1",
+        "Twitter": "DreamCycleGame",
+        "Twitch_id": "931530922",
+        "Athena_Name": "dream cycle"
+    },
+    {
+        "id": "168",
+        "Game": "Duke Nukem ",
+        "App_id": "434050",
+        "Subreddit": "dukenukem",
+        "Twitter": "dukenukemgame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "169",
+        "Game": "Dune: Spice Wars",
+        "App_id": "1605220",
+        "Subreddit": "Dunespicewars",
+        "Twitter": "DuneSpiceWars",
+        "Twitch_id": "1482819933",
+        "Athena_Name": "dune: spice wars"
+    },
+    {
+        "id": "170",
+        "Game": "Dustborn",
+        "App_id": "721180",
+        "Subreddit": "-1",
+        "Twitter": "RedThreadGames",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "171",
+        "Game": "Dwarf Fortress",
+        "App_id": "975370",
+        "Subreddit": "dwarffortress",
+        "Twitter": "Bay12Games",
+        "Twitch_id": "19660",
+        "Athena_Name": "dwarf fortress"
+    },
+    {
+        "id": "172",
+        "Game": "Dying Light",
+        "App_id": "239140",
+        "Subreddit": "dyinglight",
+        "Twitter": "DyingLightGame",
+        "Twitch_id": "369380",
+        "Athena_Name": "dying light"
+    },
+    {
+        "id": "173",
+        "Game": "Dying Light 2",
+        "App_id": "534380",
+        "Subreddit": "dyinglight",
+        "Twitter": "dyinglightgame",
+        "Twitch_id": "506410",
+        "Athena_Name": "dying light 2"
+    },
+    {
+        "id": "174",
+        "Game": "DYSTERRA",
+        "App_id": "1527890",
+        "Subreddit": "Dysterra",
+        "Twitter": "dysterra_ofcl",
+        "Twitch_id": "117074148",
+        "Athena_Name": "dysterra"
+    },
+    {
+        "id": "175",
+        "Game": "eFootball\u2122 2022",
+        "App_id": "1665460",
+        "Subreddit": "eFootball",
+        "Twitter": "play_eFootball",
+        "Twitch_id": "1061323687",
+        "Athena_Name": "efootball\u2122 2022"
+    },
+    {
+        "id": "176",
+        "Game": "Elden Ring",
+        "App_id": "1245620",
+        "Subreddit": "EldenRing",
+        "Twitter": "ELDENRING",
+        "Twitch_id": "512953",
+        "Athena_Name": "elden ring"
+    },
+    {
+        "id": "177",
+        "Game": "Element TD 2",
+        "App_id": "1018830",
+        "Subreddit": "EleTD2",
+        "Twitter": "EleTDStudios",
+        "Twitch_id": "516491",
+        "Athena_Name": "element td 2"
+    },
+    {
+        "id": "178",
+        "Game": "Elite Dangerous",
+        "App_id": "359320",
+        "Subreddit": "EliteDangerous",
+        "Twitter": "EliteDangerous",
+        "Twitch_id": "80607",
+        "Athena_Name": "elite dangerous"
+    },
+    {
+        "id": "179",
+        "Game": "Endless Dungeon",
+        "App_id": "1485590",
+        "Subreddit": "EndlessDungeonGame",
+        "Twitter": "EndlessUniverse",
+        "Twitch_id": "2145566326",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "180",
+        "Game": "ENENRA",
+        "App_id": "1963690",
+        "Subreddit": "-1",
+        "Twitter": "ENENRAGame",
+        "Twitch_id": "1457346037",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "181",
+        "Game": "Enlisted",
+        "App_id": "999999",
+        "Subreddit": "enlistedgame",
+        "Twitter": "EnlistedGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "182",
+        "Game": "Escape from New York",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "183",
+        "Game": "Escape from Tarkov",
+        "App_id": "999999",
+        "Subreddit": "EscapefromTarkov",
+        "Twitter": "Tarkov",
+        "Twitch_id": "491931",
+        "Athena_Name": "escape from tarkov"
+    },
+    {
+        "id": "184",
+        "Game": "Eternal Return",
+        "App_id": "1049590",
+        "Subreddit": "eternalreturn",
+        "Twitter": "_EternalReturn_",
+        "Twitch_id": "512864",
+        "Athena_Name": "eternal return"
+    },
+    {
+        "id": "185",
+        "Game": "Euro Truck Simulator 2",
+        "App_id": "227300",
+        "Subreddit": "EuroTruck2",
+        "Twitter": "SCSsoftware",
+        "Twitch_id": "75467",
+        "Athena_Name": "euro truck simulator 2 demo"
+    },
+    {
+        "id": "186",
+        "Game": "Europa Universalis IV",
+        "App_id": "236850",
+        "Subreddit": "EU4",
+        "Twitter": "E_Universalis",
+        "Twitch_id": "67584",
+        "Athena_Name": "europa universalis iv"
+    },
+    {
+        "id": "187",
+        "Game": "EVE Online",
+        "App_id": "8500",
+        "Subreddit": "Eve",
+        "Twitter": "EveOnline",
+        "Twitch_id": "13263",
+        "Athena_Name": "eve online"
+    },
+    {
+        "id": "188",
+        "Game": "Everwild",
+        "App_id": "999999",
+        "Subreddit": "Everwild",
+        "Twitter": "RareLtd",
+        "Twitch_id": "515155",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "189",
+        "Game": "Everywhere",
+        "App_id": "999999",
+        "Subreddit": "EverywhereGame",
+        "Twitter": "everywhere_game",
+        "Twitch_id": "516249",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "190",
+        "Game": "Evil Dead: The Game",
+        "App_id": "999999",
+        "Subreddit": "EvilDeadTheGame",
+        "Twitter": "EvilDeadTheGame",
+        "Twitch_id": "1022719138",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "191",
+        "Game": "Evil Genius 2",
+        "App_id": "700600",
+        "Subreddit": "evilgenius",
+        "Twitter": "evilgenius",
+        "Twitch_id": "498304",
+        "Athena_Name": "evil genius 2"
+    },
+    {
+        "id": "192",
+        "Game": "Evil West",
+        "App_id": "1065310",
+        "Subreddit": "evilwestgame",
+        "Twitter": "playEvilWest",
+        "Twitch_id": "1488417149",
+        "Athena_Name": "evil west"
+    },
+    {
+        "id": "193",
+        "Game": "EvilvEvil",
+        "App_id": "809090",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "1816153624",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "194",
+        "Game": "EXILE",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "3319",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "195",
+        "Game": "Exoprimal",
+        "App_id": "1286320",
+        "Subreddit": "exoprimal",
+        "Twitter": "Exoprimal",
+        "Twitch_id": "1921324857",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "196",
+        "Game": "F1 2018",
+        "App_id": "737800",
+        "Subreddit": "F1Game",
+        "Twitter": "Formula1Game",
+        "Twitch_id": "508440",
+        "Athena_Name": "f1 2018"
+    },
+    {
+        "id": "197",
+        "Game": "F1 2019",
+        "App_id": "928600",
+        "Subreddit": "F1Game",
+        "Twitter": "Formula1Game",
+        "Twitch_id": "512457",
+        "Athena_Name": "f1 2019"
+    },
+    {
+        "id": "198",
+        "Game": "F1 2020",
+        "App_id": "1080110",
+        "Subreddit": "F1Game",
+        "Twitter": "Formula1Game",
+        "Twitch_id": "517174",
+        "Athena_Name": "f1 2020"
+    },
+    {
+        "id": "199",
+        "Game": "F1 2021",
+        "App_id": "1134570",
+        "Subreddit": "F1Game",
+        "Twitter": "Formula1Game",
+        "Twitch_id": "752590871",
+        "Athena_Name": "f1 2021"
+    },
+    {
+        "id": "200",
+        "Game": "F1 2022",
+        "App_id": "1692250",
+        "Subreddit": "F1Game",
+        "Twitter": "Formula1Game",
+        "Twitch_id": "1705795372",
+        "Athena_Name": "f1\u00ae 22"
+    },
+    {
+        "id": "201",
+        "Game": "F1 23",
+        "App_id": "999999",
+        "Subreddit": "F1Game",
+        "Twitter": "Formula1Game",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "202",
+        "Game": "Factorio",
+        "App_id": "427520",
+        "Subreddit": "Factorio",
+        "Twitter": "FactorioGame",
+        "Twitch_id": "130942",
+        "Athena_Name": "factorio"
+    },
+    {
+        "id": "203",
+        "Game": "Faith of Danschant",
+        "App_id": "724970",
+        "Subreddit": "-1",
+        "Twitter": "Fdanschant",
+        "Twitch_id": "502004",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "204",
+        "Game": "Fall Guys: Ultimate Knockout",
+        "App_id": "1097150",
+        "Subreddit": "FallGuysGame",
+        "Twitter": "FallGuysGame",
+        "Twitch_id": "512980",
+        "Athena_Name": "fall guys: ultimate knockout"
+    },
+    {
+        "id": "205",
+        "Game": "Fallout 4",
+        "App_id": "377160",
+        "Subreddit": "fo4",
+        "Twitter": "Fallout",
+        "Twitch_id": "489776",
+        "Athena_Name": "fallout 4"
+    },
+    {
+        "id": "206",
+        "Game": "Fallout 76",
+        "App_id": "1151340",
+        "Subreddit": "fo76",
+        "Twitter": "Fallout",
+        "Twitch_id": "506246",
+        "Athena_Name": "fallout 76"
+    },
+    {
+        "id": "207",
+        "Game": "Fallout: New Vegas",
+        "App_id": "22380",
+        "Subreddit": "fnv",
+        "Twitter": "obsidian",
+        "Twitch_id": "23453",
+        "Athena_Name": "fallout: new vegas"
+    },
+    {
+        "id": "208",
+        "Game": "Far Cry 3",
+        "App_id": "220240",
+        "Subreddit": "FarCry",
+        "Twitter": "FarCryGame",
+        "Twitch_id": "29635",
+        "Athena_Name": "far cry 3"
+    },
+    {
+        "id": "209",
+        "Game": "Far Cry 4",
+        "App_id": "298110",
+        "Subreddit": "FarCry",
+        "Twitter": "FarCryGame",
+        "Twitch_id": "460384",
+        "Athena_Name": "far cry 4"
+    },
+    {
+        "id": "210",
+        "Game": "Far Cry 5",
+        "App_id": "552520",
+        "Subreddit": "FarCry",
+        "Twitter": "FarCryGame",
+        "Twitch_id": "497078",
+        "Athena_Name": "far cry 5"
+    },
+    {
+        "id": "211",
+        "Game": "Far Cry 6",
+        "App_id": "999999",
+        "Subreddit": "FarCry",
+        "Twitter": "FarCryGame",
+        "Twitch_id": "518692",
+        "Athena_Name": "far cry 6"
+    },
+    {
+        "id": "212",
+        "Game": "Far Cry New Dawn",
+        "App_id": "939960",
+        "Subreddit": "farcry",
+        "Twitter": "FarCryGame",
+        "Twitch_id": "510586",
+        "Athena_Name": "far cry new dawn"
+    },
+    {
+        "id": "213",
+        "Game": "Farming Simulator 17",
+        "App_id": "447020",
+        "Subreddit": "farmingsimulator",
+        "Twitter": "FarmingSim",
+        "Twitch_id": "493982",
+        "Athena_Name": "farming simulator 17"
+    },
+    {
+        "id": "214",
+        "Game": "Farming Simulator 19",
+        "App_id": "787860",
+        "Subreddit": "FarmingSimulator",
+        "Twitter": "FarmingSim",
+        "Twitch_id": "504689",
+        "Athena_Name": "farming simulator 19"
+    },
+    {
+        "id": "215",
+        "Game": "Farming Simulator 22",
+        "App_id": "1248130",
+        "Subreddit": "FarmingSimulator",
+        "Twitter": "FarmingSim",
+        "Twitch_id": "1241582824",
+        "Athena_Name": "farming simulator 22"
+    },
+    {
+        "id": "216",
+        "Game": "Farthest Frontier",
+        "App_id": "1044720",
+        "Subreddit": "FarthestFrontier",
+        "Twitter": "Crate_Frontier",
+        "Twitch_id": "105169862",
+        "Athena_Name": "farthest frontier"
+    },
+    {
+        "id": "217",
+        "Game": "Fata Deum",
+        "App_id": "1330360",
+        "Subreddit": "FataDeum",
+        "Twitter": "42BitsEntertain",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "218",
+        "Game": "FIFA 22",
+        "App_id": "1506830",
+        "Subreddit": "FIFA",
+        "Twitter": "EASPORTSFIFA",
+        "Twitch_id": "1869092879",
+        "Athena_Name": "fifa 22"
+    },
+    {
+        "id": "219",
+        "Game": "FIFA 23",
+        "App_id": "1811260",
+        "Subreddit": "FIFA",
+        "Twitter": "EASPORTSFIFA",
+        "Twitch_id": "1745202732",
+        "Athena_Name": "fifa 23"
+    },
+    {
+        "id": "220",
+        "Game": "Figment Creed Valley",
+        "App_id": "1085220",
+        "Subreddit": "-1",
+        "Twitter": "BedtimeDG",
+        "Twitch_id": "519459",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "221",
+        "Game": "FINAL FANTASY XIV Online",
+        "App_id": "39210",
+        "Subreddit": "ffxiv",
+        "Twitter": "FF_XIV_EN",
+        "Twitch_id": "24241",
+        "Athena_Name": "final fantasy xiv online"
+    },
+    {
+        "id": "222",
+        "Game": "Final Fantasy XV",
+        "App_id": "637650",
+        "Subreddit": "FFXV",
+        "Twitter": "FFXVEN",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "223",
+        "Game": "Fira",
+        "App_id": "1730450",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "836872097",
+        "Athena_Name": "fira"
+    },
+    {
+        "id": "224",
+        "Game": "Firebird",
+        "App_id": "1633860",
+        "Subreddit": "-1",
+        "Twitter": "LudogramGames",
+        "Twitch_id": "1773706038",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "225",
+        "Game": "Fishing Planet",
+        "App_id": "380600",
+        "Subreddit": "FishingPlanet",
+        "Twitter": "FishingPlanetUS",
+        "Twitch_id": "491117",
+        "Athena_Name": "fishing planet"
+    },
+    {
+        "id": "226",
+        "Game": "Flintlock: The Siege of Dawn",
+        "App_id": "1832040",
+        "Subreddit": "flintlock",
+        "Twitter": "PlayFlintlock",
+        "Twitch_id": "1928314604",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "227",
+        "Game": "Football Manager 2022",
+        "App_id": "1569040",
+        "Subreddit": "footballmanagergames",
+        "Twitter": "FootballManager",
+        "Twitch_id": "586622463",
+        "Athena_Name": "football manager 2022"
+    },
+    {
+        "id": "228",
+        "Game": "Football Manager 2023",
+        "App_id": "1904540",
+        "Subreddit": "footballmanagergames",
+        "Twitter": "FootballManager",
+        "Twitch_id": "1047410718",
+        "Athena_Name": "football manager 2023"
+    },
+    {
+        "id": "229",
+        "Game": "For Honor",
+        "App_id": "304390",
+        "Subreddit": "forhonor",
+        "Twitter": "forhonorgame",
+        "Twitch_id": "490382",
+        "Athena_Name": "for honor"
+    },
+    {
+        "id": "230",
+        "Game": "Forever Skies",
+        "App_id": "1641960",
+        "Subreddit": "FlyForeverSkies",
+        "Twitter": "FlyForeverSkies",
+        "Twitch_id": "954250822",
+        "Athena_Name": "forever skies"
+    },
+    {
+        "id": "231",
+        "Game": "Forspoken",
+        "App_id": "1680880",
+        "Subreddit": "Forspoken",
+        "Twitter": "forspoken",
+        "Twitch_id": "518012",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "232",
+        "Game": "Fort Solis",
+        "App_id": "1931730",
+        "Subreddit": "FortSolis",
+        "Twitter": "FallenLeafSA",
+        "Twitch_id": "140584091",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "233",
+        "Game": "Fortnite",
+        "App_id": "999999",
+        "Subreddit": "FortNiteBR",
+        "Twitter": "FortniteGame",
+        "Twitch_id": "33214",
+        "Athena_Name": "fortnite"
+    },
+    {
+        "id": "234",
+        "Game": "Forza Horizon 4",
+        "App_id": "1293830",
+        "Subreddit": "ForzaHorizon",
+        "Twitter": "ForzaHorizon",
+        "Twitch_id": "506413",
+        "Athena_Name": "forza horizon 4"
+    },
+    {
+        "id": "235",
+        "Game": "Forza Horizon 5",
+        "App_id": "1551360",
+        "Subreddit": "ForzaHorizon",
+        "Twitter": "ForzaHorizon",
+        "Twitch_id": "1757732267",
+        "Athena_Name": "forza horizon 5"
+    },
+    {
+        "id": "236",
+        "Game": "Forza Motorsports",
+        "App_id": "999999",
+        "Subreddit": "ForzaHorizon",
+        "Twitter": "ForzaHorizon",
+        "Twitch_id": "497411",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "237",
+        "Game": "FPlus",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "238",
+        "Game": "Friday the 13th: The Game",
+        "App_id": "438740",
+        "Subreddit": "F13thegame",
+        "Twitter": "friday13thgame",
+        "Twitch_id": "488518",
+        "Athena_Name": "friday the 13th: the game"
+    },
+    {
+        "id": "239",
+        "Game": "Frostpunk",
+        "App_id": "323190",
+        "Subreddit": "frostpunk",
+        "Twitter": "frostpunkgame",
+        "Twitch_id": "493549",
+        "Athena_Name": "frostpunk"
+    },
+    {
+        "id": "240",
+        "Game": "Frostpunk 2",
+        "App_id": "1601580",
+        "Subreddit": "Frostpunk",
+        "Twitter": "FrostpunkGame",
+        "Twitch_id": "547501449",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "241",
+        "Game": "Galactic Civilizations III",
+        "App_id": "226860",
+        "Subreddit": "GalCiv",
+        "Twitter": "GalCiv",
+        "Twitch_id": "460072",
+        "Athena_Name": "galactic civilizations iii"
+    },
+    {
+        "id": "242",
+        "Game": "Garry's Mod",
+        "App_id": "4000",
+        "Subreddit": "gmod",
+        "Twitter": "valvesoftware",
+        "Twitch_id": "18846",
+        "Athena_Name": "garry's mod"
+    },
+    {
+        "id": "243",
+        "Game": "Gears 5",
+        "App_id": "1097840",
+        "Subreddit": "GearsOfWar",
+        "Twitter": "GearsOfWar",
+        "Twitch_id": "506407",
+        "Athena_Name": "gears 5"
+    },
+    {
+        "id": "244",
+        "Game": "Gears Tactics",
+        "App_id": "1184050",
+        "Subreddit": "GearsTactics",
+        "Twitter": "CoalitionGears",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "245",
+        "Game": "Genshin Impact",
+        "App_id": "999999",
+        "Subreddit": "Genshin_Impact",
+        "Twitter": "GenshinImpact",
+        "Twitch_id": "513181",
+        "Athena_Name": "genshin impact"
+    },
+    {
+        "id": "246",
+        "Game": "Gerda: A Flame in Winter",
+        "App_id": "1771360",
+        "Subreddit": "-1",
+        "Twitter": "DONTNOD_Ent",
+        "Twitch_id": "169884186",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "247",
+        "Game": "Ghost Recon: Breakpoint",
+        "App_id": "2231380",
+        "Subreddit": "BreakPoint",
+        "Twitter": "GhostRecon",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "248",
+        "Game": "Ghostbusters: Spirits Unleashed",
+        "App_id": "999999",
+        "Subreddit": "SpiritsUnleashed",
+        "Twitter": "GhostbustersSU",
+        "Twitch_id": "783596487",
+        "Athena_Name": "ghostbusters: the video game remastered"
+    },
+    {
+        "id": "249",
+        "Game": "Ghostrunner",
+        "App_id": "1139900",
+        "Subreddit": "Ghostrunner",
+        "Twitter": "GhostrunnerGame",
+        "Twitch_id": "513971",
+        "Athena_Name": "ghostrunner"
+    },
+    {
+        "id": "250",
+        "Game": "Ghostwire Tokyo",
+        "App_id": "1475810",
+        "Subreddit": "GhostwireTokyo",
+        "Twitter": "playGhostwire",
+        "Twitch_id": "512984",
+        "Athena_Name": "ghostwire tokyo"
+    },
+    {
+        "id": "251",
+        "Game": "Goat Simulator",
+        "App_id": "265930",
+        "Subreddit": "GoatSimulator",
+        "Twitter": "GoatSimulator",
+        "Twitch_id": "417697",
+        "Athena_Name": "goat simulator"
+    },
+    {
+        "id": "252",
+        "Game": "Goat Simulator 3 ",
+        "App_id": "999999",
+        "Subreddit": "GoatSimulator",
+        "Twitter": "GoatSimulator",
+        "Twitch_id": "1942870634",
+        "Athena_Name": "goat simulator"
+    },
+    {
+        "id": "253",
+        "Game": "God of War",
+        "App_id": "1593500",
+        "Subreddit": "GodofWar",
+        "Twitter": "SonySantaMonica",
+        "Twitch_id": "6369",
+        "Athena_Name": "god of war"
+    },
+    {
+        "id": "254",
+        "Game": "Godfall",
+        "App_id": "928960",
+        "Subreddit": "PlayGodfall",
+        "Twitter": "PlayGodfall",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "255",
+        "Game": "Goose Goose Duck",
+        "App_id": "1568590",
+        "Subreddit": "goosegooseduck",
+        "Twitter": "ggd_game",
+        "Twitch_id": "14333696",
+        "Athena_Name": "goose goose duck"
+    },
+    {
+        "id": "256",
+        "Game": "Gord",
+        "App_id": "1351210",
+        "Subreddit": "-1",
+        "Twitter": "GordTheGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "257",
+        "Game": "Gori: Cuddle Carnage",
+        "App_id": "1299690",
+        "Subreddit": "-1",
+        "Twitter": "GoriCarnage",
+        "Twitch_id": "518092",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "258",
+        "Game": "Gotham Knights",
+        "App_id": "1496790",
+        "Subreddit": "GothamKnights",
+        "Twitter": "GothamKnights",
+        "Twitch_id": "519306",
+        "Athena_Name": "gotham knights"
+    },
+    {
+        "id": "259",
+        "Game": "Grand Theft Auto V",
+        "App_id": "271590",
+        "Subreddit": "gtaonline",
+        "Twitter": "rockstargames",
+        "Twitch_id": "32982",
+        "Athena_Name": "grand theft auto v"
+    },
+    {
+        "id": "260",
+        "Game": "Grapple Hoops",
+        "App_id": "1545600",
+        "Subreddit": "-1",
+        "Twitter": "gamedevandrew",
+        "Twitch_id": "1059366930",
+        "Athena_Name": "grapple hoops"
+    },
+    {
+        "id": "261",
+        "Game": "Green Hawk Platoon",
+        "App_id": "2077890",
+        "Subreddit": "-1",
+        "Twitter": "ghawk_platoon",
+        "Twitch_id": "425532029",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "262",
+        "Game": "Green Hell",
+        "App_id": "815370",
+        "Subreddit": "GreenHell",
+        "Twitter": "GreenHellGame",
+        "Twitch_id": "506078",
+        "Athena_Name": "green hell"
+    },
+    {
+        "id": "263",
+        "Game": "GRID",
+        "App_id": "703860",
+        "Subreddit": "gridgame",
+        "Twitter": "gridgame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "264",
+        "Game": "GRID Legends",
+        "App_id": "1307710",
+        "Subreddit": "gridgame",
+        "Twitter": "gridgame",
+        "Twitch_id": "1402483528",
+        "Athena_Name": "grid legends"
+    },
+    {
+        "id": "265",
+        "Game": "Grim Dawn",
+        "App_id": "219990",
+        "Subreddit": "Grimdawn",
+        "Twitter": "Grimdawn",
+        "Twitch_id": "26881",
+        "Athena_Name": "grim dawn"
+    },
+    {
+        "id": "266",
+        "Game": "Ground Branch",
+        "App_id": "16900",
+        "Subreddit": "groundbranch",
+        "Twitter": "groundbranch",
+        "Twitch_id": "21381",
+        "Athena_Name": "ground branch"
+    },
+    {
+        "id": "267",
+        "Game": "Grounded",
+        "App_id": "962130",
+        "Subreddit": "GroundedGame",
+        "Twitter": "GroundedTheGame",
+        "Twitch_id": "516086",
+        "Athena_Name": "grounded"
+    },
+    {
+        "id": "268",
+        "Game": "Guild Wars 2",
+        "App_id": "999999",
+        "Subreddit": "guildwars2",
+        "Twitter": "guildwars2",
+        "Twitch_id": "19357",
+        "Athena_Name": "guild wars 2"
+    },
+    {
+        "id": "269",
+        "Game": "GUNDAM EVOLUTION",
+        "App_id": "1816670",
+        "Subreddit": "GundamEvolution",
+        "Twitter": "GundamEvolution",
+        "Twitch_id": "584047654",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "270",
+        "Game": "Gungrave G.O.R.E",
+        "App_id": "1630110",
+        "Subreddit": "GUNGRAVEGORE",
+        "Twitter": "GungraveGORE",
+        "Twitch_id": "501087",
+        "Athena_Name": "gungrave g.o.r.e"
+    },
+    {
+        "id": "271",
+        "Game": "Gunslinger Stratos F2P",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "TaitoCorp",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "272",
+        "Game": "Hades",
+        "App_id": "1145360",
+        "Subreddit": "HadesTheGame",
+        "Twitter": "supergiantgames",
+        "Twitch_id": "510590",
+        "Athena_Name": "hades"
+    },
+    {
+        "id": "273",
+        "Game": "Half Life",
+        "App_id": "70",
+        "Subreddit": "HalfLife",
+        "Twitter": "valvesoftware",
+        "Twitch_id": "2755",
+        "Athena_Name": "half life 1.1"
+    },
+    {
+        "id": "274",
+        "Game": "Half-Life: Alyx",
+        "App_id": "546560",
+        "Subreddit": "HalfLifeAlyx",
+        "Twitter": "valvesoftware",
+        "Twitch_id": "515195",
+        "Athena_Name": "half-life: alyx"
+    },
+    {
+        "id": "275",
+        "Game": "Halo Infinite",
+        "App_id": "1240440",
+        "Subreddit": "halo",
+        "Twitter": "halo",
+        "Twitch_id": "506416",
+        "Athena_Name": "halo infinite"
+    },
+    {
+        "id": "276",
+        "Game": "Halo: The Master Chief Collection",
+        "App_id": "976730",
+        "Subreddit": "halo",
+        "Twitter": "halo",
+        "Twitch_id": "417969",
+        "Athena_Name": "halo: the master chief collection"
+    },
+    {
+        "id": "277",
+        "Game": "Hard Justice",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "278",
+        "Game": "Hard West 2",
+        "App_id": "1282410",
+        "Subreddit": "HardWest2",
+        "Twitter": "HardWest2",
+        "Twitch_id": "1840978657",
+        "Athena_Name": "hard west 2"
+    },
+    {
+        "id": "279",
+        "Game": "Hardspace: Shipbreaker",
+        "App_id": "1161580",
+        "Subreddit": "Shipbreaker",
+        "Twitter": "shipbreakergame",
+        "Twitch_id": "516374",
+        "Athena_Name": "hardspace: shipbreaker"
+    },
+    {
+        "id": "280",
+        "Game": "Harvestella",
+        "App_id": "1816300",
+        "Subreddit": "HARVESTELLA",
+        "Twitter": "harvestella",
+        "Twitch_id": "1824567799",
+        "Athena_Name": "harvestella"
+    },
+    {
+        "id": "281",
+        "Game": "Hearts of Iron IV",
+        "App_id": "394360",
+        "Subreddit": "hoi4",
+        "Twitter": "HOI_Game",
+        "Twitch_id": "459327",
+        "Athena_Name": "hearts of iron iv"
+    },
+    {
+        "id": "282",
+        "Game": "Heavy Duty Challenge",
+        "App_id": "1165530",
+        "Subreddit": "HeavyDutyChallenge",
+        "Twitter": "hdcthegame",
+        "Twitch_id": "2040602633",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "283",
+        "Game": "Heavy Rain",
+        "App_id": "960910",
+        "Subreddit": "HeavyRain",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "284",
+        "Game": "Hell Let Loose",
+        "App_id": "686810",
+        "Subreddit": "HellLetLoose",
+        "Twitter": "hell_let_loose",
+        "Twitch_id": "497440",
+        "Athena_Name": "hell let loose"
+    },
+    {
+        "id": "285",
+        "Game": "Hell Pie",
+        "App_id": "889910",
+        "Subreddit": "HellPieGame",
+        "Twitter": "SluggerflyDev",
+        "Twitch_id": "1648388952",
+        "Athena_Name": "hell pie"
+    },
+    {
+        "id": "286",
+        "Game": "Hellblade 2",
+        "App_id": "999999",
+        "Subreddit": "hellblade",
+        "Twitter": "NinjaTheory",
+        "Twitch_id": "515482",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "287",
+        "Game": "Hellblade: Senua's Sacrifice",
+        "App_id": "414340",
+        "Subreddit": "hellblade",
+        "Twitter": "NinjaTheory",
+        "Twitch_id": "461410",
+        "Athena_Name": "hellblade: senua's sacrifice"
+    },
+    {
+        "id": "288",
+        "Game": "HELLDIVERS\u2122",
+        "App_id": "394510",
+        "Subreddit": "Helldivers",
+        "Twitter": "HelldiversGame",
+        "Twitch_id": "313521",
+        "Athena_Name": "helldivers\u2122"
+    },
+    {
+        "id": "289",
+        "Game": "Hello Neighbor 2",
+        "App_id": "1321680",
+        "Subreddit": "HelloNeighborGame",
+        "Twitter": "NeighborGamesHQ",
+        "Twitch_id": "518878",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "290",
+        "Game": "Hi-Fi Rush",
+        "App_id": "1817230",
+        "Subreddit": "HiFiRush",
+        "Twitter": "hifiRush",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "291",
+        "Game": "Highline Volleyball VR",
+        "App_id": "1852940",
+        "Subreddit": "-1",
+        "Twitter": "pdiumsuperint",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "292",
+        "Game": "HITMAN 3",
+        "App_id": "1659040",
+        "Subreddit": "hitman",
+        "Twitter": "hitman",
+        "Twitch_id": "518011",
+        "Athena_Name": "hitman 3"
+    },
+    {
+        "id": "293",
+        "Game": "HITMAN\u2122",
+        "App_id": "236870",
+        "Subreddit": "hitman",
+        "Twitter": "hitman",
+        "Twitch_id": "491471",
+        "Athena_Name": "hitman\u2122"
+    },
+    {
+        "id": "294",
+        "Game": "HITMAN\u2122 2",
+        "App_id": "863550",
+        "Subreddit": "hitman",
+        "Twitter": "hitman",
+        "Twitch_id": "506342",
+        "Athena_Name": "hitman\u2122 2"
+    },
+    {
+        "id": "295",
+        "Game": "Hogwarts Legacy",
+        "App_id": "990080",
+        "Subreddit": "HarryPotterGame",
+        "Twitter": "HogwartsLegacy",
+        "Twitch_id": "1095275650",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "296",
+        "Game": "Hoiwa Hub",
+        "App_id": "2165650",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "298418854",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "297",
+        "Game": "Hold Your Own",
+        "App_id": "717790",
+        "Subreddit": "-1",
+        "Twitter": "PlayHoldYourOwn",
+        "Twitch_id": "500520",
+        "Athena_Name": "hold your own"
+    },
+    {
+        "id": "298",
+        "Game": "Home Grown",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "299",
+        "Game": "Homeworld 3 ",
+        "App_id": "1840080",
+        "Subreddit": "homeworld",
+        "Twitter": "HomeworldGame",
+        "Twitch_id": "514272",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "300",
+        "Game": "Horizon Zero Dawn",
+        "App_id": "1151640",
+        "Subreddit": "Horizon",
+        "Twitter": "Guerrilla",
+        "Twitch_id": "490374",
+        "Athena_Name": "horizon zero dawn"
+    },
+    {
+        "id": "301",
+        "Game": "HOT WHEELS UNLEASHED\u2122",
+        "App_id": "1271700",
+        "Subreddit": "HotWheelsunleashed",
+        "Twitter": "MilestoneItaly",
+        "Twitch_id": "1716516651",
+        "Athena_Name": "hot wheels unleashed\u2122"
+    },
+    {
+        "id": "302",
+        "Game": "Hotel Renovator",
+        "App_id": "1214470",
+        "Subreddit": "-1",
+        "Twitter": "2_Horizons",
+        "Twitch_id": "1038135024",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "303",
+        "Game": "House Flipper 2",
+        "App_id": "1190970",
+        "Subreddit": "HouseFlipper",
+        "Twitter": "houseflippersim",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "304",
+        "Game": "Human: Fall Flat",
+        "App_id": "477160",
+        "Subreddit": "humanfallflat",
+        "Twitter": "humanfallflat",
+        "Twitch_id": "492504",
+        "Athena_Name": "human: fall flat"
+    },
+    {
+        "id": "305",
+        "Game": "HUMANKIND\u2122",
+        "App_id": "1124300",
+        "Subreddit": "HumankindTheGame",
+        "Twitter": "HumankindGame",
+        "Twitch_id": "514071",
+        "Athena_Name": "humankind\u2122"
+    },
+    {
+        "id": "306",
+        "Game": "Hunt: Showdown",
+        "App_id": "594650",
+        "Subreddit": "HuntShowdown",
+        "Twitter": "HuntShowdown",
+        "Twitch_id": "500188",
+        "Athena_Name": "hunt: showdown"
+    },
+    {
+        "id": "307",
+        "Game": "Hyenas ",
+        "App_id": "1989910",
+        "Subreddit": "PlayHyenas",
+        "Twitter": "PlayHyenas",
+        "Twitch_id": "385388669",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "308",
+        "Game": "Hytale",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "Hytale",
+        "Twitch_id": "510674",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "309",
+        "Game": "Icarus",
+        "App_id": "1149460",
+        "Subreddit": "SurviveIcarus",
+        "Twitter": "SurviveIcarus",
+        "Twitch_id": "1222194375",
+        "Athena_Name": "icarus"
+    },
+    {
+        "id": "310",
+        "Game": "IGI Origins",
+        "App_id": "1186430",
+        "Subreddit": "-1",
+        "Twitter": "AMG_Dev",
+        "Twitch_id": "1786301469",
+        "Athena_Name": "origins"
+    },
+    {
+        "id": "311",
+        "Game": "Immortals of Aveum",
+        "App_id": "999999",
+        "Subreddit": "ImmortalsOfAveum",
+        "Twitter": "ImmortalsAveum",
+        "Twitch_id": "1363661410",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "312",
+        "Game": "Injustice\u2122 2",
+        "App_id": "627270",
+        "Subreddit": "INJUSTICE",
+        "Twitter": "InjusticeGame",
+        "Twitch_id": "494995",
+        "Athena_Name": "injustice 2"
+    },
+    {
+        "id": "313",
+        "Game": "Insurgency",
+        "App_id": "222880",
+        "Subreddit": "Insurgency",
+        "Twitter": "InsurgencyGame",
+        "Twitch_id": "75789",
+        "Athena_Name": "insurgency"
+    },
+    {
+        "id": "314",
+        "Game": "Insurgency: Sandstorm",
+        "App_id": "581320",
+        "Subreddit": "insurgency",
+        "Twitter": "InsurgencyGame",
+        "Twitch_id": "491705",
+        "Athena_Name": "insurgency: sandstorm"
+    },
+    {
+        "id": "315",
+        "Game": "Into the Radius VR",
+        "App_id": "1012790",
+        "Subreddit": "intotheradius",
+        "Twitter": "intotheradius",
+        "Twitch_id": "511922",
+        "Athena_Name": "into the radius vr"
+    },
+    {
+        "id": "316",
+        "Game": "Iron Conflict",
+        "App_id": "1371480",
+        "Subreddit": "iron_conflict",
+        "Twitter": "Iron__Conflict",
+        "Twitch_id": "483809063",
+        "Athena_Name": "iron conflict"
+    },
+    {
+        "id": "317",
+        "Game": "It Takes Two",
+        "App_id": "1426210",
+        "Subreddit": "ItTakesTwo",
+        "Twitter": "hazelightgames",
+        "Twitch_id": "518213",
+        "Athena_Name": "it takes two"
+    },
+    {
+        "id": "318",
+        "Game": "IXION",
+        "App_id": "1113120",
+        "Subreddit": "Ixion",
+        "Twitter": "dolosaec",
+        "Twitch_id": "573700992",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "319",
+        "Game": "Judgment (Judge Eyes)",
+        "App_id": "2058180",
+        "Subreddit": "RGGStudio",
+        "Twitter": "Judgement",
+        "Twitch_id": "509482",
+        "Athena_Name": "judge eyes\uff1a\u6b7b\u795e\u306e\u907a\u8a00remastered"
+    },
+    {
+        "id": "320",
+        "Game": "Jurassic World Evolution",
+        "App_id": "648350",
+        "Subreddit": "jurassicworldevo",
+        "Twitter": "JW_Evolution",
+        "Twitch_id": "498459",
+        "Athena_Name": "jurassic world evolution"
+    },
+    {
+        "id": "321",
+        "Game": "Jurassic World Evolution 2",
+        "App_id": "1244460",
+        "Subreddit": "jurassicworldevo",
+        "Twitter": "JW_Evolution",
+        "Twitch_id": "1681462442",
+        "Athena_Name": "jurassic world evolution 2"
+    },
+    {
+        "id": "322",
+        "Game": "Just Cause 2",
+        "App_id": "8190",
+        "Subreddit": "JustCause",
+        "Twitter": "JustCause",
+        "Twitch_id": "18957",
+        "Athena_Name": "just cause 2"
+    },
+    {
+        "id": "323",
+        "Game": "Just Cause 3",
+        "App_id": "225540",
+        "Subreddit": "JustCause",
+        "Twitter": "JustCause",
+        "Twitch_id": "488564",
+        "Athena_Name": "just cause 3"
+    },
+    {
+        "id": "324",
+        "Game": "Just Cause 4",
+        "App_id": "517630",
+        "Subreddit": "JustCause",
+        "Twitter": "JustCause",
+        "Twitch_id": "506384",
+        "Athena_Name": "just cause 4"
+    },
+    {
+        "id": "325",
+        "Game": "KAKU: Ancient Seal",
+        "App_id": "1179580",
+        "Subreddit": "-1",
+        "Twitter": "KakuAncientSeal",
+        "Twitch_id": "516894",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "326",
+        "Game": "Karlson",
+        "App_id": "1228610",
+        "Subreddit": "Karlson",
+        "Twitter": "karlsongame",
+        "Twitch_id": "516648",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "327",
+        "Game": "KartRider : Drift",
+        "App_id": "1184140",
+        "Subreddit": "Kartrider",
+        "Twitter": "KartRiderDrift",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "328",
+        "Game": "Kayak VR: Mirage",
+        "App_id": "1683340",
+        "Subreddit": "-1",
+        "Twitter": "btl_sandwich",
+        "Twitch_id": "886255828",
+        "Athena_Name": "kayak vr: mirage"
+    },
+    {
+        "id": "329",
+        "Game": "Kena: Bridge of Spirits",
+        "App_id": "1954200",
+        "Subreddit": "KenaBridgeOfSpirits",
+        "Twitter": "emberlab",
+        "Twitch_id": "518004",
+        "Athena_Name": "kena: bridge of spirits"
+    },
+    {
+        "id": "330",
+        "Game": "Kerbal Space Program 2",
+        "App_id": "954850",
+        "Subreddit": "KerbalSpaceProgram",
+        "Twitter": "KerbalSpaceP",
+        "Twitch_id": "513959",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "331",
+        "Game": "Killing Floor 2",
+        "App_id": "232090",
+        "Subreddit": "killingfloor",
+        "Twitter": "killingfloor",
+        "Twitch_id": "460508",
+        "Athena_Name": "killing floor 2"
+    },
+    {
+        "id": "332",
+        "Game": "Kingdom Come: Deliverance",
+        "App_id": "379430",
+        "Subreddit": "kingdomcome",
+        "Twitter": "WarhorseStudios",
+        "Twitch_id": "458912",
+        "Athena_Name": "kingdom come: deliverance"
+    },
+    {
+        "id": "333",
+        "Game": "Kingshunt",
+        "App_id": "922620",
+        "Subreddit": "Kingshunt",
+        "Twitter": "Kingshuntgame",
+        "Twitch_id": "510731",
+        "Athena_Name": "kingshunt"
+    },
+    {
+        "id": "334",
+        "Game": "Knights of Honor 2: Sovereign",
+        "App_id": "736820",
+        "Subreddit": "Knights_of_Honor_2",
+        "Twitter": "THQNordic",
+        "Twitch_id": "514133",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "335",
+        "Game": "L.A. Noire",
+        "App_id": "110800",
+        "Subreddit": "lanoire",
+        "Twitter": "rockstargames",
+        "Twitch_id": "1695104761",
+        "Athena_Name": "l.a. noire"
+    },
+    {
+        "id": "336",
+        "Game": "Layers of Fear 2",
+        "App_id": "1029890",
+        "Subreddit": "-1",
+        "Twitter": "Layers_Of_Fears",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "337",
+        "Game": "League of Legends",
+        "App_id": "999999",
+        "Subreddit": "leagueoflegends",
+        "Twitter": "LeagueOfLegends",
+        "Twitch_id": "21779",
+        "Athena_Name": "league of legends"
+    },
+    {
+        "id": "338",
+        "Game": "Left 4 Dead",
+        "App_id": "500",
+        "Subreddit": "Left4Dead",
+        "Twitter": "valvesoftware",
+        "Twitch_id": "18916",
+        "Athena_Name": "left 4 dead"
+    },
+    {
+        "id": "339",
+        "Game": "Left 4 Dead 2",
+        "App_id": "550",
+        "Subreddit": "l4d2",
+        "Twitter": "valvesoftware",
+        "Twitch_id": "24193",
+        "Athena_Name": "left 4 dead 2"
+    },
+    {
+        "id": "340",
+        "Game": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "App_id": "920210",
+        "Subreddit": "LegoStarWarsVideoGame",
+        "Twitter": "LSWGame",
+        "Twitch_id": "512987",
+        "Athena_Name": "lego\u00ae star wars\u2122: the skywalker saga"
+    },
+    {
+        "id": "341",
+        "Game": "Level Zero",
+        "App_id": "1456940",
+        "Subreddit": "-1",
+        "Twitter": "LevelZeroGame",
+        "Twitch_id": "357146747",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "342",
+        "Game": "Lies Of P",
+        "App_id": "1627720",
+        "Subreddit": "LiesOfP",
+        "Twitter": "LiesOfP",
+        "Twitch_id": "653624336",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "343",
+        "Game": "Life is Strange 2",
+        "App_id": "532210",
+        "Subreddit": "lifeisstrange",
+        "Twitter": "lifeisstrange",
+        "Twitch_id": "497103",
+        "Athena_Name": "life is strange 2"
+    },
+    {
+        "id": "344",
+        "Game": "Like A Dragon: Ishin!",
+        "App_id": "1805480",
+        "Subreddit": "yakuzagames",
+        "Twitter": "RGGStudio",
+        "Twitch_id": "1373263356",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "345",
+        "Game": "Loopmancer",
+        "App_id": "1650810",
+        "Subreddit": "Loopmancer",
+        "Twitter": "LOOPMANCER",
+        "Twitch_id": "1262635612",
+        "Athena_Name": "loopmancer"
+    },
+    {
+        "id": "346",
+        "Game": "Lost Ark",
+        "App_id": "1599340",
+        "Subreddit": "lostarkgame",
+        "Twitter": "playlostark",
+        "Twitch_id": "490100",
+        "Athena_Name": "lost ark"
+    },
+    {
+        "id": "347",
+        "Game": "Lost Judgment (Judgment 2)",
+        "App_id": "2058190",
+        "Subreddit": "LostJudgment",
+        "Twitter": "RGGStudio",
+        "Twitch_id": "2120403770",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "348",
+        "Game": "Mad Max",
+        "App_id": "234140",
+        "Subreddit": "MadMaxGame",
+        "Twitter": "MadMaxGame",
+        "Twitch_id": "8271",
+        "Athena_Name": "mad max"
+    },
+    {
+        "id": "349",
+        "Game": "Manor Lords",
+        "App_id": "1363080",
+        "Subreddit": "ManorLords",
+        "Twitter": "LordsManor",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "350",
+        "Game": "Marauders",
+        "App_id": "1789480",
+        "Subreddit": "PlayMarauder",
+        "Twitter": "PlayMarauders",
+        "Twitch_id": "556660222",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "351",
+        "Game": "Marvel's Avengers",
+        "App_id": "997070",
+        "Subreddit": "PlayAvengers",
+        "Twitter": "PlayAvengers",
+        "Twitch_id": "495321",
+        "Athena_Name": "marvel's avengers"
+    },
+    {
+        "id": "352",
+        "Game": "Marvels Guardians of the Galaxy",
+        "App_id": "1088850",
+        "Subreddit": "playGOTG",
+        "Twitter": "GOTGTheGame",
+        "Twitch_id": "1540116959",
+        "Athena_Name": "marvels guardians of the galaxy"
+    },
+    {
+        "id": "353",
+        "Game": "Marvels Midnight Suns",
+        "App_id": "368260",
+        "Subreddit": "midnightsuns",
+        "Twitter": "midnightsuns",
+        "Twitch_id": "735602708",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "354",
+        "Game": "Marvel's Spider-Man Miles Morales",
+        "App_id": "1817190",
+        "Subreddit": "SpiderManPC",
+        "Twitter": "insomniacgames",
+        "Twitch_id": "518007",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "355",
+        "Game": "Marvel's Spider-man Remastered",
+        "App_id": "1817070",
+        "Subreddit": "SpiderManPC",
+        "Twitter": "insomniacgames",
+        "Twitch_id": "1262047844",
+        "Athena_Name": "marvel's spider-man remastered"
+    },
+    {
+        "id": "356",
+        "Game": "Mass Effect\u2122: Andromeda",
+        "App_id": "1238000",
+        "Subreddit": "masseffect",
+        "Twitter": "masseffect",
+        "Twitch_id": "460695",
+        "Athena_Name": "mass effect: andromeda"
+    },
+    {
+        "id": "357",
+        "Game": "MechWarrior 5: Mercenaries",
+        "App_id": "784080",
+        "Subreddit": "Mechwarrior5",
+        "Twitter": "MW5Mercs",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "358",
+        "Game": "Medieval Dynasty",
+        "App_id": "1129580",
+        "Subreddit": "MedievalDynasty",
+        "Twitter": "Toplitz_Prod",
+        "Twitch_id": "519492",
+        "Athena_Name": "medieval dynasty"
+    },
+    {
+        "id": "359",
+        "Game": "Medium",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "360",
+        "Game": "Meet Your Maker",
+        "App_id": "1194810",
+        "Subreddit": "MeetYourMakerGame",
+        "Twitter": "MeetYourMaker",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "361",
+        "Game": "METAL GEAR RISING: REVENGEANCE",
+        "App_id": "235460",
+        "Subreddit": "metalgearsolid",
+        "Twitter": "MetalGear",
+        "Twitch_id": "24208",
+        "Athena_Name": "metal gear rising: revengeance"
+    },
+    {
+        "id": "362",
+        "Game": "Metal GEAR SOLID: THE PHANTOM PAIN",
+        "App_id": "287700",
+        "Subreddit": "metalgearsolid",
+        "Twitter": "MetalGear",
+        "Twitch_id": "91419",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "363",
+        "Game": "Metal: Hellsinger",
+        "App_id": "1061910",
+        "Subreddit": "MetalHellsinger",
+        "Twitter": "MetalHellsinger",
+        "Twitch_id": "517999",
+        "Athena_Name": "metal: hellsinger"
+    },
+    {
+        "id": "364",
+        "Game": "Metro Exodus",
+        "App_id": "412020",
+        "Subreddit": "metro_exodus",
+        "Twitter": "metrovideogame",
+        "Twitch_id": "497410",
+        "Athena_Name": "metro exodus enhanced edition"
+    },
+    {
+        "id": "365",
+        "Game": "Miasma Chronicles",
+        "App_id": "1649010",
+        "Subreddit": "miasmachronicles",
+        "Twitter": "MiasmaChron",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "366",
+        "Game": "Microsoft Flight Simulator",
+        "App_id": "1250410",
+        "Subreddit": "MicrosoftFlightSim",
+        "Twitter": "MSFSofficial",
+        "Twitch_id": "7193",
+        "Athena_Name": "microsoft flight simulator"
+    },
+    {
+        "id": "367",
+        "Game": "Middle-earth\u2122: Shadow of Mordor\u2122",
+        "App_id": "241930",
+        "Subreddit": "ShadowOfMordor",
+        "Twitter": "ShadowOfMordorGame",
+        "Twitch_id": "458619",
+        "Athena_Name": "shadow of mordor"
+    },
+    {
+        "id": "368",
+        "Game": "Middle-earth\u2122: Shadow of War\u2122",
+        "App_id": "356190",
+        "Subreddit": "shadowofmordor",
+        "Twitter": "shadowofwargame",
+        "Twitch_id": "496000",
+        "Athena_Name": "shadow of war"
+    },
+    {
+        "id": "369",
+        "Game": "Midnight Ghost Hunt",
+        "App_id": "915810",
+        "Subreddit": "MidnightGhostHunt",
+        "Twitter": "PlayMGH",
+        "Twitch_id": "1262894464",
+        "Athena_Name": "midnight ghost hunt"
+    },
+    {
+        "id": "370",
+        "Game": "Minecraft",
+        "App_id": "999999",
+        "Subreddit": "Minecraft",
+        "Twitter": "Minecraft",
+        "Twitch_id": "27471",
+        "Athena_Name": "minecraft"
+    },
+    {
+        "id": "371",
+        "Game": "Minimal Affect",
+        "App_id": "999999",
+        "Subreddit": "masseffect",
+        "Twitter": "MiniAffect",
+        "Twitch_id": "1094535309",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "372",
+        "Game": "Mirror's Edge\u2122 Catalyst",
+        "App_id": "1233570",
+        "Subreddit": "mirrorsedge",
+        "Twitter": "mirrorsedge",
+        "Twitch_id": "24399",
+        "Athena_Name": "mirror's edge\u2122 catalyst"
+    },
+    {
+        "id": "373",
+        "Game": "Monster Hunter Rise",
+        "App_id": "1446780",
+        "Subreddit": "MHRise",
+        "Twitter": "monsterhunter",
+        "Twitch_id": "1275666892",
+        "Athena_Name": "monster hunter rise"
+    },
+    {
+        "id": "374",
+        "Game": "Monster Hunter Rise: Sunbreak",
+        "App_id": "1880360",
+        "Subreddit": "MHRise",
+        "Twitter": "monsterhunter",
+        "Twitch_id": "1275666892",
+        "Athena_Name": "monster hunter rise: sunbreak demo"
+    },
+    {
+        "id": "375",
+        "Game": "Monster Hunter: World",
+        "App_id": "582010",
+        "Subreddit": "MonsterHunterWorld",
+        "Twitter": "MonsterHunter",
+        "Twitch_id": "497467",
+        "Athena_Name": "monster hunter: world"
+    },
+    {
+        "id": "376",
+        "Game": "MoonBreaker",
+        "App_id": "845890",
+        "Subreddit": "MoonBreaker",
+        "Twitter": "Moonbreaker",
+        "Twitch_id": "1155636003",
+        "Athena_Name": "moonbreaker"
+    },
+    {
+        "id": "377",
+        "Game": "MORDHAU",
+        "App_id": "629760",
+        "Subreddit": "MORDHAU",
+        "Twitter": "mordhaugame",
+        "Twitch_id": "498859",
+        "Athena_Name": "mordhau"
+    },
+    {
+        "id": "378",
+        "Game": "Mount & Blade II: Bannerlord",
+        "App_id": "261550",
+        "Subreddit": "mountandblade",
+        "Twitter": "Mount_and_Blade",
+        "Twitch_id": "68351",
+        "Athena_Name": "mount & blade ii: bannerlord"
+    },
+    {
+        "id": "379",
+        "Game": "MultiVersus",
+        "App_id": "1818750",
+        "Subreddit": "MultiVersusTheGame",
+        "Twitter": "multiversus",
+        "Twitch_id": "950189725",
+        "Athena_Name": "multiversus"
+    },
+    {
+        "id": "380",
+        "Game": "Myst",
+        "App_id": "1255560",
+        "Subreddit": "Myst",
+        "Twitter": "cyanworlds",
+        "Twitch_id": "1725408175",
+        "Athena_Name": "myst"
+    },
+    {
+        "id": "381",
+        "Game": "Myth of Empires",
+        "App_id": "1371580",
+        "Subreddit": "MythofEmpires",
+        "Twitter": "MythofEmpires",
+        "Twitch_id": "805842275",
+        "Athena_Name": "myth of empires"
+    },
+    {
+        "id": "382",
+        "Game": "NARAKA : BLADEPOINT",
+        "App_id": "1203220",
+        "Subreddit": "NarakaBladePoint",
+        "Twitter": "NARAKATHEGAME",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "383",
+        "Game": "Naraka Bladepoint",
+        "App_id": "1203220",
+        "Subreddit": "NarakaBladepoint",
+        "Twitter": "NarakaTheGame",
+        "Twitch_id": "515474",
+        "Athena_Name": "naraka bladepoint"
+    },
+    {
+        "id": "384",
+        "Game": "NBA 2K23",
+        "App_id": "1919590",
+        "Subreddit": "NBA2k",
+        "Twitter": "NBA2K",
+        "Twitch_id": "772421245",
+        "Athena_Name": "nba 2k23"
+    },
+    {
+        "id": "385",
+        "Game": "Need For Speed Unbound",
+        "App_id": "1846380",
+        "Subreddit": "NeedforSpeed",
+        "Twitter": "needforspeed",
+        "Twitch_id": "928412879",
+        "Athena_Name": "need for speed unbound"
+    },
+    {
+        "id": "386",
+        "Game": "Need for Speed: Most Wanted",
+        "App_id": "1262560",
+        "Subreddit": "nfsmostwanted",
+        "Twitter": "needforspeed",
+        "Twitch_id": "495711",
+        "Athena_Name": "need for speed: most wanted"
+    },
+    {
+        "id": "387",
+        "Game": "Neko Neko Rampage",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "BitCakeStudio",
+        "Twitch_id": "2113823880",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "388",
+        "Game": "New Tales of the Borderlands",
+        "App_id": "1454970",
+        "Subreddit": "Borderlands",
+        "Twitter": "Borderlands",
+        "Twitch_id": "1407310739",
+        "Athena_Name": "new tales from the borderlands"
+    },
+    {
+        "id": "389",
+        "Game": "New World",
+        "App_id": "1063730",
+        "Subreddit": "NewWorldGame",
+        "Twitter": "PlayNewWorld",
+        "Twitch_id": "493597",
+        "Athena_Name": "new world"
+    },
+    {
+        "id": "390",
+        "Game": "NieR:Automata\u2122",
+        "App_id": "524220",
+        "Subreddit": "nier",
+        "Twitter": "niergame",
+        "Twitch_id": "494162",
+        "Athena_Name": "nier:automata\u2122"
+    },
+    {
+        "id": "391",
+        "Game": "Nightingale",
+        "App_id": "999999",
+        "Subreddit": "nightingalegame",
+        "Twitter": "PlayNightingale",
+        "Twitch_id": "509214687",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "392",
+        "Game": "Nioh 2 \u2013 The Complete Edition",
+        "App_id": "1325200",
+        "Subreddit": "Nioh",
+        "Twitter": "TeamNinjaStudio",
+        "Twitch_id": "160136078",
+        "Athena_Name": "nioh 2 \u2013 the complete edition"
+    },
+    {
+        "id": "393",
+        "Game": "No Man's Sky",
+        "App_id": "275850",
+        "Subreddit": "NoMansSkyTheGame",
+        "Twitter": "NoMansSky",
+        "Twitch_id": "458781",
+        "Athena_Name": "no man's sky"
+    },
+    {
+        "id": "394",
+        "Game": "No More Room in Hell 2",
+        "App_id": "292000",
+        "Subreddit": "nmrih",
+        "Twitter": "nmrih",
+        "Twitch_id": "2045790021",
+        "Athena_Name": "no more room in hell"
+    },
+    {
+        "id": "395",
+        "Game": "No One Survived",
+        "App_id": "1963370",
+        "Subreddit": "-1",
+        "Twitter": "CatStudio_Games",
+        "Twitch_id": "766373583",
+        "Athena_Name": "no one survived"
+    },
+    {
+        "id": "396",
+        "Game": "Nobody - The Turnaround",
+        "App_id": "1810580",
+        "Subreddit": "nobodytheturnaround",
+        "Twitter": "ThermiteGamesHQ",
+        "Twitch_id": "32552612",
+        "Athena_Name": "nobody - the turnaround demo"
+    },
+    {
+        "id": "397",
+        "Game": "Octopath Traveler 2",
+        "App_id": "1971650",
+        "Subreddit": "octopathtraveler",
+        "Twitter": "OCTOPATH_PR",
+        "Twitch_id": "332885450",
+        "Athena_Name": "octopath traveler"
+    },
+    {
+        "id": "398",
+        "Game": "Operation: Harsh Doorstop",
+        "App_id": "736590",
+        "Subreddit": "HarshDoorstop",
+        "Twitter": "opharshdoorstop",
+        "Twitch_id": "518622",
+        "Athena_Name": "operation: harsh doorstop - singleplayer demo"
+    },
+    {
+        "id": "399",
+        "Game": "Outcast 2",
+        "App_id": "1013140",
+        "Subreddit": "-1",
+        "Twitter": "OutcastGame",
+        "Twitch_id": "1547283066",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "400",
+        "Game": "OUTRIDERS",
+        "App_id": "680420",
+        "Subreddit": "OUTRIDERS",
+        "Twitter": "OUTRIDERS",
+        "Twitch_id": "512930",
+        "Athena_Name": "outriders"
+    },
+    {
+        "id": "401",
+        "Game": "Overprime",
+        "App_id": "1531430",
+        "Subreddit": "Overprime",
+        "Twitter": "overprimegame",
+        "Twitch_id": "515877",
+        "Athena_Name": "the overprime"
+    },
+    {
+        "id": "402",
+        "Game": "Overwatch 2",
+        "App_id": "999999",
+        "Subreddit": "overwatch",
+        "Twitter": "playOverwatch",
+        "Twitch_id": "515025",
+        "Athena_Name": "overwatch"
+    },
+    {
+        "id": "403",
+        "Game": "Paladins",
+        "App_id": "444090",
+        "Subreddit": "paladins",
+        "Twitter": "paladinsGame",
+        "Twitch_id": "491115",
+        "Athena_Name": "paladins"
+    },
+    {
+        "id": "404",
+        "Game": "PARAGON : The Overprime",
+        "App_id": "1531430",
+        "Subreddit": "OverPrime",
+        "Twitter": "paragon_op",
+        "Twitch_id": "515877",
+        "Athena_Name": "paragon: the overprime"
+    },
+    {
+        "id": "405",
+        "Game": "Park Beyond",
+        "App_id": "1368130",
+        "Subreddit": "ParkBeyond",
+        "Twitter": "parkbeyondgame",
+        "Twitch_id": "920941716",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "406",
+        "Game": "Party Animals",
+        "App_id": "1260320",
+        "Subreddit": "PartyAnimalsGame",
+        "Twitter": "happyhappynemo",
+        "Twitch_id": "518186",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "407",
+        "Game": "Path of Exile",
+        "App_id": "238960",
+        "Subreddit": "pathofexile",
+        "Twitter": "pathofexile",
+        "Twitch_id": "29307",
+        "Athena_Name": "path of exile"
+    },
+    {
+        "id": "408",
+        "Game": "Pathfinder: Wrath of the Righteous",
+        "App_id": "1184370",
+        "Subreddit": "Pathfinder_Kingmaker",
+        "Twitter": "OwlcatGames",
+        "Twitch_id": "515619",
+        "Athena_Name": "pathfinder: wrath of the righteous - enhanced edition"
+    },
+    {
+        "id": "409",
+        "Game": "Payday 2",
+        "App_id": "218620",
+        "Subreddit": "paydaytheheist",
+        "Twitter": "PAYDAYgame",
+        "Twitch_id": "65997",
+        "Athena_Name": "payday 2"
+    },
+    {
+        "id": "410",
+        "Game": "PC Building Simulator 2",
+        "App_id": "999999",
+        "Subreddit": "pcbuildingsimulator",
+        "Twitter": "PCBuildingSim",
+        "Twitch_id": "1043999398",
+        "Athena_Name": "\u88c5\u673a\u6a21\u62df\u5668 (pc building simulator)"
+    },
+    {
+        "id": "411",
+        "Game": "Perfect Dark",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "PerfectDarkGame",
+        "Twitch_id": "2686",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "412",
+        "Game": "PERISH",
+        "App_id": "1016360",
+        "Subreddit": "-1",
+        "Twitter": "Item_42",
+        "Twitch_id": "34738454",
+        "Athena_Name": "perish demo"
+    },
+    {
+        "id": "413",
+        "Game": "Persona 5 Royal",
+        "App_id": "1687950",
+        "Subreddit": "persona_5_royal",
+        "Twitter": "Atlus_West",
+        "Twitch_id": "511864",
+        "Athena_Name": "persona 5 royal"
+    },
+    {
+        "id": "414",
+        "Game": "Phantom Abyss",
+        "App_id": "989440",
+        "Subreddit": "PhantomAbyss",
+        "Twitter": "PhantomAbyss",
+        "Twitch_id": "1812167143",
+        "Athena_Name": "phantom abyss"
+    },
+    {
+        "id": "415",
+        "Game": "Phasmophobia",
+        "App_id": "739630",
+        "Subreddit": "PhasmophobiaGame",
+        "Twitter": "KineticGame",
+        "Twitch_id": "518184",
+        "Athena_Name": "phasmophobia"
+    },
+    {
+        "id": "416",
+        "Game": "Pillars of Eternity II: Deadfire",
+        "App_id": "560130",
+        "Subreddit": "projecteternity",
+        "Twitter": "WorldofEternity",
+        "Twitch_id": "495323",
+        "Athena_Name": "pillars of eternity ii: deadfire"
+    },
+    {
+        "id": "417",
+        "Game": "Plague Inc: Evolved",
+        "App_id": "246620",
+        "Subreddit": "Plague_Inc",
+        "Twitter": "PlagueInc",
+        "Twitch_id": "460644",
+        "Athena_Name": "plague inc: evolved"
+    },
+    {
+        "id": "418",
+        "Game": "Planet of Lana",
+        "App_id": "1608230",
+        "Subreddit": "PlanetOfLana",
+        "Twitter": "planetoflana",
+        "Twitch_id": "1986391370",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "419",
+        "Game": "Planet Zoo",
+        "App_id": "703080",
+        "Subreddit": "PlanetZoo",
+        "Twitter": "PlanetZooGame",
+        "Twitch_id": "512341",
+        "Athena_Name": "planet zoo"
+    },
+    {
+        "id": "420",
+        "Game": "Planetside 2",
+        "App_id": "218230",
+        "Subreddit": "planetside",
+        "Twitter": "planetside2",
+        "Twitch_id": "26175",
+        "Athena_Name": "planetside 2"
+    },
+    {
+        "id": "421",
+        "Game": "Portal Knights World",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "491513",
+        "Athena_Name": "portal knights"
+    },
+    {
+        "id": "422",
+        "Game": "Predecessor",
+        "App_id": "961200",
+        "Subreddit": "PredecessorGame",
+        "Twitter": "PredecessorGame",
+        "Twitch_id": "511295",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "423",
+        "Game": "Predecessor Playtest",
+        "App_id": "961200",
+        "Subreddit": "PredecessorGame",
+        "Twitter": "PredecessorGame",
+        "Twitch_id": "511295",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "424",
+        "Game": "Prey",
+        "App_id": "480490",
+        "Subreddit": "prey",
+        "Twitter": "PreyGame",
+        "Twitch_id": "15013",
+        "Athena_Name": "prey"
+    },
+    {
+        "id": "425",
+        "Game": "Prison Architect",
+        "App_id": "233450",
+        "Subreddit": "prisonarchitect",
+        "Twitter": "prisonarchitect",
+        "Twitch_id": "32979",
+        "Athena_Name": "prison architect"
+    },
+    {
+        "id": "426",
+        "Game": "Project CARS 2",
+        "App_id": "378860",
+        "Subreddit": "pCars",
+        "Twitter": "ProjectCarsGame",
+        "Twitch_id": "495563",
+        "Athena_Name": "project cars 2"
+    },
+    {
+        "id": "427",
+        "Game": "Project Zomboid",
+        "App_id": "108600",
+        "Subreddit": "projectzomboid",
+        "Twitter": "theindiestone",
+        "Twitch_id": "31339",
+        "Athena_Name": "project zomboid"
+    },
+    {
+        "id": "428",
+        "Game": "PUBG: BATTLEGROUNDS",
+        "App_id": "578080",
+        "Subreddit": "PUBATTLEGROUNDS",
+        "Twitter": "pubg",
+        "Twitch_id": "493057",
+        "Athena_Name": "pubg: battlegrounds"
+    },
+    {
+        "id": "429",
+        "Game": "Quake 2 RTX",
+        "App_id": "1089130",
+        "Subreddit": "quake",
+        "Twitter": "PoweredbyidTech",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "430",
+        "Game": "Raft",
+        "App_id": "648800",
+        "Subreddit": "RaftTheGame",
+        "Twitter": "RaftSurvivaGame",
+        "Twitch_id": "494925",
+        "Athena_Name": "raft"
+    },
+    {
+        "id": "431",
+        "Game": "Rainbow Six: Extraction",
+        "App_id": "999999",
+        "Subreddit": "R6Extraction",
+        "Twitter": "R6Extraction",
+        "Twitch_id": "513004",
+        "Athena_Name": "tom clancys rainbow six extraction"
+    },
+    {
+        "id": "432",
+        "Game": "Ratchet and Clank",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "insomniacgames",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "433",
+        "Game": "Ratten Reich",
+        "App_id": "1717250",
+        "Subreddit": "RattenReich",
+        "Twitter": "RattenReichGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "434",
+        "Game": "Ready or Not",
+        "App_id": "1144200",
+        "Subreddit": "ReadyOrNotGame",
+        "Twitter": "voidinteractive",
+        "Twitch_id": "511701",
+        "Athena_Name": "ready or not"
+    },
+    {
+        "id": "435",
+        "Game": "Red Dead Redemption 2",
+        "App_id": "1174180",
+        "Subreddit": "RDR2",
+        "Twitter": "rockstargames",
+        "Twitch_id": "493959",
+        "Athena_Name": "red dead redemption 2"
+    },
+    {
+        "id": "436",
+        "Game": "Redfall",
+        "App_id": "999999",
+        "Subreddit": "redfall",
+        "Twitter": "playRedfall",
+        "Twitch_id": "421259832",
+        "Athena_Name": "redfall"
+    },
+    {
+        "id": "437",
+        "Game": "Remnant 2",
+        "App_id": "999999",
+        "Subreddit": "remnantgame",
+        "Twitter": "gunfire_games",
+        "Twitch_id": "1995842324",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "438",
+        "Game": "Resident Evil 2 Remake",
+        "App_id": "999999",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "195053862",
+        "Athena_Name": "resident evil 2 remake"
+    },
+    {
+        "id": "439",
+        "Game": "Resident Evil 2: Remastered",
+        "App_id": "999999",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "440",
+        "Game": "Resident Evil 3 ",
+        "App_id": "999999",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "441",
+        "Game": "Resident Evil 3 Remake",
+        "App_id": "999999",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "649775967",
+        "Athena_Name": "resident evil 3 remake"
+    },
+    {
+        "id": "442",
+        "Game": "Resident Evil 4 Remake",
+        "App_id": "999999",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "322503446",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "443",
+        "Game": "Resident Evil 7 Biohazard",
+        "App_id": "418370",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "492934",
+        "Athena_Name": "resident evil 7 biohazard"
+    },
+    {
+        "id": "444",
+        "Game": "Resident Evil 7 Remake",
+        "App_id": "999999",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "492934",
+        "Athena_Name": "resident evil 7 biohazard"
+    },
+    {
+        "id": "445",
+        "Game": "Resident Evil Re:Verse",
+        "App_id": "1236300",
+        "Subreddit": "ResidentEvilReVerse",
+        "Twitter": "BIO_REVERSE",
+        "Twitch_id": "1407147388",
+        "Athena_Name": "resident evil re:verse"
+    },
+    {
+        "id": "446",
+        "Game": "Resident Evil Village",
+        "App_id": "1196590",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "518017",
+        "Athena_Name": "resident evil village"
+    },
+    {
+        "id": "447",
+        "Game": "Resident Evil Village - Gold Edition",
+        "App_id": "1196590",
+        "Subreddit": "ResidentEvil",
+        "Twitter": "re_games",
+        "Twitch_id": "518017",
+        "Athena_Name": "resident evil village"
+    },
+    {
+        "id": "448",
+        "Game": "Returnal",
+        "App_id": "1649240",
+        "Subreddit": "Returnal",
+        "Twitter": "Housemarque",
+        "Twitch_id": "518019",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "449",
+        "Game": "Riders Republic",
+        "App_id": "999999",
+        "Subreddit": "RidersRepublic",
+        "Twitter": "RidersRepublic",
+        "Twitch_id": "633127529",
+        "Athena_Name": "riders republic"
+    },
+    {
+        "id": "450",
+        "Game": "Rimworld",
+        "App_id": "294100",
+        "Subreddit": "RimWorld",
+        "Twitter": "TynanSylvester",
+        "Twitch_id": "394568",
+        "Athena_Name": "rimworld"
+    },
+    {
+        "id": "451",
+        "Game": "Ring of Elysium",
+        "App_id": "755790",
+        "Subreddit": "RingOfElysium",
+        "Twitter": "ring_of_elysium",
+        "Twitch_id": "504954",
+        "Athena_Name": "ring of elysium"
+    },
+    {
+        "id": "452",
+        "Game": "RIPOUT",
+        "App_id": "1558830",
+        "Subreddit": "RipoutGame",
+        "Twitter": "RipoutGame",
+        "Twitch_id": "2049890037",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "453",
+        "Game": "Rise of the Tomb Raider",
+        "App_id": "391220",
+        "Subreddit": "TombRaider",
+        "Twitter": "TombRaider",
+        "Twitch_id": "460620",
+        "Athena_Name": "rise of the tomb raider"
+    },
+    {
+        "id": "454",
+        "Game": "Rising Storm 2: Vietnam",
+        "App_id": "418460",
+        "Subreddit": "rs2vietnam",
+        "Twitter": "rs2vietnam",
+        "Twitch_id": "492763",
+        "Athena_Name": "rising storm 2: vietnam"
+    },
+    {
+        "id": "455",
+        "Game": "Risk of Rain 2",
+        "App_id": "632360",
+        "Subreddit": "RoR2",
+        "Twitter": "RiskOfRain",
+        "Twitch_id": "509110",
+        "Athena_Name": "risk of rain 2"
+    },
+    {
+        "id": "456",
+        "Game": "Risk of Rain 3",
+        "App_id": "999999",
+        "Subreddit": "riskofrain",
+        "Twitter": "RiskOfRain",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "457",
+        "Game": "Roblox",
+        "App_id": "999999",
+        "Subreddit": "Roblox",
+        "Twitter": "Roblox",
+        "Twitch_id": "23020",
+        "Athena_Name": "roblox"
+    },
+    {
+        "id": "458",
+        "Game": "RoboCop: Rogue City",
+        "App_id": "1681430",
+        "Subreddit": "robocoproguecity",
+        "Twitter": "RoboCopRC",
+        "Twitch_id": "1489336423",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "459",
+        "Game": "Rocket League\u00ae",
+        "App_id": "252950",
+        "Subreddit": "RocketLeague",
+        "Twitter": "RocketLeague",
+        "Twitch_id": "30921",
+        "Athena_Name": "rocket league"
+    },
+    {
+        "id": "460",
+        "Game": "Rogue Company",
+        "App_id": "872200",
+        "Subreddit": "RogueCompany",
+        "Twitter": "RogueCompany",
+        "Twitch_id": "514194",
+        "Athena_Name": "rogue company"
+    },
+    {
+        "id": "461",
+        "Game": "Romancing SaGa -Minstrel Song- Remastered",
+        "App_id": "1793030",
+        "Subreddit": "SaGa_ReuniverSe",
+        "Twitter": "reuniverse_en",
+        "Twitch_id": "1444334946",
+        "Athena_Name": "romancing saga -minstrel song- remastered"
+    },
+    {
+        "id": "462",
+        "Game": "Rooted",
+        "App_id": "1940080",
+        "Subreddit": "RootedTheGame",
+        "Twitter": "RootedTheGame",
+        "Twitch_id": "356361547",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "463",
+        "Game": "Rust",
+        "App_id": "252490",
+        "Subreddit": "playrust",
+        "Twitter": "playrust",
+        "Twitch_id": "263490",
+        "Athena_Name": "rust"
+    },
+    {
+        "id": "464",
+        "Game": "Ryse: Son of Rome",
+        "App_id": "302510",
+        "Subreddit": "Ryse",
+        "Twitter": "RyseGame",
+        "Twitch_id": "28557",
+        "Athena_Name": "ryse: son of rome"
+    },
+    {
+        "id": "465",
+        "Game": "S.T.A.L.K.E.R. 2: Heart of Chernobyl",
+        "App_id": "1643320",
+        "Subreddit": "stalker",
+        "Twitter": "stalker_thegame",
+        "Twitch_id": "29106",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "466",
+        "Game": "Sackboy a Big Adventure",
+        "App_id": "1599660",
+        "Subreddit": "sackboy_a_big_adventure",
+        "Twitter": "LittleBigPlanet",
+        "Twitch_id": "518020",
+        "Athena_Name": "sackboy a big adventure"
+    },
+    {
+        "id": "467",
+        "Game": "Saints Row",
+        "App_id": "999999",
+        "Subreddit": "SaintsRow",
+        "Twitter": "SaintsRow",
+        "Twitch_id": "1067345253",
+        "Athena_Name": "saints row v"
+    },
+    {
+        "id": "468",
+        "Game": "Satisfactory",
+        "App_id": "526870",
+        "Subreddit": "SatisfactoryGame",
+        "Twitter": "SatisfactoryAF",
+        "Twitch_id": "506456",
+        "Athena_Name": "satisfactory"
+    },
+    {
+        "id": "469",
+        "Game": "Scars Above",
+        "App_id": "1196090",
+        "Subreddit": "-1",
+        "Twitter": "ScarsAbove",
+        "Twitch_id": "1666420060",
+        "Athena_Name": "scars above"
+    },
+    {
+        "id": "470",
+        "Game": "Scathe",
+        "App_id": "1154830",
+        "Subreddit": "Scathe",
+        "Twitter": "ScatheFPS",
+        "Twitch_id": "513761526",
+        "Athena_Name": "scathe"
+    },
+    {
+        "id": "471",
+        "Game": "Scavengers",
+        "App_id": "1183940",
+        "Subreddit": "Scavengers",
+        "Twitter": "play_Scavengers",
+        "Twitch_id": "504726",
+        "Athena_Name": "scavengers"
+    },
+    {
+        "id": "472",
+        "Game": "Scorn",
+        "App_id": "698670",
+        "Subreddit": "Scorn",
+        "Twitter": "scorn_game",
+        "Twitch_id": "494081",
+        "Athena_Name": "scorn"
+    },
+    {
+        "id": "473",
+        "Game": "SCP: Pandemic",
+        "App_id": "872670",
+        "Subreddit": "SCPPandemic",
+        "Twitter": "AffrayCo",
+        "Twitch_id": "516702",
+        "Athena_Name": "scp: pandemic"
+    },
+    {
+        "id": "474",
+        "Game": "SCUM",
+        "App_id": "513710",
+        "Subreddit": "SCUMgame",
+        "Twitter": "SCUMgame",
+        "Twitch_id": "495811",
+        "Athena_Name": "scum"
+    },
+    {
+        "id": "475",
+        "Game": "Sea of Stars",
+        "App_id": "1244090",
+        "Subreddit": "seaofstars",
+        "Twitter": "seaofstarsgame",
+        "Twitch_id": "516789",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "476",
+        "Game": "Sea of Thieves",
+        "App_id": "1172620",
+        "Subreddit": "SeaOfThieves",
+        "Twitter": "SeaOfThieves",
+        "Twitch_id": "490377",
+        "Athena_Name": "sea of thieves"
+    },
+    {
+        "id": "477",
+        "Game": "Sekiro\u2122: Shadows Die Twice",
+        "App_id": "814380",
+        "Subreddit": "sekiro",
+        "Twitter": "sekirothegame",
+        "Twitch_id": "506415",
+        "Athena_Name": "sekiro\u2122: shadows die twice"
+    },
+    {
+        "id": "478",
+        "Game": "Sengoku Dynasty",
+        "App_id": "1702010",
+        "Subreddit": "SengokuDynasty",
+        "Twitter": "Toplitz_Prod",
+        "Twitch_id": "1236225398",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "479",
+        "Game": "Settlers 2022",
+        "App_id": "999999",
+        "Subreddit": "Settlers",
+        "Twitter": "TheSettlersEN",
+        "Twitch_id": "11869",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "480",
+        "Game": "Shadow of the Tomb Raider",
+        "App_id": "750920",
+        "Subreddit": "TombRaider",
+        "Twitter": "tombraider",
+        "Twitch_id": "504735",
+        "Athena_Name": "shadow of the tomb raider"
+    },
+    {
+        "id": "481",
+        "Game": "Shadow Warrior 3",
+        "App_id": "1036890",
+        "Subreddit": "shadowwarrior",
+        "Twitter": "shadowwarrior",
+        "Twitch_id": "518646",
+        "Athena_Name": "shadow warrior 3"
+    },
+    {
+        "id": "482",
+        "Game": "Showa American Story",
+        "App_id": "1687540",
+        "Subreddit": "ShowaAmericanStory",
+        "Twitter": "NEKCOM_Games",
+        "Twitch_id": "1182378745",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "483",
+        "Game": "Shredders",
+        "App_id": "1874170",
+        "Subreddit": "shredders_game",
+        "Twitter": "shreddersgame",
+        "Twitch_id": "519257",
+        "Athena_Name": "shredders"
+    },
+    {
+        "id": "484",
+        "Game": "Sid Meier's Civilization IV: Beyond the Sword",
+        "App_id": "8800",
+        "Subreddit": "CivGame",
+        "Twitter": "CivGame",
+        "Twitch_id": "15084",
+        "Athena_Name": "sid meier's civilization iv: beyond the sword"
+    },
+    {
+        "id": "485",
+        "Game": "Sid Meier's Civilization V",
+        "App_id": "8930",
+        "Subreddit": "civ5",
+        "Twitter": "CivGame",
+        "Twitch_id": "27103",
+        "Athena_Name": "sid meier's civilization v"
+    },
+    {
+        "id": "486",
+        "Game": "Sid Meier's Civilization VI",
+        "App_id": "289070",
+        "Subreddit": "civVI",
+        "Twitter": "CivGame",
+        "Twitch_id": "492553",
+        "Athena_Name": "sid meier's civilization vi"
+    },
+    {
+        "id": "487",
+        "Game": "Sifu",
+        "App_id": "999999",
+        "Subreddit": "SifuGame",
+        "Twitter": "SifuGame",
+        "Twitch_id": "506089309",
+        "Athena_Name": "sifu"
+    },
+    {
+        "id": "488",
+        "Game": "Silent Hill 2 Remake",
+        "App_id": "2124490",
+        "Subreddit": "silenthill",
+        "Twitter": "WhereAllBegins",
+        "Twitch_id": "9891",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "489",
+        "Game": "Skull and Bones",
+        "App_id": "999999",
+        "Subreddit": "SkullAndBonesGame",
+        "Twitter": "skullnbonesgame",
+        "Twitch_id": "497431",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "490",
+        "Game": "Slay the Spire",
+        "App_id": "646570",
+        "Subreddit": "slaythespire",
+        "Twitter": "MegaCrit",
+        "Twitch_id": "496902",
+        "Athena_Name": "slay the spire"
+    },
+    {
+        "id": "491",
+        "Game": "Sleeping Dogs",
+        "App_id": "307690",
+        "Subreddit": "sleepingDogs",
+        "Twitter": "SquareEnix",
+        "Twitch_id": "26547",
+        "Athena_Name": "sleeping dogs"
+    },
+    {
+        "id": "492",
+        "Game": "Slime Rancher 2",
+        "App_id": "1657630",
+        "Subreddit": "slimerancher",
+        "Twitter": "slimerancher",
+        "Twitch_id": "1378799411",
+        "Athena_Name": "slime rancher 2"
+    },
+    {
+        "id": "493",
+        "Game": "SMITE",
+        "App_id": "386360",
+        "Subreddit": "smite",
+        "Twitter": "SMITEgame",
+        "Twitch_id": "32507",
+        "Athena_Name": "smite"
+    },
+    {
+        "id": "494",
+        "Game": "Sniper Elite 4",
+        "App_id": "312660",
+        "Subreddit": "sniperelite",
+        "Twitter": "sniperelite",
+        "Twitch_id": "491769",
+        "Athena_Name": "sniper elite 4"
+    },
+    {
+        "id": "495",
+        "Game": "Sniper Elite 5",
+        "App_id": "1029690",
+        "Subreddit": "SniperElite",
+        "Twitter": "SniperElite",
+        "Twitch_id": "511743",
+        "Athena_Name": "sniper elite 5"
+    },
+    {
+        "id": "496",
+        "Game": "Sniper Ghost Warrior 3",
+        "App_id": "368070",
+        "Subreddit": "sniperghostwarrior3",
+        "Twitter": "sgwcontracts",
+        "Twitch_id": "491507",
+        "Athena_Name": "sniper ghost warrior 3"
+    },
+    {
+        "id": "497",
+        "Game": "Sniper Ghost Warrior Contracts 2",
+        "App_id": "1338770",
+        "Subreddit": "sniperghostwarrior3",
+        "Twitter": "sgwcontracts",
+        "Twitch_id": "634415906",
+        "Athena_Name": "sniper ghost warrior contracts 2"
+    },
+    {
+        "id": "498",
+        "Game": "Songs of Silence",
+        "App_id": "2195410",
+        "Subreddit": "songsofsilence",
+        "Twitter": "songsofsilence_",
+        "Twitch_id": "111298813",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "499",
+        "Game": "Sonic Frontiers",
+        "App_id": "1237320",
+        "Subreddit": "SonicFrontiers",
+        "Twitter": "sega",
+        "Twitch_id": "1732431919",
+        "Athena_Name": "sonic frontiers"
+    },
+    {
+        "id": "500",
+        "Game": "Space Engineers",
+        "App_id": "244850",
+        "Subreddit": "spaceengineers",
+        "Twitter": "SpaceEngineersG",
+        "Twitch_id": "391475",
+        "Athena_Name": "space engineers"
+    },
+    {
+        "id": "501",
+        "Game": "Spongebob: The Cosmic Shake",
+        "App_id": "1282150",
+        "Subreddit": "SpongebobCosmicShake",
+        "Twitter": "SBCosmicShake",
+        "Twitch_id": "811670766",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "502",
+        "Game": "Squad",
+        "App_id": "393380",
+        "Subreddit": "JoinSquad",
+        "Twitter": "JoinSquad",
+        "Twitch_id": "488479",
+        "Athena_Name": "squad"
+    },
+    {
+        "id": "503",
+        "Game": "Star Citizen",
+        "App_id": "999999",
+        "Subreddit": "starcitizen",
+        "Twitter": "RobertsSpaceInd",
+        "Twitch_id": "71375",
+        "Athena_Name": "star citizen"
+    },
+    {
+        "id": "504",
+        "Game": "Star Control: Origins",
+        "App_id": "271260",
+        "Subreddit": "StarControlOfficial",
+        "Twitter": "starcontrolgame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "505",
+        "Game": "STAR WARS Jedi: Fallen Order\u2122",
+        "App_id": "1172380",
+        "Subreddit": "FallenOrder",
+        "Twitter": "eastarwars",
+        "Twitch_id": "503446",
+        "Athena_Name": "star wars jedi - fallen order\u2122"
+    },
+    {
+        "id": "506",
+        "Game": "Star Wars Jedi: Survivor",
+        "App_id": "1774580",
+        "Subreddit": "StarWarsJediSurvivor",
+        "Twitter": "-1",
+        "Twitch_id": "1407096487",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "507",
+        "Game": "STAR WARS\u2122 Battlefront\u2122 II",
+        "App_id": "1237950",
+        "Subreddit": "StarWarsBattlefront",
+        "Twitter": "eastarwars",
+        "Twitch_id": "492546",
+        "Athena_Name": "star wars\u2122 battlefront\u2122 ii"
+    },
+    {
+        "id": "508",
+        "Game": "STAR WARS\u2122: The Old Republic\u2122",
+        "App_id": "1286830",
+        "Subreddit": "swtor",
+        "Twitter": "swtor",
+        "Twitch_id": "21934",
+        "Athena_Name": "star wars: the old republic"
+    },
+    {
+        "id": "509",
+        "Game": "Starcraft",
+        "App_id": "999999",
+        "Subreddit": "Starcraft",
+        "Twitter": "Starcraft",
+        "Twitch_id": "11989",
+        "Athena_Name": "starcraft"
+    },
+    {
+        "id": "510",
+        "Game": "Stardew Valley",
+        "App_id": "413150",
+        "Subreddit": "StardewValley",
+        "Twitter": "concernedape",
+        "Twitch_id": "490744",
+        "Athena_Name": "stardew valley"
+    },
+    {
+        "id": "511",
+        "Game": "Starfield",
+        "App_id": "1716740",
+        "Subreddit": "Starfield",
+        "Twitter": "starfieldgame",
+        "Twitch_id": "506438",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "512",
+        "Game": "State of Decay 2",
+        "App_id": "495420",
+        "Subreddit": "StateOfDecay",
+        "Twitter": "StateOfDecay",
+        "Twitch_id": "495122",
+        "Athena_Name": "state of decay 2"
+    },
+    {
+        "id": "513",
+        "Game": "Steamworld Build",
+        "App_id": "2134770",
+        "Subreddit": "-1",
+        "Twitter": "SteamWorldGames",
+        "Twitch_id": "479286546",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "514",
+        "Game": "Steelrising",
+        "App_id": "1283400",
+        "Subreddit": "PlaySteelrising",
+        "Twitter": "PlaySteelrising",
+        "Twitch_id": "518621",
+        "Athena_Name": "steelrising"
+    },
+    {
+        "id": "515",
+        "Game": "Stellaris",
+        "App_id": "281990",
+        "Subreddit": "Stellaris",
+        "Twitter": "StellarisGame",
+        "Twitch_id": "491572",
+        "Athena_Name": "stellaris"
+    },
+    {
+        "id": "516",
+        "Game": "Stranded: Alien Dawn",
+        "App_id": "1324130",
+        "Subreddit": "StrandedAlienDawn",
+        "Twitter": "strandedgame",
+        "Twitch_id": "501804885",
+        "Athena_Name": "stranded: alien dawn"
+    },
+    {
+        "id": "517",
+        "Game": "Strange Brigade",
+        "App_id": "312670",
+        "Subreddit": "strangebrigade",
+        "Twitter": "StrangeBrigade",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "518",
+        "Game": "Stranger of Paradise: Final Fantasy Origin",
+        "App_id": "999999",
+        "Subreddit": "StrangerofParadiseFFO",
+        "Twitter": "fforigin",
+        "Twitch_id": "216020981",
+        "Athena_Name": "stranger of paradise - final fantasy origin"
+    },
+    {
+        "id": "519",
+        "Game": "Stray",
+        "App_id": "1332010",
+        "Subreddit": "stray",
+        "Twitter": "hkdevblog",
+        "Twitch_id": "518006",
+        "Athena_Name": "stray"
+    },
+    {
+        "id": "520",
+        "Game": "Stray Blade",
+        "App_id": "1621990",
+        "Subreddit": "strayblade",
+        "Twitter": "straybladegame",
+        "Twitch_id": "746147804",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "521",
+        "Game": "Strayed Lights",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "1710708422",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "522",
+        "Game": "Street Fighter 6",
+        "App_id": "1364780",
+        "Subreddit": "StreetFighter",
+        "Twitter": "StreetFighter",
+        "Twitch_id": "55453844",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "523",
+        "Game": "Stuntfest World Tour",
+        "App_id": "1366850",
+        "Subreddit": "StuntFest",
+        "Twitter": "Stuntfest",
+        "Twitch_id": "1582771097",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "524",
+        "Game": "Subnautica",
+        "App_id": "264710",
+        "Subreddit": "Subnautica",
+        "Twitter": "Subnautica",
+        "Twitch_id": "460090",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "525",
+        "Game": "Suicide Squad: Kill the Justice League",
+        "App_id": "315210",
+        "Subreddit": "SuicideSquadGaming",
+        "Twitter": "suicidesquadrs",
+        "Twitch_id": "1767132907",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "526",
+        "Game": "Super People",
+        "App_id": "1619990",
+        "Subreddit": "SuperPeopleRoyale",
+        "Twitter": "SuperPeople_GL",
+        "Twitch_id": "19620578",
+        "Athena_Name": "super people"
+    },
+    {
+        "id": "527",
+        "Game": "SUPERHOT",
+        "App_id": "322500",
+        "Subreddit": "SUPERHOT",
+        "Twitter": "superhotthegame",
+        "Twitch_id": "313566",
+        "Athena_Name": "superhot"
+    },
+    {
+        "id": "528",
+        "Game": "Surviving Mars",
+        "App_id": "464920",
+        "Subreddit": "SurvivingMars",
+        "Twitter": "Surviving_PDX",
+        "Twitch_id": "501930",
+        "Athena_Name": "surviving mars"
+    },
+    {
+        "id": "529",
+        "Game": "Swordsman HD",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "530",
+        "Game": "Syberia - The World Before",
+        "App_id": "1410640",
+        "Subreddit": "syberia",
+        "Twitter": "syberia",
+        "Twitch_id": "1937092890",
+        "Athena_Name": "syberia - the world before"
+    },
+    {
+        "id": "531",
+        "Game": "Synced: Off Planet",
+        "App_id": "1008080",
+        "Subreddit": "syncedoffplanet",
+        "Twitter": "SyncedTheGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "532",
+        "Game": "System Shock",
+        "App_id": "482400",
+        "Subreddit": "systemshock",
+        "Twitter": "systemshockgame",
+        "Twitch_id": "12801",
+        "Athena_Name": "system shock"
+    },
+    {
+        "id": "533",
+        "Game": "Tactics Ogre: Reborn",
+        "App_id": "1451090",
+        "Subreddit": "Tactics_Ogre",
+        "Twitter": "SquareEnix",
+        "Twitch_id": "2066834255",
+        "Athena_Name": "tactics ogre: reborn"
+    },
+    {
+        "id": "534",
+        "Game": "Tales of Arise",
+        "App_id": "740130",
+        "Subreddit": "tales",
+        "Twitter": "TalesofSeries",
+        "Twitch_id": "512957",
+        "Athena_Name": "tales of arise"
+    },
+    {
+        "id": "535",
+        "Game": "Tchia",
+        "App_id": "1496590",
+        "Subreddit": "-1",
+        "Twitter": "awaceb",
+        "Twitch_id": "1538620476",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "536",
+        "Game": "Team Fortress 2",
+        "App_id": "440",
+        "Subreddit": "tf2",
+        "Twitter": "teamfortress",
+        "Twitch_id": "16676",
+        "Athena_Name": "team fortress 2"
+    },
+    {
+        "id": "537",
+        "Game": "TEKKEN 7",
+        "App_id": "389730",
+        "Subreddit": "tekken",
+        "Twitter": "tekken",
+        "Twitch_id": "461067",
+        "Athena_Name": "tekken 7"
+    },
+    {
+        "id": "538",
+        "Game": "Tempest Rising",
+        "App_id": "1486920",
+        "Subreddit": "TempestRising",
+        "Twitter": "3DRealms",
+        "Twitch_id": "1514558606",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "539",
+        "Game": "Terraria",
+        "App_id": "105600",
+        "Subreddit": "Terraria",
+        "Twitter": "ReLogicGames",
+        "Twitch_id": "31376",
+        "Athena_Name": "terraria"
+    },
+    {
+        "id": "540",
+        "Game": "Test Drive Unlimited Solar Crown",
+        "App_id": "1249970",
+        "Subreddit": "tdu3",
+        "Twitter": "testdrive",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "541",
+        "Game": "The Ascent",
+        "App_id": "979690",
+        "Subreddit": "theascent",
+        "Twitter": "AscentTheGame",
+        "Twitch_id": "517403",
+        "Athena_Name": "the ascent"
+    },
+    {
+        "id": "542",
+        "Game": "The Bridge Curse: Road to Salvation",
+        "App_id": "1611430",
+        "Subreddit": "-1",
+        "Twitter": "TbcRts",
+        "Twitch_id": "2081287761",
+        "Athena_Name": "the bridge curse road to salvation"
+    },
+    {
+        "id": "543",
+        "Game": "The Callisto Protocol ",
+        "App_id": "1544020",
+        "Subreddit": "TheCallistoProtocol",
+        "Twitter": "CallistoTheGame",
+        "Twitch_id": "838226069",
+        "Athena_Name": "the callisto protocol"
+    },
+    {
+        "id": "544",
+        "Game": "The Crew 2",
+        "App_id": "646910",
+        "Subreddit": "The_Crew",
+        "Twitter": "TheCrewGame",
+        "Twitch_id": "497118",
+        "Athena_Name": "the crew 2"
+    },
+    {
+        "id": "545",
+        "Game": "The Cycle",
+        "App_id": "868270",
+        "Subreddit": "TheCycleGame",
+        "Twitter": "TheCycleGame",
+        "Twitch_id": "509133",
+        "Athena_Name": "the cycle frontier"
+    },
+    {
+        "id": "546",
+        "Game": "The Dark Pictures Anthology: House of Ashes",
+        "App_id": "1281590",
+        "Subreddit": "DarkPicturesAnthology",
+        "Twitter": "TheDarkPictures",
+        "Twitch_id": "1274531553",
+        "Athena_Name": "the dark pictures anthology: house of ashes"
+    },
+    {
+        "id": "547",
+        "Game": "The Day Before",
+        "App_id": "1372880",
+        "Subreddit": "TheDayBefore",
+        "Twitter": "PlayDayBefore",
+        "Twitch_id": "2088253195",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "548",
+        "Game": "The Devil In Me - Dark Pictures Anthology Title 4",
+        "App_id": "1567020",
+        "Subreddit": "DarkPicturesAnthology",
+        "Twitter": "TheDarkPictures",
+        "Twitch_id": "654543582",
+        "Athena_Name": "the dark pictures anthology: the devil in me"
+    },
+    {
+        "id": "549",
+        "Game": "The DioField Chronicle",
+        "App_id": "1399080",
+        "Subreddit": "DiofieldGame",
+        "Twitter": "DiofieldGame",
+        "Twitch_id": "249366108",
+        "Athena_Name": "the diofield chronicle"
+    },
+    {
+        "id": "550",
+        "Game": "The Division 2",
+        "App_id": "999999",
+        "Subreddit": "thedivision",
+        "Twitter": "TheDivisionGame",
+        "Twitch_id": "504463",
+        "Athena_Name": "tom clancy's the division 2"
+    },
+    {
+        "id": "551",
+        "Game": "The Division: Heartland",
+        "App_id": "999999",
+        "Subreddit": "thedivision",
+        "Twitter": "TheDivisionGame",
+        "Twitch_id": "1382820063",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "552",
+        "Game": "The Elder Scrolls IV: Oblivion",
+        "App_id": "22330",
+        "Subreddit": "oblivion",
+        "Twitter": "ElderScrolls",
+        "Twitch_id": "18526",
+        "Athena_Name": "the elder scrolls iv: oblivion"
+    },
+    {
+        "id": "553",
+        "Game": "The Elder Scrolls Online",
+        "App_id": "306130",
+        "Subreddit": "elderscrollsonline",
+        "Twitter": "TESOnline",
+        "Twitch_id": "65654",
+        "Athena_Name": "the elder scrolls online"
+    },
+    {
+        "id": "554",
+        "Game": "The Elder Scrolls V: Skyrim",
+        "App_id": "72850",
+        "Subreddit": "skyrim",
+        "Twitter": "ElderScrolls",
+        "Twitch_id": "30028",
+        "Athena_Name": "the elder scrolls v: skyrim"
+    },
+    {
+        "id": "555",
+        "Game": "The Eternal Cylinder",
+        "App_id": "865680",
+        "Subreddit": "TheEternalCylinder",
+        "Twitter": "EternalCylinder",
+        "Twitch_id": "513884",
+        "Athena_Name": "the eternal cylinder"
+    },
+    {
+        "id": "556",
+        "Game": "The Evil Within 2",
+        "App_id": "601430",
+        "Subreddit": "theevilwithin",
+        "Twitter": "theevilwithin",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "557",
+        "Game": "THE FINALS",
+        "App_id": "2073850",
+        "Subreddit": "thefinals",
+        "Twitter": "reachthefinals",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "558",
+        "Game": "The Forest",
+        "App_id": "242760",
+        "Subreddit": "TheForest",
+        "Twitter": "EndNightGame",
+        "Twitch_id": "7022",
+        "Athena_Name": "the forest"
+    },
+    {
+        "id": "559",
+        "Game": "The Great War: Western Front",
+        "App_id": "2109370",
+        "Subreddit": "playthegreatwar",
+        "Twitter": "PlayTheGreatWar",
+        "Twitch_id": "445311019",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "560",
+        "Game": "The Invincible",
+        "App_id": "731040",
+        "Subreddit": "InvincibleTheGame",
+        "Twitter": "StarwardInd",
+        "Twitch_id": "739179365",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "561",
+        "Game": "The Last Case of Benedict Fox",
+        "App_id": "2023360",
+        "Subreddit": "-1",
+        "Twitter": "BenFoxGame",
+        "Twitch_id": "1143555495",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "562",
+        "Game": "The Last of Us Part 1",
+        "App_id": "999999",
+        "Subreddit": "thelastofus",
+        "Twitter": "Naughty_Dog",
+        "Twitch_id": "294724507",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "563",
+        "Game": "The Long Dark",
+        "App_id": "305620",
+        "Subreddit": "thelongdark",
+        "Twitter": "thelongdark",
+        "Twitch_id": "418016",
+        "Athena_Name": "the long dark"
+    },
+    {
+        "id": "564",
+        "Game": "The Lord of the Rings\u2122: Gollum\u2122",
+        "App_id": "1265780",
+        "Subreddit": "LOTRGollum",
+        "Twitter": "GollumGame",
+        "Twitch_id": "511844",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "565",
+        "Game": "The Lords of the Fallen ",
+        "App_id": "1501750",
+        "Subreddit": "LordsoftheFallen",
+        "Twitter": "lotfgame",
+        "Twitch_id": "369345",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "566",
+        "Game": "The Nightmare Catcher",
+        "App_id": "1937160",
+        "Subreddit": "-1",
+        "Twitter": "games_aeon",
+        "Twitch_id": "87774722",
+        "Athena_Name": "the nightmare catcher"
+    },
+    {
+        "id": "567",
+        "Game": "The Outer Worlds",
+        "App_id": "578650",
+        "Subreddit": "TheOuterWorlds",
+        "Twitter": "OuterWorlds",
+        "Twitch_id": "510580",
+        "Athena_Name": "the outer worlds"
+    },
+    {
+        "id": "568",
+        "Game": "The Outlast Trials",
+        "App_id": "1304930",
+        "Subreddit": "outlast",
+        "Twitter": "TheRedBarrels",
+        "Twitch_id": "518144",
+        "Athena_Name": "the outlast trials"
+    },
+    {
+        "id": "569",
+        "Game": "The Persistence",
+        "App_id": "1140100",
+        "Subreddit": "-1",
+        "Twitter": "PlayPersistence",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "570",
+        "Game": "The Planet Crafter",
+        "App_id": "1284190",
+        "Subreddit": "thePlanetCrafter",
+        "Twitter": "MijuGames",
+        "Twitch_id": "1311010677",
+        "Athena_Name": "the planet crafter"
+    },
+    {
+        "id": "571",
+        "Game": "The Quarry",
+        "App_id": "1577120",
+        "Subreddit": "TheQuarryGamePC",
+        "Twitter": "SuperMGames",
+        "Twitch_id": "1937599489",
+        "Athena_Name": "the quarry"
+    },
+    {
+        "id": "572",
+        "Game": "The Riftbreaker",
+        "App_id": "780310",
+        "Subreddit": "The_Riftbreaker",
+        "Twitter": "EXORStudios",
+        "Twitch_id": "512101",
+        "Athena_Name": "the riftbreaker"
+    },
+    {
+        "id": "573",
+        "Game": "The Sims\u2122 3",
+        "App_id": "47890",
+        "Subreddit": "Sims3",
+        "Twitter": "TheSims",
+        "Twitch_id": "18814",
+        "Athena_Name": "the sims 3"
+    },
+    {
+        "id": "574",
+        "Game": "The Sims\u2122 4",
+        "App_id": "1222670",
+        "Subreddit": "Sims4",
+        "Twitter": "TheSims",
+        "Twitch_id": "369252",
+        "Athena_Name": "the sims 4"
+    },
+    {
+        "id": "575",
+        "Game": "The Texas Chainsaw Massacre",
+        "App_id": "1433140",
+        "Subreddit": "TXChainSawGame",
+        "Twitter": "TXChainSawGame",
+        "Twitch_id": "2100",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "576",
+        "Game": "The Valiant",
+        "App_id": "959860",
+        "Subreddit": "TheValiantGame",
+        "Twitter": "kite_games",
+        "Twitch_id": "475562662",
+        "Athena_Name": "the valiant"
+    },
+    {
+        "id": "577",
+        "Game": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "App_id": "20920",
+        "Subreddit": "Witcher2",
+        "Twitter": "WitcherGame",
+        "Twitch_id": "25417",
+        "Athena_Name": "the witcher 2: assassins of kings enhanced edition"
+    },
+    {
+        "id": "578",
+        "Game": "The Witcher 3: Wild Hunt",
+        "App_id": "292030",
+        "Subreddit": "Witcher3",
+        "Twitter": "WitcherGame",
+        "Twitch_id": "115977",
+        "Athena_Name": "the witcher 3: wild hunt"
+    },
+    {
+        "id": "579",
+        "Game": "The Wolf Among Us 2",
+        "App_id": "999999",
+        "Subreddit": "TheWolfAmongUs",
+        "Twitter": "telltalegames",
+        "Twitch_id": "497917",
+        "Athena_Name": "the wolf among us"
+    },
+    {
+        "id": "580",
+        "Game": "There Won't Be Light",
+        "App_id": "1846940",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "1485724632",
+        "Athena_Name": "there won't be light"
+    },
+    {
+        "id": "581",
+        "Game": "Thief",
+        "App_id": "239160",
+        "Subreddit": "Thief",
+        "Twitter": "EidosMontreal",
+        "Twitch_id": "23863",
+        "Athena_Name": "thief"
+    },
+    {
+        "id": "582",
+        "Game": "This War of Mine",
+        "App_id": "282070",
+        "Subreddit": "ThisWarofMine",
+        "Twitter": "ThisWarofMine",
+        "Twitch_id": "459754",
+        "Athena_Name": "this war of mine"
+    },
+    {
+        "id": "583",
+        "Game": "Throne and Liberty",
+        "App_id": "999999",
+        "Subreddit": "throneandliberty",
+        "Twitter": "throne_liberty",
+        "Twitch_id": "19801",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "584",
+        "Game": "Thymesia",
+        "App_id": "1343240",
+        "Subreddit": "Thymesia",
+        "Twitter": "OverBorderGames",
+        "Twitch_id": "64300975",
+        "Athena_Name": "thymesia"
+    },
+    {
+        "id": "585",
+        "Game": "Timberborn",
+        "App_id": "1062090",
+        "Subreddit": "Timberborn",
+        "Twitter": "Timberborn",
+        "Twitch_id": "514891",
+        "Athena_Name": "timberborn"
+    },
+    {
+        "id": "586",
+        "Game": "Tiny Tina's Wonderlands",
+        "App_id": "1286680",
+        "Subreddit": "Wonderlands",
+        "Twitter": "PlayWonderlands",
+        "Twitch_id": "1318043161",
+        "Athena_Name": "tiny tina's wonderlands"
+    },
+    {
+        "id": "587",
+        "Game": "Togges",
+        "App_id": "1550270",
+        "Subreddit": "-1",
+        "Twitter": "ToggesGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "588",
+        "Game": "Tom Clancy\u2019s The Division\u2122",
+        "App_id": "365590",
+        "Subreddit": "thedivision",
+        "Twitter": "TheDivisionGame",
+        "Twitch_id": "369579",
+        "Athena_Name": "tom clancy's the division"
+    },
+    {
+        "id": "589",
+        "Game": "Tom Clancy's Ghost Recon\u00ae Wildlands",
+        "App_id": "460930",
+        "Subreddit": "Wildlands",
+        "Twitter": "GhostRecon",
+        "Twitch_id": "490379",
+        "Athena_Name": "ghost recon: wildlands"
+    },
+    {
+        "id": "590",
+        "Game": "Tom Clancy's Rainbow Six Siege",
+        "App_id": "359550",
+        "Subreddit": "Rainbow6",
+        "Twitter": "Rainbow6Game",
+        "Twitch_id": "460630",
+        "Athena_Name": "tom clancy's rainbow six siege"
+    },
+    {
+        "id": "591",
+        "Game": "Tom Clancy's The Division 2",
+        "App_id": "2221490",
+        "Subreddit": "thedivision",
+        "Twitter": "TheDivisionGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "592",
+        "Game": "Total War Warhammer 4 End of Times",
+        "App_id": "999999",
+        "Subreddit": "TotalWar",
+        "Twitter": "TotalWar",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "593",
+        "Game": "Total War: ATTILA",
+        "App_id": "325610",
+        "Subreddit": "TotalWar",
+        "Twitter": "TotalWar",
+        "Twitch_id": "488341",
+        "Athena_Name": "total war: attila"
+    },
+    {
+        "id": "594",
+        "Game": "Total War: Pharoah",
+        "App_id": "999999",
+        "Subreddit": "totalwarhammer",
+        "Twitter": "TotalWar",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "595",
+        "Game": "Total War: Three Kingdoms",
+        "App_id": "779340",
+        "Subreddit": "TotalWar",
+        "Twitter": "TotalWar",
+        "Twitch_id": "502377",
+        "Athena_Name": "total war: three kingdoms"
+    },
+    {
+        "id": "596",
+        "Game": "Total War: Troy",
+        "App_id": "1099410",
+        "Subreddit": "totalwarhammer",
+        "Twitter": "TotalWar",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "597",
+        "Game": "Total War: Warhammer",
+        "App_id": "364360",
+        "Subreddit": "totalwarhammer",
+        "Twitter": "TotalWar",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "598",
+        "Game": "Total War: Warhammer 2",
+        "App_id": "594570",
+        "Subreddit": "totalwarhammer",
+        "Twitter": "TotalWar",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "599",
+        "Game": "Total War: WARHAMMER III",
+        "App_id": "1142710",
+        "Subreddit": "totalwarhammer",
+        "Twitter": "TotalWar",
+        "Twitch_id": "1913410799",
+        "Athena_Name": "total war: warhammer iii"
+    },
+    {
+        "id": "600",
+        "Game": "Tower of Fantasy",
+        "App_id": "2064650",
+        "Subreddit": "TowerofFantasy",
+        "Twitter": "ToF_EN_Official",
+        "Twitch_id": "1833197007",
+        "Athena_Name": "tower of fantasy"
+    },
+    {
+        "id": "601",
+        "Game": "TrackMania Nations Forever",
+        "App_id": "11020",
+        "Subreddit": "TrackMania",
+        "Twitter": "TrackMania",
+        "Twitch_id": "5718",
+        "Athena_Name": "trackmania nations forever"
+    },
+    {
+        "id": "602",
+        "Game": "Transformers: Reactivate",
+        "App_id": "999999",
+        "Subreddit": "transformers",
+        "Twitter": "PlayTFR",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "603",
+        "Game": "Tribes of Midgard",
+        "App_id": "858820",
+        "Subreddit": "tribesofmidgard",
+        "Twitter": "tribesofmidgard",
+        "Twitch_id": "512160",
+        "Athena_Name": "tribes of midgard"
+    },
+    {
+        "id": "604",
+        "Game": "Trine 5",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "TrineSeries",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "605",
+        "Game": "Trove",
+        "App_id": "304050",
+        "Subreddit": "Trove",
+        "Twitter": "TroveGame",
+        "Twitch_id": "412756",
+        "Athena_Name": "trove"
+    },
+    {
+        "id": "606",
+        "Game": "Turbo Golf Racing",
+        "App_id": "1324350",
+        "Subreddit": "TurboGolfRacing",
+        "Twitter": "TurboGolfRacing",
+        "Twitch_id": "1350267695",
+        "Athena_Name": "turbo golf racing"
+    },
+    {
+        "id": "607",
+        "Game": "Two Point Campus",
+        "App_id": "1649080",
+        "Subreddit": "TwoPointCampus",
+        "Twitter": "TwoPointCampus",
+        "Twitch_id": "1393686646",
+        "Athena_Name": "two point campus"
+    },
+    {
+        "id": "608",
+        "Game": "Uncharted: Legacy of Thieves Collection ",
+        "App_id": "1659420",
+        "Subreddit": "uncharted",
+        "Twitter": "naughty_dog",
+        "Twitch_id": "458641",
+        "Athena_Name": "uncharted\u2122: legacy of thieves collection"
+    },
+    {
+        "id": "609",
+        "Game": "UNCHARTED\u2122: Legacy of Thieves Collection",
+        "App_id": "1659420",
+        "Subreddit": "Uncharted",
+        "Twitter": "naughty_dog",
+        "Twitch_id": "458641",
+        "Athena_Name": "uncharted\u2122: legacy of thieves collection"
+    },
+    {
+        "id": "610",
+        "Game": "Undecember",
+        "App_id": "1549250",
+        "Subreddit": "undecemebergame",
+        "Twitter": "undecemebergame",
+        "Twitch_id": "145787409",
+        "Athena_Name": "undecember"
+    },
+    {
+        "id": "611",
+        "Game": "Under the Waves",
+        "App_id": "1975440",
+        "Subreddit": "-1",
+        "Twitter": "Quantic_Dream",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "612",
+        "Game": "Unknown 9: Awakening",
+        "App_id": "999999",
+        "Subreddit": "unknown9",
+        "Twitter": "Unknown9",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "613",
+        "Game": "Unoffensible",
+        "App_id": "1648700",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "1167761058",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "614",
+        "Game": "Unturned",
+        "App_id": "304930",
+        "Subreddit": "Unturned",
+        "Twitter": "unturnedonsteam",
+        "Twitch_id": "417932",
+        "Athena_Name": "unturned"
+    },
+    {
+        "id": "615",
+        "Game": "Vail VR",
+        "App_id": "801550",
+        "Subreddit": "vailvr",
+        "Twitter": "playvailvr",
+        "Twitch_id": "1405679224",
+        "Athena_Name": "vail vr"
+    },
+    {
+        "id": "616",
+        "Game": "VALHALL: Harbinger",
+        "App_id": "908740",
+        "Subreddit": "VALHALL",
+        "Twitter": "valhallgame",
+        "Twitch_id": "506128",
+        "Athena_Name": "valhall: harbinger"
+    },
+    {
+        "id": "617",
+        "Game": "Valheim",
+        "App_id": "892970",
+        "Subreddit": "valheim",
+        "Twitter": "ValheimGame",
+        "Twitch_id": "508455",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "618",
+        "Game": "Valkyrie Elysium",
+        "App_id": "1963210",
+        "Subreddit": "ValkyrieElysium",
+        "Twitter": "valkyriegame",
+        "Twitch_id": "163564960",
+        "Athena_Name": "valkyrie elysium"
+    },
+    {
+        "id": "619",
+        "Game": "Valorant",
+        "App_id": "999999",
+        "Subreddit": "valorant",
+        "Twitter": "playValorant",
+        "Twitch_id": "516575",
+        "Athena_Name": "valorant"
+    },
+    {
+        "id": "620",
+        "Game": "VALORANT",
+        "App_id": "999999",
+        "Subreddit": "VALORANT",
+        "Twitter": "PlayVALORANT",
+        "Twitch_id": "516575",
+        "Athena_Name": "valorant"
+    },
+    {
+        "id": "621",
+        "Game": "Vampire Survivors",
+        "App_id": "1794680",
+        "Subreddit": "VampireSurvivors",
+        "Twitter": "poncle_vampire",
+        "Twitch_id": "1833694612",
+        "Athena_Name": "vampire survivors"
+    },
+    {
+        "id": "622",
+        "Game": "Vampire: The Masquerade - Bloodhunt",
+        "App_id": "760160",
+        "Subreddit": "Bloodhunt",
+        "Twitter": "Bloodhunt",
+        "Twitch_id": "1411398523",
+        "Athena_Name": "vampire: the masquerade - bloodhunt"
+    },
+    {
+        "id": "623",
+        "Game": "Vampire: The Masquerade \u2013 Swansong",
+        "App_id": "999999",
+        "Subreddit": "vtmb",
+        "Twitter": "VampireSwansong",
+        "Twitch_id": "515062",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "624",
+        "Game": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2",
+        "App_id": "532790",
+        "Subreddit": "vtmb",
+        "Twitter": "vtm_bloodlines",
+        "Twitch_id": "511848",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "625",
+        "Game": "Vampyr",
+        "App_id": "427290",
+        "Subreddit": "Vampyr",
+        "Twitter": "VampyrGame",
+        "Twitch_id": "488758",
+        "Athena_Name": "vampyr"
+    },
+    {
+        "id": "626",
+        "Game": "Veiled Experts",
+        "App_id": "1934780",
+        "Subreddit": "veiledexperts",
+        "Twitter": "VEILEDEXPERTS",
+        "Twitch_id": "864744225",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "627",
+        "Game": "VEIN",
+        "App_id": "1857950",
+        "Subreddit": "-1",
+        "Twitter": "veinsurvival",
+        "Twitch_id": "1760371307",
+        "Athena_Name": "vein"
+    },
+    {
+        "id": "628",
+        "Game": "VHS",
+        "App_id": "611360",
+        "Subreddit": "VHSgame",
+        "Twitter": "VHSTheGame",
+        "Twitch_id": "642328546",
+        "Athena_Name": "vhs"
+    },
+    {
+        "id": "629",
+        "Game": "Victoria 3",
+        "App_id": "529340",
+        "Subreddit": "victoria3",
+        "Twitter": "PDXVictoria",
+        "Twitch_id": "1768423951",
+        "Athena_Name": "victoria 3"
+    },
+    {
+        "id": "630",
+        "Game": "Voidtrain",
+        "App_id": "1159690",
+        "Subreddit": "voidtrain",
+        "Twitter": "PlayVoidTrain",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "631",
+        "Game": "VRChat",
+        "App_id": "438100",
+        "Subreddit": "VRChat",
+        "Twitter": "VRChat",
+        "Twitch_id": "499003",
+        "Athena_Name": "vrchat"
+    },
+    {
+        "id": "632",
+        "Game": "War Thunder",
+        "App_id": "236390",
+        "Subreddit": "WarThunder",
+        "Twitter": "WarThunder",
+        "Twitch_id": "66366",
+        "Athena_Name": "war thunder"
+    },
+    {
+        "id": "633",
+        "Game": "Warface",
+        "App_id": "291480",
+        "Subreddit": "Warface",
+        "Twitter": "Warface",
+        "Twitch_id": "29918",
+        "Athena_Name": "warface"
+    },
+    {
+        "id": "634",
+        "Game": "Warframe",
+        "App_id": "230410",
+        "Subreddit": "Warframe",
+        "Twitter": "PlayWarframe",
+        "Twitch_id": "66170",
+        "Athena_Name": "warframe"
+    },
+    {
+        "id": "635",
+        "Game": "Warhammer 40,000: Boltgun",
+        "App_id": "2005010",
+        "Subreddit": "Warhammer",
+        "Twitter": "Focus_entmt",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "636",
+        "Game": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+        "App_id": "1611910",
+        "Subreddit": "40kLore",
+        "Twitter": "ChaosGate",
+        "Twitch_id": "2047407036",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "637",
+        "Game": "Warhammer 40,000: Darktide",
+        "App_id": "1361210",
+        "Subreddit": "DarkTide",
+        "Twitter": "Darktide40K",
+        "Twitch_id": "518873",
+        "Athena_Name": "warhammer 40"
+    },
+    {
+        "id": "638",
+        "Game": "Warhammer: Vermintide 2",
+        "App_id": "552500",
+        "Subreddit": "Vermintide",
+        "Twitter": "VermintideGame",
+        "Twitch_id": "498668",
+        "Athena_Name": "warhammer: vermintide 2"
+    },
+    {
+        "id": "639",
+        "Game": "Warhaven",
+        "App_id": "2107670",
+        "Subreddit": "Warhaven",
+        "Twitter": "warhavengame",
+        "Twitch_id": "197105496",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "640",
+        "Game": "Wartales",
+        "App_id": "1527950",
+        "Subreddit": "WarTalesGame",
+        "Twitter": "Wartales_Game",
+        "Twitch_id": "749092120",
+        "Athena_Name": "wartales"
+    },
+    {
+        "id": "641",
+        "Game": "Watch Dogs: Legion",
+        "App_id": "999999",
+        "Subreddit": "WatchDogs_Legion",
+        "Twitter": "WatchDogsGame",
+        "Twitch_id": "512895",
+        "Athena_Name": "watch dogs: legion"
+    },
+    {
+        "id": "642",
+        "Game": "Watch_Dogs 2",
+        "App_id": "447040",
+        "Subreddit": "Watch_Dogs",
+        "Twitter": "WatchDogsGame",
+        "Twitch_id": "492930",
+        "Athena_Name": "watch_dogs 2"
+    },
+    {
+        "id": "643",
+        "Game": "Wayfinder",
+        "App_id": "1171690",
+        "Subreddit": "PlayWayfinder",
+        "Twitter": "playwayfinder",
+        "Twitch_id": "759904815",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "644",
+        "Game": "We Happy Few",
+        "App_id": "320240",
+        "Subreddit": "wehappyfew",
+        "Twitter": "wehappyfewgame",
+        "Twitch_id": "489069",
+        "Athena_Name": "we happy few"
+    },
+    {
+        "id": "645",
+        "Game": "Weird West",
+        "App_id": "1097350",
+        "Subreddit": "WeirdWest_Community",
+        "Twitter": "WolfEyeGames",
+        "Twitch_id": "515498",
+        "Athena_Name": "weird west"
+    },
+    {
+        "id": "646",
+        "Game": "Wild Hearts ",
+        "App_id": "1938010",
+        "Subreddit": "WildHeartsGame",
+        "Twitter": "playWildHearts",
+        "Twitch_id": "168850344",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "647",
+        "Game": "Witchfire",
+        "App_id": "999999",
+        "Subreddit": "Witchfire",
+        "Twitter": "-1",
+        "Twitch_id": "500628",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "648",
+        "Game": "Wo Long: Fallen Dynasty",
+        "App_id": "1448440",
+        "Subreddit": "wolongfallendynasty",
+        "Twitter": "wolongofficial",
+        "Twitch_id": "1450386257",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "649",
+        "Game": "Wolfenstein II: The New Colossus",
+        "App_id": "612880",
+        "Subreddit": "Wolfenstein",
+        "Twitter": "wolfenstein",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "650",
+        "Game": "Wolfenstein: Youngblood",
+        "App_id": "1056960",
+        "Subreddit": "wolfenstein",
+        "Twitter": "wolfenstein",
+        "Twitch_id": "506440",
+        "Athena_Name": "wolfenstein: youngblood"
+    },
+    {
+        "id": "651",
+        "Game": "World of Tanks",
+        "App_id": "444200",
+        "Subreddit": "WorldOfTanksBlitz",
+        "Twitter": "WoTBlitz",
+        "Twitch_id": "27546",
+        "Athena_Name": "world of tanks"
+    },
+    {
+        "id": "652",
+        "Game": "World of Warcraft",
+        "App_id": "999999",
+        "Subreddit": "wow",
+        "Twitter": "warcraft",
+        "Twitch_id": "18122",
+        "Athena_Name": "world of warcraft"
+    },
+    {
+        "id": "653",
+        "Game": "World of Warcraft Classic Wrath of the Lich King ",
+        "App_id": "999999",
+        "Subreddit": "wotlk",
+        "Twitter": "warcraft",
+        "Twitch_id": "18122",
+        "Athena_Name": "world of warcraft"
+    },
+    {
+        "id": "654",
+        "Game": "World of Warcraft: Battle for Azeroth",
+        "App_id": "999999",
+        "Subreddit": "wow",
+        "Twitter": "warcraft",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "655",
+        "Game": "World of Warcraft: Dragonflight",
+        "App_id": "999999",
+        "Subreddit": "wow",
+        "Twitter": "warcraft",
+        "Twitch_id": "18122",
+        "Athena_Name": "world of warcraft"
+    },
+    {
+        "id": "656",
+        "Game": "World of Warcraft: Shadowlands",
+        "App_id": "999999",
+        "Subreddit": "wow",
+        "Twitter": "warcraft",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "657",
+        "Game": "World of Warships",
+        "App_id": "552990",
+        "Subreddit": "WorldOfWarships",
+        "Twitter": "WorldOfWarships",
+        "Twitch_id": "32502",
+        "Athena_Name": "world of warships"
+    },
+    {
+        "id": "658",
+        "Game": "World War 3",
+        "App_id": "674020",
+        "Subreddit": "WorldWar3Community",
+        "Twitter": "ww3thegame",
+        "Twitch_id": "505956",
+        "Athena_Name": "world war 3"
+    },
+    {
+        "id": "659",
+        "Game": "World War Z: Aftermath",
+        "App_id": "699130",
+        "Subreddit": "worldwarzthegame",
+        "Twitter": "wwzthegame",
+        "Twitch_id": "1280358639",
+        "Athena_Name": "world war z: aftermath"
+    },
+    {
+        "id": "660",
+        "Game": "Wreckreation",
+        "App_id": "1594040",
+        "Subreddit": "wreckreation",
+        "Twitter": "THQNordic",
+        "Twitch_id": "1436968331",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "661",
+        "Game": "Wuchang: Fallen Feathers",
+        "App_id": "999999",
+        "Subreddit": "-1",
+        "Twitter": "playWUCHANG",
+        "Twitch_id": "382835903",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "662",
+        "Game": "WWE 2K22",
+        "App_id": "1255630",
+        "Subreddit": "WWE2K22",
+        "Twitter": "WWEgames",
+        "Twitch_id": "1199725270",
+        "Athena_Name": "wwe 2k22"
+    },
+    {
+        "id": "663",
+        "Game": "WWE 2K23",
+        "App_id": "1942660",
+        "Subreddit": "WWE2K23",
+        "Twitter": "WWEgames",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "664",
+        "Game": "XCOM 2",
+        "App_id": "268500",
+        "Subreddit": "XCOM2",
+        "Twitter": "XCOM",
+        "Twitch_id": "489767",
+        "Athena_Name": "xcom 2"
+    },
+    {
+        "id": "665",
+        "Game": "XDefiant",
+        "App_id": "999999",
+        "Subreddit": "Xdefiant",
+        "Twitter": "PlayXDefiant",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "666",
+        "Game": "Xuan Yuan Sword 7",
+        "App_id": "1249800",
+        "Subreddit": "-1",
+        "Twitter": "-1",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "667",
+        "Game": "Yu-Gi-Oh! Master Duel",
+        "App_id": "1449850",
+        "Subreddit": "masterduel",
+        "Twitter": "masterduelsite",
+        "Twitch_id": "1119642287",
+        "Athena_Name": "yu-gi-oh! master duel"
+    },
+    {
+        "id": "668",
+        "Game": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+        "App_id": "1468810",
+        "Subreddit": "TaleofImmortal",
+        "Twitter": "TaleofImmortal",
+        "Twitch_id": "731378006",
+        "Athena_Name": "\u9b3c\u8c37\u516b\u8352 tale of immortal"
+    },
+    {
+        "id": "669",
+        "Game": "Sifu",
+        "App_id": "2138710",
+        "Subreddit": "SifuGame",
+        "Twitter": "SifuGame",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    },
+    {
+        "id": "670",
+        "Game": "Illuvium",
+        "App_id": "999999",
+        "Subreddit": "Illuvium",
+        "Twitter": "illuviumio",
+        "Twitch_id": "-1",
+        "Athena_Name": "Unavailable"
+    }
+]
